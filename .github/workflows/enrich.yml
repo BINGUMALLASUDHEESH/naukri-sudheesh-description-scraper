@@ -1,0 +1,165 @@
+name: Naukri Description Enricher (Parallel - 15 shards)
+
+permissions:
+  contents: write
+
+concurrency:
+  group: naukri-enricher
+  cancel-in-progress: false
+
+on:
+  workflow_dispatch:
+    inputs:
+      input_csv:
+        description: "Which CSV to enrich (must already exist in the repo)"
+        required: false
+        default: "naukri_jobs_all.csv"
+  schedule:
+    - cron: "0 */6 * * *"
+
+env:
+  SHARD_COUNT: 15
+  INPUT_CSV: ${{ github.event.inputs.input_csv || 'naukri_jobs_all.csv' }}
+
+jobs:
+  # ------------------------------------------------------------------
+  # JOB 1: Count how many data rows are in the input CSV (no browser
+  # needed - unlike the scraper's "resolve" job, row count is already
+  # known from the file itself once it's checked out).
+  # ------------------------------------------------------------------
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      total_rows: ${{ steps.count.outputs.total_rows }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Count data rows (excluding header)
+        id: count
+        run: |
+          if [ ! -f "${{ env.INPUT_CSV }}" ]; then
+            echo "Input file ${{ env.INPUT_CSV }} not found in repo!"
+            exit 1
+          fi
+          TOTAL=$(($(wc -l < "${{ env.INPUT_CSV }}") - 1))
+          echo "total_rows=$TOTAL" >> "$GITHUB_OUTPUT"
+          echo "Found $TOTAL data rows in ${{ env.INPUT_CSV }}"
+
+  # ------------------------------------------------------------------
+  # JOB 2: 15 parallel shards, each enriching a distinct slice of rows.
+  # Each writes naukri_jobs_enriched_shard<N>.csv / enrich_log_shard<N>.txt
+  # and uploads them as an artifact (no direct push - avoids collisions).
+  # ------------------------------------------------------------------
+  enrich:
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browser (Chromium)
+        run: node node_modules/playwright/cli.js install --with-deps chromium
+
+      - name: Compute this shard's row range
+        id: range
+        run: |
+          TOTAL=${{ needs.prepare.outputs.total_rows }}
+          N=${{ env.SHARD_COUNT }}
+          SHARD=${{ matrix.shard }}
+          CHUNK=$(( (TOTAL + N - 1) / N ))
+          START=$(( (SHARD - 1) * CHUNK + 1 ))
+          END=$(( SHARD * CHUNK ))
+          if [ "$END" -gt "$TOTAL" ]; then END=$TOTAL; fi
+          echo "start=$START" >> "$GITHUB_OUTPUT"
+          echo "end=$END" >> "$GITHUB_OUTPUT"
+          echo "Shard ${SHARD}/${N}: rows ${START}-${END} (of ${TOTAL} total)"
+
+      - name: Run enricher for this shard
+        env:
+          SHARD_ID: ${{ matrix.shard }}
+          START_ROW: ${{ steps.range.outputs.start }}
+          END_ROW: ${{ steps.range.outputs.end }}
+          INPUT_CSV: ${{ env.INPUT_CSV }}
+        run: xvfb-run -a node enrich_descriptions.js
+
+      - name: Upload this shard's enriched CSV and log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: enrich-shard-${{ matrix.shard }}-results
+          path: |
+            naukri_jobs_enriched_shard${{ matrix.shard }}.csv
+            enrich_log_shard${{ matrix.shard }}.txt
+          if-no-files-found: warn
+          retention-days: 14
+
+  # ------------------------------------------------------------------
+  # JOB 3: Merge all 15 shards into one final enriched CSV and push.
+  # ------------------------------------------------------------------
+  merge:
+    needs: enrich
+    if: always()
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download all shard artifacts
+        uses: actions/download-artifact@v4
+        with:
+          pattern: enrich-shard-*-results
+          path: shard-artifacts
+          merge-multiple: true
+
+      - name: Move shard files into repo root
+        run: |
+          cp shard-artifacts/*.csv . 2>/dev/null || true
+          cp shard-artifacts/*.txt . 2>/dev/null || true
+          ls -la naukri_jobs_enriched_shard*.csv enrich_log_shard*.txt 2>/dev/null || echo "No shard files found yet"
+
+      - name: Merge shard CSVs (header once, then all data rows, in row order)
+        run: |
+          python3 - <<'EOF'
+          import csv, glob, re
+
+          files = sorted(
+              glob.glob('naukri_jobs_enriched_shard*.csv'),
+              key=lambda f: int(re.search(r'shard(\d+)', f).group(1))
+          )
+
+          all_rows = []
+          fieldnames = None
+          for f in files:
+              with open(f, newline='', encoding='utf-8') as fh:
+                  reader = csv.DictReader(fh)
+                  if fieldnames is None:
+                      fieldnames = reader.fieldnames
+                  all_rows.extend(list(reader))
+
+          if fieldnames:
+              with open('naukri_jobs_all_enriched.csv', 'w', newline='', encoding='utf-8') as out:
+                  writer = csv.DictWriter(out, fieldnames=fieldnames)
+                  writer.writeheader()
+                  writer.writerows(all_rows)
+              print(f"Merged {len(all_rows)} rows from {len(files)} shard files into naukri_jobs_all_enriched.csv")
+          else:
+              print("No shard files found to merge.")
+          EOF
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add naukri_jobs_enriched_shard*.csv enrich_log_shard*.txt naukri_jobs_all_enriched.csv 2>/dev/null || true
+          git diff --cached --quiet || git commit -m "Description enrichment update: $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
