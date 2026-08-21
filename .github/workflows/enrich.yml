@@ -14,8 +14,8 @@ on:
         description: "Which CSV to enrich (must already exist in the repo)"
         required: false
         default: "naukri_jobs_all.csv"
-  schedule:
-    - cron: "0 */6 * * *"
+  # schedule:
+  #   - cron: "0 */6 * * *"
 
 env:
   SHARD_COUNT: 15
