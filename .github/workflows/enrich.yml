@@ -19,7 +19,7 @@ on:
 
 env:
   SHARD_COUNT: 15
-  INPUT_CSV: ${{ github.event.inputs.input_csv || 'naukri_jobs_all.csv' }}
+  INPUT_CSV: ${{ github.event.inputs.input_csv || 'jobs_experience_0-1.csv' }}
 
 jobs:
   # ------------------------------------------------------------------
