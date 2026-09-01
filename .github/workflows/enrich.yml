@@ -13,7 +13,7 @@ on:
       input_csv:
         description: "Which CSV to enrich (must already exist in the repo)"
         required: false
-        default: "naukri_jobs_all.csv"
+        default: "jobs_experience_0-1.csv"
   # schedule:
   #   - cron: "0 */6 * * *"
 
