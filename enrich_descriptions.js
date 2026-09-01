@@ -44,7 +44,7 @@ const SHARD_ID = process.env.SHARD_ID || '';
 const shardSuffix = SHARD_ID ? `_shard${SHARD_ID}` : '';
 
 const CONFIG = {
-  INPUT_CSV: process.env.INPUT_CSV || path.join(__dirname, 'naukri_jobs_all.csv'),
+  INPUT_CSV: process.env.INPUT_CSV || path.join(__dirname, 'jobs_experience_0-1.csv'),
   OUTPUT_CSV: path.join(__dirname, `naukri_jobs_enriched${shardSuffix}.csv`),
   LOG_FILE: path.join(__dirname, `enrich_log${shardSuffix}.txt`),
 
