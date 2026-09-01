@@ -6,7 +6,7 @@ on:
       folder:
         description: 'Folder to clean (relative to repo root, e.g. "data" or "." for repo root)'
         required: true
-        default: 'data'
+        default: '.'
       dry_run:
         description: 'Dry run only (list files, do not delete)'
         required: true
@@ -23,6 +23,10 @@ jobs:
       - name: List files that will be deleted
         run: |
           echo "Looking inside: ${{ github.event.inputs.folder }}"
+          if [ ! -d "${{ github.event.inputs.folder }}" ]; then
+            echo "::error::Folder '${{ github.event.inputs.folder }}' does not exist in this repo. Check the input and try again."
+            exit 1
+          fi
           find "${{ github.event.inputs.folder }}" -type f \( -iname "*.csv" -o -iname "*.txt" \) -print
 
       - name: Delete CSV and TXT files
