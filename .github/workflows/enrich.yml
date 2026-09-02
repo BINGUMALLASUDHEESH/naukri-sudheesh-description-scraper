@@ -13,13 +13,13 @@ on:
       input_csv:
         description: "Which CSV to enrich (must already exist in the repo)"
         required: false
-        default: "jobs_experience_8-10.csv"
+        default: "jobs_experience_10-15.csv"
   # schedule:
   #   - cron: "0 */6 * * *"
 
 env:
   SHARD_COUNT: 15
-  INPUT_CSV: ${{ github.event.inputs.input_csv || 'jobs_experience_8-10.csv' }}
+  INPUT_CSV: ${{ github.event.inputs.input_csv || 'jobs_experience_10-15.csv' }}
 
 jobs:
   # ------------------------------------------------------------------
