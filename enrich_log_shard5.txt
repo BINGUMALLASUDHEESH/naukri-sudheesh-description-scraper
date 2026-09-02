@@ -1,0 +1,635 @@
+[2026-09-02T07:35:21.636Z] [shard 5] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T07:35:21.638Z] [shard 5] SHARDED MODE: processing rows 821-1025 (of 3074 total)
+[2026-09-02T07:35:22.638Z] [shard 5] JOBID 260526504016 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-lead-automation-ai-krazy-mantra-hr-solutions-bengaluru-11-to-19-years-260526504016
+[2026-09-02T07:35:52.641Z] [shard 5] JOBID 260526504016 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:35:54.710Z] [shard 5] JOBID 260526504016 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-lead-automation-ai-krazy-mantra-hr-solutions-bengaluru-11-to-19-years-260526504016
+[2026-09-02T07:36:24.729Z] [shard 5] JOBID 260526504016 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:36:26.791Z] [shard 5] JOBID 260526504016 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-lead-automation-ai-krazy-mantra-hr-solutions-bengaluru-11-to-19-years-260526504016
+[2026-09-02T07:36:56.811Z] [shard 5] JOBID 260526504016 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:36:56.828Z] [shard 5] JOBID 260526504016 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:36:58.868Z] [shard 5] JOBID 260526503523 attempt 1/3 - opening https://www.naukri.com/job-listings-oracle-ai-architect-tech-stalwart-solution-private-limited-chandigarh-10-to-15-years-260526503523
+[2026-09-02T07:37:28.892Z] [shard 5] JOBID 260526503523 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:37:30.947Z] [shard 5] JOBID 260526503523 attempt 2/3 - opening https://www.naukri.com/job-listings-oracle-ai-architect-tech-stalwart-solution-private-limited-chandigarh-10-to-15-years-260526503523
+[2026-09-02T07:38:00.960Z] [shard 5] JOBID 260526503523 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:38:03.026Z] [shard 5] JOBID 260526503523 attempt 3/3 - opening https://www.naukri.com/job-listings-oracle-ai-architect-tech-stalwart-solution-private-limited-chandigarh-10-to-15-years-260526503523
+[2026-09-02T07:38:33.038Z] [shard 5] JOBID 260526503523 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:38:33.057Z] [shard 5] JOBID 260526503523 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:38:35.103Z] [shard 5] JOBID 260526502204 attempt 1/3 - opening https://www.naukri.com/job-listings-solution-architect-ai-gcp-generative-ai-rag-sparix-global-private-limited-prayagraj-varanasi-ghaziabad-kanpur-lucknow-agra-10-to-15-years-260526502204
+[2026-09-02T07:39:05.126Z] [shard 5] JOBID 260526502204 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:39:07.191Z] [shard 5] JOBID 260526502204 attempt 2/3 - opening https://www.naukri.com/job-listings-solution-architect-ai-gcp-generative-ai-rag-sparix-global-private-limited-prayagraj-varanasi-ghaziabad-kanpur-lucknow-agra-10-to-15-years-260526502204
+[2026-09-02T07:39:37.215Z] [shard 5] JOBID 260526502204 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:39:39.275Z] [shard 5] JOBID 260526502204 attempt 3/3 - opening https://www.naukri.com/job-listings-solution-architect-ai-gcp-generative-ai-rag-sparix-global-private-limited-prayagraj-varanasi-ghaziabad-kanpur-lucknow-agra-10-to-15-years-260526502204
+[2026-09-02T07:40:09.294Z] [shard 5] JOBID 260526502204 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:40:09.312Z] [shard 5] JOBID 260526502204 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:40:11.356Z] [shard 5] JOBID 260526501313 attempt 1/3 - opening https://www.naukri.com/job-listings-enterprise-sales-leader-hyperautomation-agentic-ai-automationedge-mumbai-12-to-18-years-260526501313
+[2026-09-02T07:40:41.379Z] [shard 5] JOBID 260526501313 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:40:43.437Z] [shard 5] JOBID 260526501313 attempt 2/3 - opening https://www.naukri.com/job-listings-enterprise-sales-leader-hyperautomation-agentic-ai-automationedge-mumbai-12-to-18-years-260526501313
+[2026-09-02T07:41:13.461Z] [shard 5] JOBID 260526501313 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:41:15.520Z] [shard 5] JOBID 260526501313 attempt 3/3 - opening https://www.naukri.com/job-listings-enterprise-sales-leader-hyperautomation-agentic-ai-automationedge-mumbai-12-to-18-years-260526501313
+[2026-09-02T07:41:45.526Z] [shard 5] JOBID 260526501313 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:41:45.543Z] [shard 5] JOBID 260526501313 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:41:47.589Z] [shard 5] JOBID 260526500650 attempt 1/3 - opening https://www.naukri.com/job-listings-product-leader-product-director-ai-upstox-mumbai-10-to-15-years-260526500650
+[2026-09-02T07:42:17.612Z] [shard 5] JOBID 260526500650 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:42:19.671Z] [shard 5] JOBID 260526500650 attempt 2/3 - opening https://www.naukri.com/job-listings-product-leader-product-director-ai-upstox-mumbai-10-to-15-years-260526500650
+[2026-09-02T07:42:49.694Z] [shard 5] JOBID 260526500650 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:42:51.750Z] [shard 5] JOBID 260526500650 attempt 3/3 - opening https://www.naukri.com/job-listings-product-leader-product-director-ai-upstox-mumbai-10-to-15-years-260526500650
+[2026-09-02T07:43:21.773Z] [shard 5] JOBID 260526500650 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:43:21.789Z] [shard 5] JOBID 260526500650 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:43:23.831Z] [shard 5] JOBID 260326500936 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-lead-engineer-sanlayan-bengaluru-10-to-12-years-260326500936
+[2026-09-02T07:43:53.854Z] [shard 5] JOBID 260326500936 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:43:55.909Z] [shard 5] JOBID 260326500936 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-lead-engineer-sanlayan-bengaluru-10-to-12-years-260326500936
+[2026-09-02T07:44:25.925Z] [shard 5] JOBID 260326500936 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:44:27.983Z] [shard 5] JOBID 260326500936 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-lead-engineer-sanlayan-bengaluru-10-to-12-years-260326500936
+[2026-09-02T07:44:58.006Z] [shard 5] JOBID 260326500936 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:44:58.021Z] [shard 5] JOBID 260326500936 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:45:00.067Z] [shard 5] JOBID 260226504667 attempt 1/3 - opening https://www.naukri.com/job-listings-vp-agritech-intelligence-tradetronix-bengaluru-11-to-16-years-260226504667
+[2026-09-02T07:45:30.090Z] [shard 5] JOBID 260226504667 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:45:32.148Z] [shard 5] JOBID 260226504667 attempt 2/3 - opening https://www.naukri.com/job-listings-vp-agritech-intelligence-tradetronix-bengaluru-11-to-16-years-260226504667
+[2026-09-02T07:46:02.167Z] [shard 5] JOBID 260226504667 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:46:04.230Z] [shard 5] JOBID 260226504667 attempt 3/3 - opening https://www.naukri.com/job-listings-vp-agritech-intelligence-tradetronix-bengaluru-11-to-16-years-260226504667
+[2026-09-02T07:46:34.231Z] [shard 5] JOBID 260226504667 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:46:34.248Z] [shard 5] JOBID 260226504667 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:46:36.296Z] [shard 5] JOBID 260226504664 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-specialist-tradetronix-bengaluru-10-to-15-years-260226504664
+[2026-09-02T07:47:06.320Z] [shard 5] JOBID 260226504664 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:47:08.374Z] [shard 5] JOBID 260226504664 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-specialist-tradetronix-bengaluru-10-to-15-years-260226504664
+[2026-09-02T07:47:38.393Z] [shard 5] JOBID 260226504664 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:47:40.449Z] [shard 5] JOBID 260226504664 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-specialist-tradetronix-bengaluru-10-to-15-years-260226504664
+[2026-09-02T07:48:10.463Z] [shard 5] JOBID 260226504664 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:48:10.477Z] [shard 5] JOBID 260226504664 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:48:12.521Z] [shard 5] JOBID 260226504651 attempt 1/3 - opening https://www.naukri.com/job-listings-vp-ai-enterprise-solutions-tradetronix-bengaluru-14-to-20-years-260226504651
+[2026-09-02T07:48:42.545Z] [shard 5] JOBID 260226504651 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:48:44.603Z] [shard 5] JOBID 260226504651 attempt 2/3 - opening https://www.naukri.com/job-listings-vp-ai-enterprise-solutions-tradetronix-bengaluru-14-to-20-years-260226504651
+[2026-09-02T07:49:14.626Z] [shard 5] JOBID 260226504651 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:49:16.683Z] [shard 5] JOBID 260226504651 attempt 3/3 - opening https://www.naukri.com/job-listings-vp-ai-enterprise-solutions-tradetronix-bengaluru-14-to-20-years-260226504651
+[2026-09-02T07:49:46.706Z] [shard 5] JOBID 260226504651 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:49:46.723Z] [shard 5] JOBID 260226504651 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:49:48.767Z] [shard 5] JOBID 260226504649 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-specialist-tradetronix-bengaluru-10-to-15-years-260226504649
+[2026-09-02T07:50:18.790Z] [shard 5] JOBID 260226504649 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:50:20.851Z] [shard 5] JOBID 260226504649 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-specialist-tradetronix-bengaluru-10-to-15-years-260226504649
+[2026-09-02T07:50:50.875Z] [shard 5] JOBID 260226504649 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:50:52.938Z] [shard 5] JOBID 260226504649 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-specialist-tradetronix-bengaluru-10-to-15-years-260226504649
+[2026-09-02T07:51:22.951Z] [shard 5] JOBID 260226504649 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:51:22.969Z] [shard 5] JOBID 260226504649 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:51:25.010Z] [shard 5] JOBID 260226504643 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-agent-engineer-tradetronix-bengaluru-10-to-15-years-260226504643
+[2026-09-02T07:51:55.033Z] [shard 5] JOBID 260226504643 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:51:57.094Z] [shard 5] JOBID 260226504643 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-agent-engineer-tradetronix-bengaluru-10-to-15-years-260226504643
+[2026-09-02T07:52:27.117Z] [shard 5] JOBID 260226504643 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:52:29.175Z] [shard 5] JOBID 260226504643 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-agent-engineer-tradetronix-bengaluru-10-to-15-years-260226504643
+[2026-09-02T07:52:59.198Z] [shard 5] JOBID 260226504643 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:52:59.215Z] [shard 5] JOBID 260226504643 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:53:01.256Z] [shard 5] JOBID 260226504624 attempt 1/3 - opening https://www.naukri.com/job-listings-vp-manufacturing-ai-tradetronix-bengaluru-12-to-15-years-260226504624
+[2026-09-02T07:53:31.279Z] [shard 5] JOBID 260226504624 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:53:33.346Z] [shard 5] JOBID 260226504624 attempt 2/3 - opening https://www.naukri.com/job-listings-vp-manufacturing-ai-tradetronix-bengaluru-12-to-15-years-260226504624
+[2026-09-02T07:54:03.370Z] [shard 5] JOBID 260226504624 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:54:05.433Z] [shard 5] JOBID 260226504624 attempt 3/3 - opening https://www.naukri.com/job-listings-vp-manufacturing-ai-tradetronix-bengaluru-12-to-15-years-260226504624
+[2026-09-02T07:54:35.442Z] [shard 5] JOBID 260226504624 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:54:35.461Z] [shard 5] JOBID 260226504624 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:54:37.503Z] [shard 5] JOBID 251025504238 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-infrastructure-systems-solutions-architect-bayone-solutions-gurugram-10-to-15-years-251025504238
+[2026-09-02T07:55:07.511Z] [shard 5] JOBID 251025504238 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:55:09.573Z] [shard 5] JOBID 251025504238 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-infrastructure-systems-solutions-architect-bayone-solutions-gurugram-10-to-15-years-251025504238
+[2026-09-02T07:55:39.575Z] [shard 5] JOBID 251025504238 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:55:41.636Z] [shard 5] JOBID 251025504238 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-infrastructure-systems-solutions-architect-bayone-solutions-gurugram-10-to-15-years-251025504238
+[2026-09-02T07:56:11.655Z] [shard 5] JOBID 251025504238 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:56:11.673Z] [shard 5] JOBID 251025504238 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:56:13.713Z] [shard 5] JOBID 250626505684 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-principal-engineer-ai-ml-system-level-validation-advanced-micro-devices-inc-hyderabad-12-to-17-years-250626505684
+[2026-09-02T07:56:43.737Z] [shard 5] JOBID 250626505684 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:56:45.800Z] [shard 5] JOBID 250626505684 attempt 2/3 - opening https://www.naukri.com/job-listings-staff-principal-engineer-ai-ml-system-level-validation-advanced-micro-devices-inc-hyderabad-12-to-17-years-250626505684
+[2026-09-02T07:57:15.816Z] [shard 5] JOBID 250626505684 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:57:17.875Z] [shard 5] JOBID 250626505684 attempt 3/3 - opening https://www.naukri.com/job-listings-staff-principal-engineer-ai-ml-system-level-validation-advanced-micro-devices-inc-hyderabad-12-to-17-years-250626505684
+[2026-09-02T07:57:47.895Z] [shard 5] JOBID 250626505684 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:57:47.910Z] [shard 5] JOBID 250626505684 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:57:49.950Z] [shard 5] JOBID 240826920301 attempt 1/3 - opening https://www.naukri.com/job-listings-architect-cloud-platform-engineering-techblocks-consulting-pvt-ltd-hyderabad-12-to-17-years-240826920301
+[2026-09-02T07:58:19.959Z] [shard 5] JOBID 240826920301 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:58:22.023Z] [shard 5] JOBID 240826920301 attempt 2/3 - opening https://www.naukri.com/job-listings-architect-cloud-platform-engineering-techblocks-consulting-pvt-ltd-hyderabad-12-to-17-years-240826920301
+[2026-09-02T07:58:52.041Z] [shard 5] JOBID 240826920301 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:58:54.099Z] [shard 5] JOBID 240826920301 attempt 3/3 - opening https://www.naukri.com/job-listings-architect-cloud-platform-engineering-techblocks-consulting-pvt-ltd-hyderabad-12-to-17-years-240826920301
+[2026-09-02T07:59:24.100Z] [shard 5] JOBID 240826920301 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:59:24.116Z] [shard 5] JOBID 240826920301 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:59:26.159Z] [shard 5] JOBID 240826920199 attempt 1/3 - opening https://www.naukri.com/job-listings-procurement-practice-senior-analyst-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-240826920199
+[2026-09-02T07:59:56.182Z] [shard 5] JOBID 240826920199 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:59:58.248Z] [shard 5] JOBID 240826920199 attempt 2/3 - opening https://www.naukri.com/job-listings-procurement-practice-senior-analyst-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-240826920199
+[2026-09-02T08:00:28.271Z] [shard 5] JOBID 240826920199 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:00:30.332Z] [shard 5] JOBID 240826920199 attempt 3/3 - opening https://www.naukri.com/job-listings-procurement-practice-senior-analyst-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-240826920199
+[2026-09-02T08:01:00.356Z] [shard 5] JOBID 240826920199 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:01:00.376Z] [shard 5] JOBID 240826920199 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:01:02.418Z] [shard 5] JOBID 240826919980 attempt 1/3 - opening https://www.naukri.com/job-listings-site-reliability-engineer-infosys-limited-bengaluru-11-to-20-years-240826919980
+[2026-09-02T08:01:32.421Z] [shard 5] JOBID 240826919980 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:01:34.486Z] [shard 5] JOBID 240826919980 attempt 2/3 - opening https://www.naukri.com/job-listings-site-reliability-engineer-infosys-limited-bengaluru-11-to-20-years-240826919980
+[2026-09-02T08:02:04.510Z] [shard 5] JOBID 240826919980 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:02:06.577Z] [shard 5] JOBID 240826919980 attempt 3/3 - opening https://www.naukri.com/job-listings-site-reliability-engineer-infosys-limited-bengaluru-11-to-20-years-240826919980
+[2026-09-02T08:02:36.600Z] [shard 5] JOBID 240826919980 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:02:36.617Z] [shard 5] JOBID 240826919980 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:02:38.662Z] [shard 5] JOBID 240826919827 attempt 1/3 - opening https://www.naukri.com/job-listings-sourcing-cat-enablement-assoc-manager-accenture-solutions-pvt-ltd-gurugram-10-to-14-years-240826919827
+[2026-09-02T08:03:08.685Z] [shard 5] JOBID 240826919827 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:03:10.755Z] [shard 5] JOBID 240826919827 attempt 2/3 - opening https://www.naukri.com/job-listings-sourcing-cat-enablement-assoc-manager-accenture-solutions-pvt-ltd-gurugram-10-to-14-years-240826919827
+[2026-09-02T08:03:40.779Z] [shard 5] JOBID 240826919827 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:03:42.837Z] [shard 5] JOBID 240826919827 attempt 3/3 - opening https://www.naukri.com/job-listings-sourcing-cat-enablement-assoc-manager-accenture-solutions-pvt-ltd-gurugram-10-to-14-years-240826919827
+[2026-09-02T08:04:12.855Z] [shard 5] JOBID 240826919827 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:04:12.875Z] [shard 5] JOBID 240826919827 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:04:14.918Z] [shard 5] JOBID 250626014192 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-artificial-intelligence-engineer-ascent-business-solutions-uppal-10-to-20-years-250626014192
+[2026-09-02T08:04:44.919Z] [shard 5] JOBID 250626014192 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:04:46.978Z] [shard 5] JOBID 250626014192 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-artificial-intelligence-engineer-ascent-business-solutions-uppal-10-to-20-years-250626014192
+[2026-09-02T08:05:16.984Z] [shard 5] JOBID 250626014192 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:05:19.039Z] [shard 5] JOBID 250626014192 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-artificial-intelligence-engineer-ascent-business-solutions-uppal-10-to-20-years-250626014192
+[2026-09-02T08:05:49.049Z] [shard 5] JOBID 250626014192 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:05:49.067Z] [shard 5] JOBID 250626014192 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:05:51.108Z] [shard 5] JOBID 250526500110 attempt 1/3 - opening https://www.naukri.com/job-listings-full-stack-engineer-global-hunt-india-bengaluru-10-to-18-years-250526500110
+[2026-09-02T08:06:21.119Z] [shard 5] JOBID 250526500110 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:06:23.186Z] [shard 5] JOBID 250526500110 attempt 2/3 - opening https://www.naukri.com/job-listings-full-stack-engineer-global-hunt-india-bengaluru-10-to-18-years-250526500110
+[2026-09-02T08:06:53.197Z] [shard 5] JOBID 250526500110 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:06:55.260Z] [shard 5] JOBID 250526500110 attempt 3/3 - opening https://www.naukri.com/job-listings-full-stack-engineer-global-hunt-india-bengaluru-10-to-18-years-250526500110
+[2026-09-02T08:07:25.282Z] [shard 5] JOBID 250526500110 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:07:25.303Z] [shard 5] JOBID 250526500110 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:07:27.347Z] [shard 5] JOBID 250325500634 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-specialist-for-i4-0-manu-cad-designer-bom-bill-of-materials-krazy-mantra-group-of-companies-pune-bengaluru-10-to-18-years-250325500634
+[2026-09-02T08:07:57.360Z] [shard 5] JOBID 250325500634 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:07:59.423Z] [shard 5] JOBID 250325500634 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-specialist-for-i4-0-manu-cad-designer-bom-bill-of-materials-krazy-mantra-group-of-companies-pune-bengaluru-10-to-18-years-250325500634
+[2026-09-02T08:08:29.446Z] [shard 5] JOBID 250325500634 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:08:31.509Z] [shard 5] JOBID 250325500634 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-specialist-for-i4-0-manu-cad-designer-bom-bill-of-materials-krazy-mantra-group-of-companies-pune-bengaluru-10-to-18-years-250325500634
+[2026-09-02T08:09:01.527Z] [shard 5] JOBID 250325500634 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:09:01.547Z] [shard 5] JOBID 250325500634 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:09:03.594Z] [shard 5] JOBID 241125505032 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-operations-startek-noida-10-to-19-years-241125505032
+[2026-09-02T08:09:33.614Z] [shard 5] JOBID 241125505032 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:09:35.678Z] [shard 5] JOBID 241125505032 attempt 2/3 - opening https://www.naukri.com/job-listings-manager-operations-startek-noida-10-to-19-years-241125505032
+[2026-09-02T08:10:05.702Z] [shard 5] JOBID 241125505032 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:10:07.760Z] [shard 5] JOBID 241125505032 attempt 3/3 - opening https://www.naukri.com/job-listings-manager-operations-startek-noida-10-to-19-years-241125505032
+[2026-09-02T08:10:37.767Z] [shard 5] JOBID 241125505032 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:10:37.787Z] [shard 5] JOBID 241125505032 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:10:39.830Z] [shard 5] JOBID 240726505245 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-principal-architect-jp-morgan-and-chase-mumbai-10-to-15-years-240726505245
+[2026-09-02T08:11:09.840Z] [shard 5] JOBID 240726505245 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:11:11.901Z] [shard 5] JOBID 240726505245 attempt 2/3 - opening https://www.naukri.com/job-listings-sr-principal-architect-jp-morgan-and-chase-mumbai-10-to-15-years-240726505245
+[2026-09-02T08:11:41.907Z] [shard 5] JOBID 240726505245 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:11:43.971Z] [shard 5] JOBID 240726505245 attempt 3/3 - opening https://www.naukri.com/job-listings-sr-principal-architect-jp-morgan-and-chase-mumbai-10-to-15-years-240726505245
+[2026-09-02T08:12:13.994Z] [shard 5] JOBID 240726505245 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:12:14.014Z] [shard 5] JOBID 240726505245 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:12:16.057Z] [shard 5] JOBID 240726501359 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-product-owner-visteon-automotive-india-private-limited-bengaluru-13-to-17-years-240726501359
+[2026-09-02T08:12:46.071Z] [shard 5] JOBID 240726501359 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:12:48.131Z] [shard 5] JOBID 240726501359 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-product-owner-visteon-automotive-india-private-limited-bengaluru-13-to-17-years-240726501359
+[2026-09-02T08:13:18.154Z] [shard 5] JOBID 240726501359 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:13:20.218Z] [shard 5] JOBID 240726501359 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-product-owner-visteon-automotive-india-private-limited-bengaluru-13-to-17-years-240726501359
+[2026-09-02T08:13:50.229Z] [shard 5] JOBID 240726501359 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:13:50.250Z] [shard 5] JOBID 240726501359 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:13:52.293Z] [shard 5] JOBID 240726501192 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-manager-ai-intelligent-automation-sw-lifecycle-visteon-automotive-india-private-limited-pune-14-to-20-years-240726501192
+[2026-09-02T08:14:22.316Z] [shard 5] JOBID 240726501192 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:14:24.377Z] [shard 5] JOBID 240726501192 attempt 2/3 - opening https://www.naukri.com/job-listings-sr-manager-ai-intelligent-automation-sw-lifecycle-visteon-automotive-india-private-limited-pune-14-to-20-years-240726501192
+[2026-09-02T08:14:54.397Z] [shard 5] JOBID 240726501192 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:14:56.457Z] [shard 5] JOBID 240726501192 attempt 3/3 - opening https://www.naukri.com/job-listings-sr-manager-ai-intelligent-automation-sw-lifecycle-visteon-automotive-india-private-limited-pune-14-to-20-years-240726501192
+[2026-09-02T08:15:26.467Z] [shard 5] JOBID 240726501192 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:15:26.484Z] [shard 5] JOBID 240726501192 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:15:28.527Z] [shard 5] JOBID 240726501142 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-software-engineer-2-visteon-automotive-india-private-limited-pune-10-to-17-years-240726501142
+[2026-09-02T08:15:58.550Z] [shard 5] JOBID 240726501142 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:16:00.614Z] [shard 5] JOBID 240726501142 attempt 2/3 - opening https://www.naukri.com/job-listings-principal-software-engineer-2-visteon-automotive-india-private-limited-pune-10-to-17-years-240726501142
+[2026-09-02T08:16:30.629Z] [shard 5] JOBID 240726501142 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:16:32.687Z] [shard 5] JOBID 240726501142 attempt 3/3 - opening https://www.naukri.com/job-listings-principal-software-engineer-2-visteon-automotive-india-private-limited-pune-10-to-17-years-240726501142
+[2026-09-02T08:17:02.696Z] [shard 5] JOBID 240726501142 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:17:02.713Z] [shard 5] JOBID 240726501142 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:17:04.754Z] [shard 5] JOBID 240726501026 attempt 1/3 - opening https://www.naukri.com/job-listings-audio-software-development-engineer-visteon-automotive-india-private-limited-chennai-10-to-12-years-240726501026
+[2026-09-02T08:17:34.777Z] [shard 5] JOBID 240726501026 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:17:36.835Z] [shard 5] JOBID 240726501026 attempt 2/3 - opening https://www.naukri.com/job-listings-audio-software-development-engineer-visteon-automotive-india-private-limited-chennai-10-to-12-years-240726501026
+[2026-09-02T08:18:06.839Z] [shard 5] JOBID 240726501026 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:18:08.900Z] [shard 5] JOBID 240726501026 attempt 3/3 - opening https://www.naukri.com/job-listings-audio-software-development-engineer-visteon-automotive-india-private-limited-chennai-10-to-12-years-240726501026
+[2026-09-02T08:18:38.923Z] [shard 5] JOBID 240726501026 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:18:38.939Z] [shard 5] JOBID 240726501026 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:18:40.977Z] [shard 5] JOBID 240726500891 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-analyst-it-operations-visteon-automotive-india-private-limited-thiruvananthapuram-10-to-15-years-240726500891
+[2026-09-02T08:19:10.992Z] [shard 5] JOBID 240726500891 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:19:13.057Z] [shard 5] JOBID 240726500891 attempt 2/3 - opening https://www.naukri.com/job-listings-sr-analyst-it-operations-visteon-automotive-india-private-limited-thiruvananthapuram-10-to-15-years-240726500891
+[2026-09-02T08:19:43.080Z] [shard 5] JOBID 240726500891 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:19:45.140Z] [shard 5] JOBID 240726500891 attempt 3/3 - opening https://www.naukri.com/job-listings-sr-analyst-it-operations-visteon-automotive-india-private-limited-thiruvananthapuram-10-to-15-years-240726500891
+[2026-09-02T08:20:15.159Z] [shard 5] JOBID 240726500891 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:20:15.178Z] [shard 5] JOBID 240726500891 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:20:17.224Z] [shard 5] JOBID 240626505426 attempt 1/3 - opening https://www.naukri.com/job-listings-enterprise-architect-martech-ai-adobe-systems-india-pvt-ltd-noida-12-to-22-years-240626505426
+[2026-09-02T08:20:47.248Z] [shard 5] JOBID 240626505426 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:20:49.305Z] [shard 5] JOBID 240626505426 attempt 2/3 - opening https://www.naukri.com/job-listings-enterprise-architect-martech-ai-adobe-systems-india-pvt-ltd-noida-12-to-22-years-240626505426
+[2026-09-02T08:21:19.328Z] [shard 5] JOBID 240626505426 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:21:21.384Z] [shard 5] JOBID 240626505426 attempt 3/3 - opening https://www.naukri.com/job-listings-enterprise-architect-martech-ai-adobe-systems-india-pvt-ltd-noida-12-to-22-years-240626505426
+[2026-09-02T08:21:51.401Z] [shard 5] JOBID 240626505426 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:21:51.417Z] [shard 5] JOBID 240626505426 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:21:53.460Z] [shard 5] JOBID 240626504776 attempt 1/3 - opening https://www.naukri.com/job-listings-service-development-manager-ai-data-structuring-readiness-reed-elsevier-india-a-part-of-relx-india-pvt-ltd-bengaluru-12-to-17-years-240626504776
+[2026-09-02T08:22:23.484Z] [shard 5] JOBID 240626504776 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:22:25.541Z] [shard 5] JOBID 240626504776 attempt 2/3 - opening https://www.naukri.com/job-listings-service-development-manager-ai-data-structuring-readiness-reed-elsevier-india-a-part-of-relx-india-pvt-ltd-bengaluru-12-to-17-years-240626504776
+[2026-09-02T08:22:55.543Z] [shard 5] JOBID 240626504776 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:22:57.606Z] [shard 5] JOBID 240626504776 attempt 3/3 - opening https://www.naukri.com/job-listings-service-development-manager-ai-data-structuring-readiness-reed-elsevier-india-a-part-of-relx-india-pvt-ltd-bengaluru-12-to-17-years-240626504776
+[2026-09-02T08:23:27.608Z] [shard 5] JOBID 240626504776 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:23:27.627Z] [shard 5] JOBID 240626504776 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:23:29.670Z] [shard 5] JOBID 240626504300 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-technical-manager-cradlepoint-part-of-ericsson-noida-10-to-15-years-240626504300
+[2026-09-02T08:23:59.694Z] [shard 5] JOBID 240626504300 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:24:01.754Z] [shard 5] JOBID 240626504300 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-technical-manager-cradlepoint-part-of-ericsson-noida-10-to-15-years-240626504300
+[2026-09-02T08:24:31.775Z] [shard 5] JOBID 240626504300 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:24:33.836Z] [shard 5] JOBID 240626504300 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-technical-manager-cradlepoint-part-of-ericsson-noida-10-to-15-years-240626504300
+[2026-09-02T08:25:03.839Z] [shard 5] JOBID 240626504300 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:25:03.857Z] [shard 5] JOBID 240626504300 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:25:05.903Z] [shard 5] JOBID 240426504075 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-technical-architect-ai-digital-engineering-acuver-consulting-private-limited-bengaluru-12-to-14-years-240426504075
+[2026-09-02T08:25:35.912Z] [shard 5] JOBID 240426504075 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:25:37.972Z] [shard 5] JOBID 240426504075 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-technical-architect-ai-digital-engineering-acuver-consulting-private-limited-bengaluru-12-to-14-years-240426504075
+[2026-09-02T08:26:07.984Z] [shard 5] JOBID 240426504075 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:26:10.042Z] [shard 5] JOBID 240426504075 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-technical-architect-ai-digital-engineering-acuver-consulting-private-limited-bengaluru-12-to-14-years-240426504075
+[2026-09-02T08:26:40.065Z] [shard 5] JOBID 240426504075 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:26:40.081Z] [shard 5] JOBID 240426504075 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:26:42.122Z] [shard 5] JOBID 240426501494 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-security-architect-manager-gt-us-shared-services-center-india-pvt-ltd-kolkata-10-to-15-years-240426501494
+[2026-09-02T08:27:12.145Z] [shard 5] JOBID 240426501494 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:27:14.205Z] [shard 5] JOBID 240426501494 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-security-architect-manager-gt-us-shared-services-center-india-pvt-ltd-kolkata-10-to-15-years-240426501494
+[2026-09-02T08:27:44.228Z] [shard 5] JOBID 240426501494 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:27:46.288Z] [shard 5] JOBID 240426501494 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-security-architect-manager-gt-us-shared-services-center-india-pvt-ltd-kolkata-10-to-15-years-240426501494
+[2026-09-02T08:28:16.311Z] [shard 5] JOBID 240426501494 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:28:16.326Z] [shard 5] JOBID 240426501494 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:28:18.372Z] [shard 5] JOBID 240426500769 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-solutions-architect-sparix-global-private-limited-remote-10-to-15-years-240426500769
+[2026-09-02T08:28:48.395Z] [shard 5] JOBID 240426500769 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:28:50.454Z] [shard 5] JOBID 240426500769 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-solutions-architect-sparix-global-private-limited-remote-10-to-15-years-240426500769
+[2026-09-02T08:29:20.477Z] [shard 5] JOBID 240426500769 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:29:22.539Z] [shard 5] JOBID 240426500769 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-solutions-architect-sparix-global-private-limited-remote-10-to-15-years-240426500769
+[2026-09-02T08:29:52.562Z] [shard 5] JOBID 240426500769 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:29:52.579Z] [shard 5] JOBID 240426500769 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:29:54.620Z] [shard 5] JOBID 240426500736 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-solutions-architect-sparix-global-private-limited-remote-10-to-15-years-240426500736
+[2026-09-02T08:30:24.644Z] [shard 5] JOBID 240426500736 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:30:26.706Z] [shard 5] JOBID 240426500736 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-solutions-architect-sparix-global-private-limited-remote-10-to-15-years-240426500736
+[2026-09-02T08:30:56.730Z] [shard 5] JOBID 240426500736 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:30:58.791Z] [shard 5] JOBID 240426500736 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-solutions-architect-sparix-global-private-limited-remote-10-to-15-years-240426500736
+[2026-09-02T08:31:28.814Z] [shard 5] JOBID 240426500736 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:31:28.833Z] [shard 5] JOBID 240426500736 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:31:30.878Z] [shard 5] JOBID 240426500698 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-solution-architect-sparix-global-private-limited-remote-10-to-15-years-240426500698
+[2026-09-02T08:32:00.887Z] [shard 5] JOBID 240426500698 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:32:02.944Z] [shard 5] JOBID 240426500698 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-solution-architect-sparix-global-private-limited-remote-10-to-15-years-240426500698
+[2026-09-02T08:32:32.951Z] [shard 5] JOBID 240426500698 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:32:35.015Z] [shard 5] JOBID 240426500698 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-solution-architect-sparix-global-private-limited-remote-10-to-15-years-240426500698
+[2026-09-02T08:33:05.038Z] [shard 5] JOBID 240426500698 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:33:05.055Z] [shard 5] JOBID 240426500698 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:33:07.098Z] [shard 5] JOBID 240226504470 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-full-stack-developer-fully-opportunity-zealogics-com-remote-10-to-15-years-240226504470
+[2026-09-02T08:33:37.103Z] [shard 5] JOBID 240226504470 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:33:39.163Z] [shard 5] JOBID 240226504470 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-full-stack-developer-fully-opportunity-zealogics-com-remote-10-to-15-years-240226504470
+[2026-09-02T08:34:09.186Z] [shard 5] JOBID 240226504470 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:34:11.248Z] [shard 5] JOBID 240226504470 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-full-stack-developer-fully-opportunity-zealogics-com-remote-10-to-15-years-240226504470
+[2026-09-02T08:34:41.272Z] [shard 5] JOBID 240226504470 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:34:41.288Z] [shard 5] JOBID 240226504470 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:34:43.333Z] [shard 5] JOBID 230726506626 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-architect-visteon-automotive-india-private-limited-chennai-11-to-16-years-230726506626
+[2026-09-02T08:35:13.334Z] [shard 5] JOBID 230726506626 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:35:15.396Z] [shard 5] JOBID 230726506626 attempt 2/3 - opening https://www.naukri.com/job-listings-lead-architect-visteon-automotive-india-private-limited-chennai-11-to-16-years-230726506626
+[2026-09-02T08:35:45.407Z] [shard 5] JOBID 230726506626 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:35:47.469Z] [shard 5] JOBID 230726506626 attempt 3/3 - opening https://www.naukri.com/job-listings-lead-architect-visteon-automotive-india-private-limited-chennai-11-to-16-years-230726506626
+[2026-09-02T08:36:17.492Z] [shard 5] JOBID 230726506626 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:36:17.513Z] [shard 5] JOBID 230726506626 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:36:19.560Z] [shard 5] JOBID 230726506535 attempt 1/3 - opening https://www.naukri.com/job-listings-ib-client-legal-cosec-ad-professional-acuity-knowledge-partners-gurugram-10-to-20-years-230726506535
+[2026-09-02T08:36:49.584Z] [shard 5] JOBID 230726506535 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:36:51.644Z] [shard 5] JOBID 230726506535 attempt 2/3 - opening https://www.naukri.com/job-listings-ib-client-legal-cosec-ad-professional-acuity-knowledge-partners-gurugram-10-to-20-years-230726506535
+[2026-09-02T08:37:21.655Z] [shard 5] JOBID 230726506535 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:37:23.725Z] [shard 5] JOBID 230726506535 attempt 3/3 - opening https://www.naukri.com/job-listings-ib-client-legal-cosec-ad-professional-acuity-knowledge-partners-gurugram-10-to-20-years-230726506535
+[2026-09-02T08:37:53.734Z] [shard 5] JOBID 230726506535 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:37:53.752Z] [shard 5] JOBID 230726506535 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:37:55.797Z] [shard 5] JOBID 230726506521 attempt 1/3 - opening https://www.naukri.com/job-listings-team-lead-software-development-yotta-infrastructure-solutions-llp-new-delhi-10-to-15-years-230726506521
+[2026-09-02T08:38:25.821Z] [shard 5] JOBID 230726506521 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:38:27.891Z] [shard 5] JOBID 230726506521 attempt 2/3 - opening https://www.naukri.com/job-listings-team-lead-software-development-yotta-infrastructure-solutions-llp-new-delhi-10-to-15-years-230726506521
+[2026-09-02T08:38:57.915Z] [shard 5] JOBID 230726506521 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:38:59.987Z] [shard 5] JOBID 230726506521 attempt 3/3 - opening https://www.naukri.com/job-listings-team-lead-software-development-yotta-infrastructure-solutions-llp-new-delhi-10-to-15-years-230726506521
+[2026-09-02T08:39:29.991Z] [shard 5] JOBID 230726506521 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:39:30.009Z] [shard 5] JOBID 230726506521 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:39:32.051Z] [shard 5] JOBID 230726506389 attempt 1/3 - opening https://www.naukri.com/job-listings-cae-analyst-crash-tvs-motor-company-hosur-10-to-13-years-230726506389
+[2026-09-02T08:40:02.076Z] [shard 5] JOBID 230726506389 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:40:04.141Z] [shard 5] JOBID 230726506389 attempt 2/3 - opening https://www.naukri.com/job-listings-cae-analyst-crash-tvs-motor-company-hosur-10-to-13-years-230726506389
+[2026-09-02T08:40:34.165Z] [shard 5] JOBID 230726506389 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:40:36.222Z] [shard 5] JOBID 230726506389 attempt 3/3 - opening https://www.naukri.com/job-listings-cae-analyst-crash-tvs-motor-company-hosur-10-to-13-years-230726506389
+[2026-09-02T08:41:06.237Z] [shard 5] JOBID 230726506389 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:41:06.252Z] [shard 5] JOBID 230726506389 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:41:08.294Z] [shard 5] JOBID 230726506198 attempt 1/3 - opening https://www.naukri.com/job-listings-program-manager-japan-oems-visteon-automotive-india-private-limited-chennai-10-to-20-years-230726506198
+[2026-09-02T08:41:38.295Z] [shard 5] JOBID 230726506198 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:41:40.354Z] [shard 5] JOBID 230726506198 attempt 2/3 - opening https://www.naukri.com/job-listings-program-manager-japan-oems-visteon-automotive-india-private-limited-chennai-10-to-20-years-230726506198
+[2026-09-02T08:42:10.359Z] [shard 5] JOBID 230726506198 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:42:12.413Z] [shard 5] JOBID 230726506198 attempt 3/3 - opening https://www.naukri.com/job-listings-program-manager-japan-oems-visteon-automotive-india-private-limited-chennai-10-to-20-years-230726506198
+[2026-09-02T08:42:42.419Z] [shard 5] JOBID 230726506198 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:42:42.437Z] [shard 5] JOBID 230726506198 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:42:44.481Z] [shard 5] JOBID 230726505664 attempt 1/3 - opening https://www.naukri.com/job-listings-product-leader-tvs-motor-company-hosur-14-to-20-years-230726505664
+[2026-09-02T08:43:14.487Z] [shard 5] JOBID 230726505664 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:43:16.549Z] [shard 5] JOBID 230726505664 attempt 2/3 - opening https://www.naukri.com/job-listings-product-leader-tvs-motor-company-hosur-14-to-20-years-230726505664
+[2026-09-02T08:43:46.558Z] [shard 5] JOBID 230726505664 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:43:48.618Z] [shard 5] JOBID 230726505664 attempt 3/3 - opening https://www.naukri.com/job-listings-product-leader-tvs-motor-company-hosur-14-to-20-years-230726505664
+[2026-09-02T08:44:18.625Z] [shard 5] JOBID 230726505664 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:44:18.643Z] [shard 5] JOBID 230726505664 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:44:20.693Z] [shard 5] JOBID 230726502690 attempt 1/3 - opening https://www.naukri.com/job-listings-salesforce-technical-architect-senior-technical-architect-salesforce-hyderabad-14-to-19-years-230726502690
+[2026-09-02T08:44:50.710Z] [shard 5] JOBID 230726502690 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:44:52.787Z] [shard 5] JOBID 230726502690 attempt 2/3 - opening https://www.naukri.com/job-listings-salesforce-technical-architect-senior-technical-architect-salesforce-hyderabad-14-to-19-years-230726502690
+[2026-09-02T08:45:22.790Z] [shard 5] JOBID 230726502690 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:45:24.854Z] [shard 5] JOBID 230726502690 attempt 3/3 - opening https://www.naukri.com/job-listings-salesforce-technical-architect-senior-technical-architect-salesforce-hyderabad-14-to-19-years-230726502690
+[2026-09-02T08:45:54.875Z] [shard 5] JOBID 230726502690 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:45:54.893Z] [shard 5] JOBID 230726502690 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:45:56.942Z] [shard 5] JOBID 230426501304 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-pune-10-to-15-years-230426501304
+[2026-09-02T08:46:26.964Z] [shard 5] JOBID 230426501304 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:46:29.022Z] [shard 5] JOBID 230426501304 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-pune-10-to-15-years-230426501304
+[2026-09-02T08:46:59.045Z] [shard 5] JOBID 230426501304 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:47:01.108Z] [shard 5] JOBID 230426501304 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-pune-10-to-15-years-230426501304
+[2026-09-02T08:47:31.133Z] [shard 5] JOBID 230426501304 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:47:31.155Z] [shard 5] JOBID 230426501304 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:47:33.199Z] [shard 5] JOBID 230426501303 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-hyderabad-10-to-15-years-230426501303
+[2026-09-02T08:48:03.223Z] [shard 5] JOBID 230426501303 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:48:05.284Z] [shard 5] JOBID 230426501303 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-hyderabad-10-to-15-years-230426501303
+[2026-09-02T08:48:35.293Z] [shard 5] JOBID 230426501303 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:48:37.353Z] [shard 5] JOBID 230426501303 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-hyderabad-10-to-15-years-230426501303
+[2026-09-02T08:49:07.375Z] [shard 5] JOBID 230426501303 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:49:07.394Z] [shard 5] JOBID 230426501303 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:49:09.442Z] [shard 5] JOBID 230426501302 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-bengaluru-10-to-15-years-230426501302
+[2026-09-02T08:49:39.465Z] [shard 5] JOBID 230426501302 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:49:41.531Z] [shard 5] JOBID 230426501302 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-bengaluru-10-to-15-years-230426501302
+[2026-09-02T08:50:11.554Z] [shard 5] JOBID 230426501302 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:50:13.617Z] [shard 5] JOBID 230426501302 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-architect-server-performance-nvidia-bengaluru-10-to-15-years-230426501302
+[2026-09-02T08:50:43.640Z] [shard 5] JOBID 230426501302 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:50:43.659Z] [shard 5] JOBID 230426501302 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:50:45.707Z] [shard 5] JOBID 230326502498 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-product-manager-tableau-next-salesforce-hyderabad-10-to-15-years-230326502498
+[2026-09-02T08:51:15.730Z] [shard 5] JOBID 230326502498 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:51:17.794Z] [shard 5] JOBID 230326502498 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-product-manager-tableau-next-salesforce-hyderabad-10-to-15-years-230326502498
+[2026-09-02T08:51:47.817Z] [shard 5] JOBID 230326502498 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:51:49.887Z] [shard 5] JOBID 230326502498 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-product-manager-tableau-next-salesforce-hyderabad-10-to-15-years-230326502498
+[2026-09-02T08:52:19.895Z] [shard 5] JOBID 230326502498 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:52:19.916Z] [shard 5] JOBID 230326502498 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:52:21.965Z] [shard 5] JOBID 230226503533 attempt 1/3 - opening https://www.naukri.com/job-listings-software-architect-net-cloud-ai-varite-bengaluru-10-to-15-years-230226503533
+[2026-09-02T08:52:51.988Z] [shard 5] JOBID 230226503533 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:52:54.071Z] [shard 5] JOBID 230226503533 attempt 2/3 - opening https://www.naukri.com/job-listings-software-architect-net-cloud-ai-varite-bengaluru-10-to-15-years-230226503533
+[2026-09-02T08:53:24.094Z] [shard 5] JOBID 230226503533 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:53:26.153Z] [shard 5] JOBID 230226503533 attempt 3/3 - opening https://www.naukri.com/job-listings-software-architect-net-cloud-ai-varite-bengaluru-10-to-15-years-230226503533
+[2026-09-02T08:53:56.176Z] [shard 5] JOBID 230226503533 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:53:56.193Z] [shard 5] JOBID 230226503533 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:53:58.234Z] [shard 5] JOBID 230125505550 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-apm-john-crane-sealing-systems-india-pvt-ltd-pune-10-to-15-years-230125505550
+[2026-09-02T08:54:28.258Z] [shard 5] JOBID 230125505550 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:54:30.310Z] [shard 5] JOBID 230125505550 attempt 2/3 - opening https://www.naukri.com/job-listings-data-scientist-apm-john-crane-sealing-systems-india-pvt-ltd-pune-10-to-15-years-230125505550
+[2026-09-02T08:55:00.334Z] [shard 5] JOBID 230125505550 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:55:02.394Z] [shard 5] JOBID 230125505550 attempt 3/3 - opening https://www.naukri.com/job-listings-data-scientist-apm-john-crane-sealing-systems-india-pvt-ltd-pune-10-to-15-years-230125505550
+[2026-09-02T08:55:32.413Z] [shard 5] JOBID 230125505550 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:55:32.430Z] [shard 5] JOBID 230125505550 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:55:34.466Z] [shard 5] JOBID 221225500197 attempt 1/3 - opening https://www.naukri.com/job-listings-site-reliability-engineering-manager-apple-india-pvt-ltd-bengaluru-10-to-15-years-221225500197
+[2026-09-02T08:56:04.475Z] [shard 5] JOBID 221225500197 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:56:06.541Z] [shard 5] JOBID 221225500197 attempt 2/3 - opening https://www.naukri.com/job-listings-site-reliability-engineering-manager-apple-india-pvt-ltd-bengaluru-10-to-15-years-221225500197
+[2026-09-02T08:56:36.551Z] [shard 5] JOBID 221225500197 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:56:38.622Z] [shard 5] JOBID 221225500197 attempt 3/3 - opening https://www.naukri.com/job-listings-site-reliability-engineering-manager-apple-india-pvt-ltd-bengaluru-10-to-15-years-221225500197
+[2026-09-02T08:57:08.645Z] [shard 5] JOBID 221225500197 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:57:08.667Z] [shard 5] JOBID 221225500197 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:57:10.716Z] [shard 5] JOBID 221125501922 attempt 1/3 - opening https://www.naukri.com/job-listings-agentic-ai-solution-architect-han-digital-solution-panipat-yamunanagar-faridabad-sonipat-gurugram-hisar-10-to-12-years-221125501922
+[2026-09-02T08:57:40.735Z] [shard 5] JOBID 221125501922 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:57:42.790Z] [shard 5] JOBID 221125501922 attempt 2/3 - opening https://www.naukri.com/job-listings-agentic-ai-solution-architect-han-digital-solution-panipat-yamunanagar-faridabad-sonipat-gurugram-hisar-10-to-12-years-221125501922
+[2026-09-02T08:58:12.813Z] [shard 5] JOBID 221125501922 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:58:14.877Z] [shard 5] JOBID 221125501922 attempt 3/3 - opening https://www.naukri.com/job-listings-agentic-ai-solution-architect-han-digital-solution-panipat-yamunanagar-faridabad-sonipat-gurugram-hisar-10-to-12-years-221125501922
+[2026-09-02T08:58:44.895Z] [shard 5] JOBID 221125501922 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:58:44.910Z] [shard 5] JOBID 221125501922 FAILED after 3 attempts - will retry on next run
+[2026-09-02T08:58:46.951Z] [shard 5] JOBID 221125501259 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-transformation-delivery-lead-han-digital-solution-hyderabad-bengaluru-13-to-15-years-221125501259
+[2026-09-02T08:59:16.974Z] [shard 5] JOBID 221125501259 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:59:19.060Z] [shard 5] JOBID 221125501259 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-transformation-delivery-lead-han-digital-solution-hyderabad-bengaluru-13-to-15-years-221125501259
+[2026-09-02T08:59:49.083Z] [shard 5] JOBID 221125501259 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T08:59:51.144Z] [shard 5] JOBID 221125501259 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-transformation-delivery-lead-han-digital-solution-hyderabad-bengaluru-13-to-15-years-221125501259
+[2026-09-02T09:00:21.167Z] [shard 5] JOBID 221125501259 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:00:21.187Z] [shard 5] JOBID 221125501259 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:00:23.231Z] [shard 5] JOBID 221125500646 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-enterprise-architect-ad-han-digital-solution-warangal-hyderabad-nizamabad-14-to-18-years-221125500646
+[2026-09-02T09:00:53.234Z] [shard 5] JOBID 221125500646 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:00:55.310Z] [shard 5] JOBID 221125500646 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-enterprise-architect-ad-han-digital-solution-warangal-hyderabad-nizamabad-14-to-18-years-221125500646
+[2026-09-02T09:01:25.333Z] [shard 5] JOBID 221125500646 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:01:27.398Z] [shard 5] JOBID 221125500646 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-enterprise-architect-ad-han-digital-solution-warangal-hyderabad-nizamabad-14-to-18-years-221125500646
+[2026-09-02T09:01:57.421Z] [shard 5] JOBID 221125500646 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:01:57.437Z] [shard 5] JOBID 221125500646 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:01:59.483Z] [shard 5] JOBID 220726500257 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineering-technical-specialist-workday-integrations-kyndryl-bengaluru-10-to-15-years-220726500257
+[2026-09-02T09:02:29.504Z] [shard 5] JOBID 220726500257 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:02:31.562Z] [shard 5] JOBID 220726500257 attempt 2/3 - opening https://www.naukri.com/job-listings-software-engineering-technical-specialist-workday-integrations-kyndryl-bengaluru-10-to-15-years-220726500257
+[2026-09-02T09:03:01.585Z] [shard 5] JOBID 220726500257 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:03:03.648Z] [shard 5] JOBID 220726500257 attempt 3/3 - opening https://www.naukri.com/job-listings-software-engineering-technical-specialist-workday-integrations-kyndryl-bengaluru-10-to-15-years-220726500257
+[2026-09-02T09:03:33.665Z] [shard 5] JOBID 220726500257 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:03:33.683Z] [shard 5] JOBID 220726500257 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:03:35.725Z] [shard 5] JOBID 220726500199 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-solutions-architect-gitlab-remote-13-to-20-years-220726500199
+[2026-09-02T09:04:05.748Z] [shard 5] JOBID 220726500199 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:04:07.816Z] [shard 5] JOBID 220726500199 attempt 2/3 - opening https://www.naukri.com/job-listings-manager-solutions-architect-gitlab-remote-13-to-20-years-220726500199
+[2026-09-02T09:04:37.840Z] [shard 5] JOBID 220726500199 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:04:39.903Z] [shard 5] JOBID 220726500199 attempt 3/3 - opening https://www.naukri.com/job-listings-manager-solutions-architect-gitlab-remote-13-to-20-years-220726500199
+[2026-09-02T09:05:09.927Z] [shard 5] JOBID 220726500199 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:05:09.947Z] [shard 5] JOBID 220726500199 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:05:11.990Z] [shard 5] JOBID 220626504017 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-architect-lead-consultant-ssd-shared-services-private-limited-hubballi-mangaluru-mysuru-bengaluru-belagavi-10-to-15-years-220626504017
+[2026-09-02T09:05:42.014Z] [shard 5] JOBID 220626504017 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:05:44.077Z] [shard 5] JOBID 220626504017 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-architect-lead-consultant-ssd-shared-services-private-limited-hubballi-mangaluru-mysuru-bengaluru-belagavi-10-to-15-years-220626504017
+[2026-09-02T09:06:14.087Z] [shard 5] JOBID 220626504017 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:06:16.149Z] [shard 5] JOBID 220626504017 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-architect-lead-consultant-ssd-shared-services-private-limited-hubballi-mangaluru-mysuru-bengaluru-belagavi-10-to-15-years-220626504017
+[2026-09-02T09:06:46.158Z] [shard 5] JOBID 220626504017 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:06:46.178Z] [shard 5] JOBID 220626504017 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:06:48.224Z] [shard 5] JOBID 220626501859 attempt 1/3 - opening https://www.naukri.com/job-listings-artificial-intelligence-lead-airbus-india-innovation-centre-aerotec-bengaluru-12-to-17-years-220626501859
+[2026-09-02T09:07:18.247Z] [shard 5] JOBID 220626501859 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:07:20.314Z] [shard 5] JOBID 220626501859 attempt 2/3 - opening https://www.naukri.com/job-listings-artificial-intelligence-lead-airbus-india-innovation-centre-aerotec-bengaluru-12-to-17-years-220626501859
+[2026-09-02T09:07:50.319Z] [shard 5] JOBID 220626501859 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:07:52.376Z] [shard 5] JOBID 220626501859 attempt 3/3 - opening https://www.naukri.com/job-listings-artificial-intelligence-lead-airbus-india-innovation-centre-aerotec-bengaluru-12-to-17-years-220626501859
+[2026-09-02T09:08:22.399Z] [shard 5] JOBID 220626501859 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:08:22.416Z] [shard 5] JOBID 220626501859 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:08:24.457Z] [shard 5] JOBID 220626501329 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-use-case-success-manager-svb-associates-bengaluru-10-to-15-years-220626501329
+[2026-09-02T09:08:54.481Z] [shard 5] JOBID 220626501329 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:08:56.542Z] [shard 5] JOBID 220626501329 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-use-case-success-manager-svb-associates-bengaluru-10-to-15-years-220626501329
+[2026-09-02T09:09:26.566Z] [shard 5] JOBID 220626501329 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:09:28.630Z] [shard 5] JOBID 220626501329 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-use-case-success-manager-svb-associates-bengaluru-10-to-15-years-220626501329
+[2026-09-02T09:09:58.654Z] [shard 5] JOBID 220626501329 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:09:58.671Z] [shard 5] JOBID 220626501329 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:10:00.716Z] [shard 5] JOBID 220526500813 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-software-product-manager-ai-candescent-bengaluru-10-to-15-years-220526500813
+[2026-09-02T09:10:30.722Z] [shard 5] JOBID 220526500813 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:10:32.780Z] [shard 5] JOBID 220526500813 attempt 2/3 - opening https://www.naukri.com/job-listings-lead-software-product-manager-ai-candescent-bengaluru-10-to-15-years-220526500813
+[2026-09-02T09:11:02.791Z] [shard 5] JOBID 220526500813 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:11:04.849Z] [shard 5] JOBID 220526500813 attempt 3/3 - opening https://www.naukri.com/job-listings-lead-software-product-manager-ai-candescent-bengaluru-10-to-15-years-220526500813
+[2026-09-02T09:11:34.873Z] [shard 5] JOBID 220526500813 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:11:34.891Z] [shard 5] JOBID 220526500813 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:11:36.933Z] [shard 5] JOBID 220426500195 attempt 1/3 - opening https://www.naukri.com/job-listings-engineering-manager-ai-transformation-dialpad-inc-bengaluru-10-to-15-years-220426500195
+[2026-09-02T09:12:06.949Z] [shard 5] JOBID 220426500195 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:12:09.012Z] [shard 5] JOBID 220426500195 attempt 2/3 - opening https://www.naukri.com/job-listings-engineering-manager-ai-transformation-dialpad-inc-bengaluru-10-to-15-years-220426500195
+[2026-09-02T09:12:39.036Z] [shard 5] JOBID 220426500195 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:12:41.091Z] [shard 5] JOBID 220426500195 attempt 3/3 - opening https://www.naukri.com/job-listings-engineering-manager-ai-transformation-dialpad-inc-bengaluru-10-to-15-years-220426500195
+[2026-09-02T09:13:11.115Z] [shard 5] JOBID 220426500195 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:13:11.132Z] [shard 5] JOBID 220426500195 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:13:13.170Z] [shard 5] JOBID 220425503029 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-specialist-for-i4-0-manu-cad-designer-bom-bill-of-materials-krazy-mantra-group-of-companies-pune-bengaluru-10-to-16-years-220425503029
+[2026-09-02T09:13:43.185Z] [shard 5] JOBID 220425503029 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:13:45.252Z] [shard 5] JOBID 220425503029 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-specialist-for-i4-0-manu-cad-designer-bom-bill-of-materials-krazy-mantra-group-of-companies-pune-bengaluru-10-to-16-years-220425503029
+[2026-09-02T09:14:15.273Z] [shard 5] JOBID 220425503029 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:14:17.331Z] [shard 5] JOBID 220425503029 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-specialist-for-i4-0-manu-cad-designer-bom-bill-of-materials-krazy-mantra-group-of-companies-pune-bengaluru-10-to-16-years-220425503029
+[2026-09-02T09:14:47.352Z] [shard 5] JOBID 220425503029 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:14:47.370Z] [shard 5] JOBID 220425503029 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:14:49.418Z] [shard 5] JOBID 220425502806 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-evangelist-krazy-mantra-group-of-companies-pune-14-to-20-years-220425502806
+[2026-09-02T09:15:19.435Z] [shard 5] JOBID 220425502806 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:15:21.497Z] [shard 5] JOBID 220425502806 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-evangelist-krazy-mantra-group-of-companies-pune-14-to-20-years-220425502806
+[2026-09-02T09:15:51.518Z] [shard 5] JOBID 220425502806 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:15:53.586Z] [shard 5] JOBID 220425502806 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-evangelist-krazy-mantra-group-of-companies-pune-14-to-20-years-220425502806
+[2026-09-02T09:16:23.606Z] [shard 5] JOBID 220425502806 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:16:23.624Z] [shard 5] JOBID 220425502806 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:16:25.670Z] [shard 5] JOBID 210825501770 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-engineer-ai-core-services-codvo-ai-bengaluru-10-to-15-years-210825501770
+[2026-09-02T09:16:55.679Z] [shard 5] JOBID 210825501770 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:16:57.746Z] [shard 5] JOBID 210825501770 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-engineer-ai-core-services-codvo-ai-bengaluru-10-to-15-years-210825501770
+[2026-09-02T09:17:27.769Z] [shard 5] JOBID 210825501770 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:17:29.834Z] [shard 5] JOBID 210825501770 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-engineer-ai-core-services-codvo-ai-bengaluru-10-to-15-years-210825501770
+[2026-09-02T09:17:59.840Z] [shard 5] JOBID 210825501770 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:17:59.859Z] [shard 5] JOBID 210825501770 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:18:01.903Z] [shard 5] JOBID 210726504420 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-architect-solution-architect-pointabout-inc-remote-13-to-18-years-210726504420
+[2026-09-02T09:18:31.910Z] [shard 5] JOBID 210726504420 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:18:33.967Z] [shard 5] JOBID 210726504420 attempt 2/3 - opening https://www.naukri.com/job-listings-technical-architect-solution-architect-pointabout-inc-remote-13-to-18-years-210726504420
+[2026-09-02T09:19:03.984Z] [shard 5] JOBID 210726504420 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:19:06.050Z] [shard 5] JOBID 210726504420 attempt 3/3 - opening https://www.naukri.com/job-listings-technical-architect-solution-architect-pointabout-inc-remote-13-to-18-years-210726504420
+[2026-09-02T09:19:36.073Z] [shard 5] JOBID 210726504420 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:19:36.089Z] [shard 5] JOBID 210726504420 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:19:38.132Z] [shard 5] JOBID 210726504043 attempt 1/3 - opening https://www.naukri.com/job-listings-infra-engineer-electrical-jones-lang-lasalle-hyderabad-10-to-15-years-210726504043
+[2026-09-02T09:20:08.147Z] [shard 5] JOBID 210726504043 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:20:10.203Z] [shard 5] JOBID 210726504043 attempt 2/3 - opening https://www.naukri.com/job-listings-infra-engineer-electrical-jones-lang-lasalle-hyderabad-10-to-15-years-210726504043
+[2026-09-02T09:20:40.226Z] [shard 5] JOBID 210726504043 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:20:42.291Z] [shard 5] JOBID 210726504043 attempt 3/3 - opening https://www.naukri.com/job-listings-infra-engineer-electrical-jones-lang-lasalle-hyderabad-10-to-15-years-210726504043
+[2026-09-02T09:21:12.315Z] [shard 5] JOBID 210726504043 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:21:12.333Z] [shard 5] JOBID 210726504043 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:21:14.374Z] [shard 5] JOBID 210726502110 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ai-architect-dentsu-inc-mumbai-10-to-15-years-210726502110
+[2026-09-02T09:21:44.389Z] [shard 5] JOBID 210726502110 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:21:46.451Z] [shard 5] JOBID 210726502110 attempt 2/3 - opening https://www.naukri.com/job-listings-lead-ai-architect-dentsu-inc-mumbai-10-to-15-years-210726502110
+[2026-09-02T09:22:16.474Z] [shard 5] JOBID 210726502110 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:22:18.540Z] [shard 5] JOBID 210726502110 attempt 3/3 - opening https://www.naukri.com/job-listings-lead-ai-architect-dentsu-inc-mumbai-10-to-15-years-210726502110
+[2026-09-02T09:22:48.563Z] [shard 5] JOBID 210726502110 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:22:48.583Z] [shard 5] JOBID 210726502110 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:22:50.631Z] [shard 5] JOBID 210526509177 attempt 1/3 - opening https://www.naukri.com/job-listings-network-systems-engineer-data-center-ai-network-engineer-cisco-bengaluru-10-to-15-years-210526509177
+[2026-09-02T09:23:20.655Z] [shard 5] JOBID 210526509177 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:23:22.718Z] [shard 5] JOBID 210526509177 attempt 2/3 - opening https://www.naukri.com/job-listings-network-systems-engineer-data-center-ai-network-engineer-cisco-bengaluru-10-to-15-years-210526509177
+[2026-09-02T09:23:52.741Z] [shard 5] JOBID 210526509177 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:23:54.800Z] [shard 5] JOBID 210526509177 attempt 3/3 - opening https://www.naukri.com/job-listings-network-systems-engineer-data-center-ai-network-engineer-cisco-bengaluru-10-to-15-years-210526509177
+[2026-09-02T09:24:24.823Z] [shard 5] JOBID 210526509177 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:24:24.839Z] [shard 5] JOBID 210526509177 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:24:26.877Z] [shard 5] JOBID 210526507488 attempt 1/3 - opening https://www.naukri.com/job-listings-agentic-ai-architect-kyndryl-chennai-12-to-16-years-210526507488
+[2026-09-02T09:24:56.900Z] [shard 5] JOBID 210526507488 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:24:58.961Z] [shard 5] JOBID 210526507488 attempt 2/3 - opening https://www.naukri.com/job-listings-agentic-ai-architect-kyndryl-chennai-12-to-16-years-210526507488
+[2026-09-02T09:25:28.973Z] [shard 5] JOBID 210526507488 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:25:31.035Z] [shard 5] JOBID 210526507488 attempt 3/3 - opening https://www.naukri.com/job-listings-agentic-ai-architect-kyndryl-chennai-12-to-16-years-210526507488
+[2026-09-02T09:26:01.055Z] [shard 5] JOBID 210526507488 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:26:01.071Z] [shard 5] JOBID 210526507488 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:26:03.116Z] [shard 5] JOBID 210526506867 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-architect-soc-modelling-nvidia-hyderabad-10-to-15-years-210526506867
+[2026-09-02T09:26:33.140Z] [shard 5] JOBID 210526506867 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:26:35.203Z] [shard 5] JOBID 210526506867 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-architect-soc-modelling-nvidia-hyderabad-10-to-15-years-210526506867
+[2026-09-02T09:27:05.226Z] [shard 5] JOBID 210526506867 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:27:07.283Z] [shard 5] JOBID 210526506867 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-architect-soc-modelling-nvidia-hyderabad-10-to-15-years-210526506867
+[2026-09-02T09:27:37.307Z] [shard 5] JOBID 210526506867 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:27:37.325Z] [shard 5] JOBID 210526506867 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:27:39.372Z] [shard 5] JOBID 210526505478 attempt 1/3 - opening https://www.naukri.com/job-listings-leader-data-science-upstox-mumbai-10-to-15-years-210526505478
+[2026-09-02T09:28:09.396Z] [shard 5] JOBID 210526505478 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:28:11.454Z] [shard 5] JOBID 210526505478 attempt 2/3 - opening https://www.naukri.com/job-listings-leader-data-science-upstox-mumbai-10-to-15-years-210526505478
+[2026-09-02T09:28:41.477Z] [shard 5] JOBID 210526505478 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:28:43.539Z] [shard 5] JOBID 210526505478 attempt 3/3 - opening https://www.naukri.com/job-listings-leader-data-science-upstox-mumbai-10-to-15-years-210526505478
+[2026-09-02T09:29:13.543Z] [shard 5] JOBID 210526505478 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:29:13.562Z] [shard 5] JOBID 210526505478 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:29:15.607Z] [shard 5] JOBID 210426044576 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-architect-data-workbench-quest-global-bengaluru-10-to-20-years-210426044576
+[2026-09-02T09:29:45.630Z] [shard 5] JOBID 210426044576 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:29:47.694Z] [shard 5] JOBID 210426044576 attempt 2/3 - opening https://www.naukri.com/job-listings-technical-architect-data-workbench-quest-global-bengaluru-10-to-20-years-210426044576
+[2026-09-02T09:30:17.718Z] [shard 5] JOBID 210426044576 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:30:19.776Z] [shard 5] JOBID 210426044576 attempt 3/3 - opening https://www.naukri.com/job-listings-technical-architect-data-workbench-quest-global-bengaluru-10-to-20-years-210426044576
+[2026-09-02T09:30:49.799Z] [shard 5] JOBID 210426044576 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:30:49.817Z] [shard 5] JOBID 210426044576 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:30:51.860Z] [shard 5] JOBID 210226501583 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-technical-solutions-big-data-ai-databricks-bengaluru-12-to-17-years-210226501583
+[2026-09-02T09:31:21.879Z] [shard 5] JOBID 210226501583 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:31:23.936Z] [shard 5] JOBID 210226501583 attempt 2/3 - opening https://www.naukri.com/job-listings-manager-technical-solutions-big-data-ai-databricks-bengaluru-12-to-17-years-210226501583
+[2026-09-02T09:31:53.959Z] [shard 5] JOBID 210226501583 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:31:56.017Z] [shard 5] JOBID 210226501583 attempt 3/3 - opening https://www.naukri.com/job-listings-manager-technical-solutions-big-data-ai-databricks-bengaluru-12-to-17-years-210226501583
+[2026-09-02T09:32:26.023Z] [shard 5] JOBID 210226501583 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:32:26.039Z] [shard 5] JOBID 210226501583 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:32:28.086Z] [shard 5] JOBID 210226500707 attempt 1/3 - opening https://www.naukri.com/job-listings-aiml-technical-architect-logicplanet-it-services-noida-10-to-15-years-210226500707
+[2026-09-02T09:32:58.108Z] [shard 5] JOBID 210226500707 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:33:00.162Z] [shard 5] JOBID 210226500707 attempt 2/3 - opening https://www.naukri.com/job-listings-aiml-technical-architect-logicplanet-it-services-noida-10-to-15-years-210226500707
+[2026-09-02T09:33:30.167Z] [shard 5] JOBID 210226500707 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:33:32.227Z] [shard 5] JOBID 210226500707 attempt 3/3 - opening https://www.naukri.com/job-listings-aiml-technical-architect-logicplanet-it-services-noida-10-to-15-years-210226500707
+[2026-09-02T09:34:02.251Z] [shard 5] JOBID 210226500707 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:34:02.270Z] [shard 5] JOBID 210226500707 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:34:04.313Z] [shard 5] JOBID 200726921099 attempt 1/3 - opening https://www.naukri.com/job-listings-director-retail-and-consumer-products-retail-capgemini-technology-services-india-limited-gurugram-10-to-15-years-200726921099
+[2026-09-02T09:34:34.337Z] [shard 5] JOBID 200726921099 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:34:36.393Z] [shard 5] JOBID 200726921099 attempt 2/3 - opening https://www.naukri.com/job-listings-director-retail-and-consumer-products-retail-capgemini-technology-services-india-limited-gurugram-10-to-15-years-200726921099
+[2026-09-02T09:35:06.416Z] [shard 5] JOBID 200726921099 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:35:08.480Z] [shard 5] JOBID 200726921099 attempt 3/3 - opening https://www.naukri.com/job-listings-director-retail-and-consumer-products-retail-capgemini-technology-services-india-limited-gurugram-10-to-15-years-200726921099
+[2026-09-02T09:35:38.504Z] [shard 5] JOBID 200726921099 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:35:38.520Z] [shard 5] JOBID 200726921099 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:35:40.564Z] [shard 5] JOBID 200726506990 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-market-analyst-industry-insights-intelligence-swift-mumbai-10-to-12-years-200726506990
+[2026-09-02T09:36:10.583Z] [shard 5] JOBID 200726506990 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:36:12.642Z] [shard 5] JOBID 200726506990 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-market-analyst-industry-insights-intelligence-swift-mumbai-10-to-12-years-200726506990
+[2026-09-02T09:36:42.644Z] [shard 5] JOBID 200726506990 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:36:44.708Z] [shard 5] JOBID 200726506990 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-market-analyst-industry-insights-intelligence-swift-mumbai-10-to-12-years-200726506990
+[2026-09-02T09:37:14.732Z] [shard 5] JOBID 200726506990 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:37:14.749Z] [shard 5] JOBID 200726506990 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:37:16.791Z] [shard 5] JOBID 200726506990 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-market-analyst-industry-insights-intelligence-swift-mumbai-10-to-12-years-200726506990
+[2026-09-02T09:37:46.807Z] [shard 5] JOBID 200726506990 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:37:48.868Z] [shard 5] JOBID 200726506990 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-market-analyst-industry-insights-intelligence-swift-mumbai-10-to-12-years-200726506990
+[2026-09-02T09:38:18.892Z] [shard 5] JOBID 200726506990 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:38:20.954Z] [shard 5] JOBID 200726506990 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-market-analyst-industry-insights-intelligence-swift-mumbai-10-to-12-years-200726506990
+[2026-09-02T09:38:50.978Z] [shard 5] JOBID 200726506990 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:38:50.999Z] [shard 5] JOBID 200726506990 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:38:53.041Z] [shard 5] JOBID 200726500223 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-btp-solution-architect-sap-ai-krazymantra-it-solutions-mumbai-12-to-20-years-200726500223
+[2026-09-02T09:39:23.063Z] [shard 5] JOBID 200726500223 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:39:25.123Z] [shard 5] JOBID 200726500223 attempt 2/3 - opening https://www.naukri.com/job-listings-sap-btp-solution-architect-sap-ai-krazymantra-it-solutions-mumbai-12-to-20-years-200726500223
+[2026-09-02T09:39:55.145Z] [shard 5] JOBID 200726500223 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:39:57.204Z] [shard 5] JOBID 200726500223 attempt 3/3 - opening https://www.naukri.com/job-listings-sap-btp-solution-architect-sap-ai-krazymantra-it-solutions-mumbai-12-to-20-years-200726500223
+[2026-09-02T09:40:27.227Z] [shard 5] JOBID 200726500223 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:40:27.245Z] [shard 5] JOBID 200726500223 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:40:29.290Z] [shard 5] JOBID 200726500222 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-btp-solution-architect-sap-ai-krazymantra-it-solutions-bengaluru-12-to-20-years-200726500222
+[2026-09-02T09:40:59.314Z] [shard 5] JOBID 200726500222 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:41:01.373Z] [shard 5] JOBID 200726500222 attempt 2/3 - opening https://www.naukri.com/job-listings-sap-btp-solution-architect-sap-ai-krazymantra-it-solutions-bengaluru-12-to-20-years-200726500222
+[2026-09-02T09:41:31.397Z] [shard 5] JOBID 200726500222 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:41:33.451Z] [shard 5] JOBID 200726500222 attempt 3/3 - opening https://www.naukri.com/job-listings-sap-btp-solution-architect-sap-ai-krazymantra-it-solutions-bengaluru-12-to-20-years-200726500222
+[2026-09-02T09:42:03.465Z] [shard 5] JOBID 200726500222 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:42:03.482Z] [shard 5] JOBID 200726500222 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:42:05.526Z] [shard 5] JOBID 200426502669 attempt 1/3 - opening https://www.naukri.com/job-listings-azure-ai-agentic-specialist-team-lead-northbay-solutions-remote-10-to-15-years-200426502669
+[2026-09-02T09:42:35.549Z] [shard 5] JOBID 200426502669 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:42:37.612Z] [shard 5] JOBID 200426502669 attempt 2/3 - opening https://www.naukri.com/job-listings-azure-ai-agentic-specialist-team-lead-northbay-solutions-remote-10-to-15-years-200426502669
+[2026-09-02T09:43:07.623Z] [shard 5] JOBID 200426502669 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:43:09.684Z] [shard 5] JOBID 200426502669 attempt 3/3 - opening https://www.naukri.com/job-listings-azure-ai-agentic-specialist-team-lead-northbay-solutions-remote-10-to-15-years-200426502669
+[2026-09-02T09:43:39.704Z] [shard 5] JOBID 200426502669 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:43:39.727Z] [shard 5] JOBID 200426502669 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:43:41.771Z] [shard 5] JOBID 200326500640 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-lead-ai-engineer-data-coupa-software-inc-bengaluru-10-to-15-years-200326500640
+[2026-09-02T09:44:11.794Z] [shard 5] JOBID 200326500640 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:44:13.855Z] [shard 5] JOBID 200326500640 attempt 2/3 - opening https://www.naukri.com/job-listings-sr-lead-ai-engineer-data-coupa-software-inc-bengaluru-10-to-15-years-200326500640
+[2026-09-02T09:44:43.860Z] [shard 5] JOBID 200326500640 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:44:45.918Z] [shard 5] JOBID 200326500640 attempt 3/3 - opening https://www.naukri.com/job-listings-sr-lead-ai-engineer-data-coupa-software-inc-bengaluru-10-to-15-years-200326500640
+[2026-09-02T09:45:15.941Z] [shard 5] JOBID 200326500640 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:45:15.960Z] [shard 5] JOBID 200326500640 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:45:17.997Z] [shard 5] JOBID 200226504313 attempt 1/3 - opening https://www.naukri.com/job-listings-director-ai-and-data-solution-engineering-salesforce-bengaluru-12-to-17-years-200226504313
+[2026-09-02T09:45:48.021Z] [shard 5] JOBID 200226504313 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:45:50.084Z] [shard 5] JOBID 200226504313 attempt 2/3 - opening https://www.naukri.com/job-listings-director-ai-and-data-solution-engineering-salesforce-bengaluru-12-to-17-years-200226504313
+[2026-09-02T09:46:20.087Z] [shard 5] JOBID 200226504313 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:46:22.153Z] [shard 5] JOBID 200226504313 attempt 3/3 - opening https://www.naukri.com/job-listings-director-ai-and-data-solution-engineering-salesforce-bengaluru-12-to-17-years-200226504313
+[2026-09-02T09:46:52.173Z] [shard 5] JOBID 200226504313 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:46:52.193Z] [shard 5] JOBID 200226504313 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:46:54.238Z] [shard 5] JOBID 200226504312 attempt 1/3 - opening https://www.naukri.com/job-listings-director-ai-and-data-solution-engineering-salesforce-gurugram-12-to-17-years-200226504312
+[2026-09-02T09:47:24.261Z] [shard 5] JOBID 200226504312 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:47:26.324Z] [shard 5] JOBID 200226504312 attempt 2/3 - opening https://www.naukri.com/job-listings-director-ai-and-data-solution-engineering-salesforce-gurugram-12-to-17-years-200226504312
+[2026-09-02T09:47:56.347Z] [shard 5] JOBID 200226504312 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:47:58.413Z] [shard 5] JOBID 200226504312 attempt 3/3 - opening https://www.naukri.com/job-listings-director-ai-and-data-solution-engineering-salesforce-gurugram-12-to-17-years-200226504312
+[2026-09-02T09:48:28.436Z] [shard 5] JOBID 200226504312 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:48:28.452Z] [shard 5] JOBID 200226504312 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:48:30.491Z] [shard 5] JOBID 200226504196 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-bengaluru-10-to-15-years-200226504196
+[2026-09-02T09:49:00.503Z] [shard 5] JOBID 200226504196 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:49:02.565Z] [shard 5] JOBID 200226504196 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-bengaluru-10-to-15-years-200226504196
+[2026-09-02T09:49:32.588Z] [shard 5] JOBID 200226504196 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:49:34.650Z] [shard 5] JOBID 200226504196 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-bengaluru-10-to-15-years-200226504196
+[2026-09-02T09:50:04.673Z] [shard 5] JOBID 200226504196 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:50:04.692Z] [shard 5] JOBID 200226504196 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:50:06.736Z] [shard 5] JOBID 200226504195 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-mumbai-10-to-15-years-200226504195
+[2026-09-02T09:50:36.760Z] [shard 5] JOBID 200226504195 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:50:38.823Z] [shard 5] JOBID 200226504195 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-mumbai-10-to-15-years-200226504195
+[2026-09-02T09:51:08.844Z] [shard 5] JOBID 200226504195 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:51:10.904Z] [shard 5] JOBID 200226504195 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-mumbai-10-to-15-years-200226504195
+[2026-09-02T09:51:40.906Z] [shard 5] JOBID 200226504195 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:51:40.924Z] [shard 5] JOBID 200226504195 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:51:42.963Z] [shard 5] JOBID 200226504194 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-pune-10-to-15-years-200226504194
+[2026-09-02T09:52:12.983Z] [shard 5] JOBID 200226504194 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:52:15.038Z] [shard 5] JOBID 200226504194 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-pune-10-to-15-years-200226504194
+[2026-09-02T09:52:45.062Z] [shard 5] JOBID 200226504194 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:52:47.118Z] [shard 5] JOBID 200226504194 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-talent-matrix-llp-pune-10-to-15-years-200226504194
+[2026-09-02T09:53:17.141Z] [shard 5] JOBID 200226504194 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:53:17.158Z] [shard 5] JOBID 200226504194 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:53:19.205Z] [shard 5] JOBID 200226501266 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-nlp-deep-expert-logicplanet-it-services-bengaluru-10-to-12-years-200226501266
+[2026-09-02T09:53:49.219Z] [shard 5] JOBID 200226501266 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:53:51.278Z] [shard 5] JOBID 200226501266 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-nlp-deep-expert-logicplanet-it-services-bengaluru-10-to-12-years-200226501266
+[2026-09-02T09:54:21.302Z] [shard 5] JOBID 200226501266 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:54:23.360Z] [shard 5] JOBID 200226501266 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-nlp-deep-expert-logicplanet-it-services-bengaluru-10-to-12-years-200226501266
+[2026-09-02T09:54:53.383Z] [shard 5] JOBID 200226501266 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:54:53.400Z] [shard 5] JOBID 200226501266 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:54:55.445Z] [shard 5] JOBID 190626504167 attempt 1/3 - opening https://www.naukri.com/job-listings-data-lead-with-ai-sparix-global-private-limited-noida-12-to-17-years-190626504167
+[2026-09-02T09:55:25.469Z] [shard 5] JOBID 190626504167 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:55:27.529Z] [shard 5] JOBID 190626504167 attempt 2/3 - opening https://www.naukri.com/job-listings-data-lead-with-ai-sparix-global-private-limited-noida-12-to-17-years-190626504167
+[2026-09-02T09:55:57.553Z] [shard 5] JOBID 190626504167 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:55:59.608Z] [shard 5] JOBID 190626504167 attempt 3/3 - opening https://www.naukri.com/job-listings-data-lead-with-ai-sparix-global-private-limited-noida-12-to-17-years-190626504167
+[2026-09-02T09:56:29.623Z] [shard 5] JOBID 190626504167 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:56:29.642Z] [shard 5] JOBID 190626504167 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:56:31.680Z] [shard 5] JOBID 190626504155 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-generative-ai-sanjivani-edge-private-limited-noida-13-to-18-years-190626504155
+[2026-09-02T09:57:01.687Z] [shard 5] JOBID 190626504155 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:57:03.749Z] [shard 5] JOBID 190626504155 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-generative-ai-sanjivani-edge-private-limited-noida-13-to-18-years-190626504155
+[2026-09-02T09:57:33.772Z] [shard 5] JOBID 190626504155 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:57:35.828Z] [shard 5] JOBID 190626504155 attempt 3/3 - opening https://www.naukri.com/job-listings-ai-ml-architect-generative-ai-sanjivani-edge-private-limited-noida-13-to-18-years-190626504155
+[2026-09-02T09:58:05.851Z] [shard 5] JOBID 190626504155 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:58:05.870Z] [shard 5] JOBID 190626504155 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:58:07.910Z] [shard 5] JOBID 190626500941 attempt 1/3 - opening https://www.naukri.com/job-listings-salesforce-senior-technical-architect-cta-aspirants-salesforce-hyderabad-14-to-19-years-190626500941
+[2026-09-02T09:58:37.934Z] [shard 5] JOBID 190626500941 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:58:39.999Z] [shard 5] JOBID 190626500941 attempt 2/3 - opening https://www.naukri.com/job-listings-salesforce-senior-technical-architect-cta-aspirants-salesforce-hyderabad-14-to-19-years-190626500941
+[2026-09-02T09:59:10.021Z] [shard 5] JOBID 190626500941 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:59:12.081Z] [shard 5] JOBID 190626500941 attempt 3/3 - opening https://www.naukri.com/job-listings-salesforce-senior-technical-architect-cta-aspirants-salesforce-hyderabad-14-to-19-years-190626500941
+[2026-09-02T09:59:42.084Z] [shard 5] JOBID 190626500941 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T09:59:42.099Z] [shard 5] JOBID 190626500941 FAILED after 3 attempts - will retry on next run
+[2026-09-02T09:59:44.141Z] [shard 5] JOBID 190626500911 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-engineer-agentic-ai-workflows-nexthop-ai-bengaluru-10-to-15-years-190626500911
+[2026-09-02T10:00:14.157Z] [shard 5] JOBID 190626500911 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:00:16.213Z] [shard 5] JOBID 190626500911 attempt 2/3 - opening https://www.naukri.com/job-listings-lead-engineer-agentic-ai-workflows-nexthop-ai-bengaluru-10-to-15-years-190626500911
