@@ -1,0 +1,441 @@
+[2026-09-02T06:52:19.751Z] [shard 4] Input CSV loaded: 2759 total rows, 56 columns
+[2026-09-02T06:52:19.753Z] [shard 4] SHARDED MODE: processing rows 553-736 (of 2759 total)
+[2026-09-02T06:52:24.505Z] [shard 4] JOBID 60826500200 attempt 1/3 - opening https://www.naukri.com/job-listings-robotics-engineer-fresher-playto-labs-bengaluru-8-to-13-years-060826500200
+[2026-09-02T06:52:26.071Z] [shard 4] JOBID 60826500200 COMPLETED - description captured (1678 chars)
+[2026-09-02T06:52:28.115Z] [shard 4] JOBID 60826500190 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-engineer-barclays-shared-services-pune-8-to-17-years-060826500190
+[2026-09-02T06:52:29.025Z] [shard 4] JOBID 60826500190 COMPLETED - description captured (7333 chars)
+[2026-09-02T06:52:31.068Z] [shard 4] JOBID 60826036425 attempt 1/3 - opening https://www.naukri.com/job-listings-data-knowledge-engineer-pyramid-it-consulting-pune-8-to-13-years-060826036425
+[2026-09-02T06:52:31.841Z] [shard 4] JOBID 60826036425 COMPLETED - description captured (1348 chars)
+[2026-09-02T06:52:33.889Z] [shard 4] JOBID 60826035841 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ai-engineer-sutherland-chennai-8-to-13-years-060826035841
+[2026-09-02T06:52:34.840Z] [shard 4] JOBID 60826035841 COMPLETED - description captured (2483 chars)
+[2026-09-02T06:52:36.883Z] [shard 4] JOBID 60826033060 attempt 1/3 - opening https://www.naukri.com/job-listings-sales-lead-artificial-intelligence-ciel-hr-chennai-8-to-10-years-060826033060
+[2026-09-02T06:52:37.769Z] [shard 4] JOBID 60826033060 COMPLETED - description captured (2815 chars)
+[2026-09-02T06:52:37.794Z] [shard 4] Checkpoint saved (5 completed so far)
+[2026-09-02T06:52:39.840Z] [shard 4] JOBID 60826029525 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-technical-lead-mijas-consultants-jaipur-mumbai-thane-9-to-14-years-060826029525
+[2026-09-02T06:52:40.627Z] [shard 4] JOBID 60826029525 COMPLETED - description captured (1457 chars)
+[2026-09-02T06:52:42.679Z] [shard 4] JOBID 60826027453 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-net-developer-ai-systems-integration-full-stack-careernet-bengaluru-8-to-12-years-060826027453
+[2026-09-02T06:52:43.721Z] [shard 4] JOBID 60826027453 COMPLETED - description captured (1402 chars)
+[2026-09-02T06:52:45.765Z] [shard 4] JOBID 60826025611 attempt 1/3 - opening https://www.naukri.com/job-listings-python-fullstack-developer-allegis-group-hyderabad-pune-9-to-12-years-060826025611
+[2026-09-02T06:52:46.567Z] [shard 4] JOBID 60826025611 COMPLETED - description captured (3156 chars)
+[2026-09-02T06:52:48.612Z] [shard 4] JOBID 60826025434 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-quess-hyderabad-9-to-14-years-060826025434
+[2026-09-02T06:52:50.189Z] [shard 4] JOBID 60826025434 COMPLETED - description captured (4340 chars)
+[2026-09-02T06:52:52.234Z] [shard 4] JOBID 60826019353 attempt 1/3 - opening https://www.naukri.com/job-listings-digital-marketing-manager-ceat-mumbai-8-to-12-years-060826019353
+[2026-09-02T06:52:53.483Z] [shard 4] JOBID 60826019353 COMPLETED - description captured (4197 chars)
+[2026-09-02T06:52:53.507Z] [shard 4] Checkpoint saved (10 completed so far)
+[2026-09-02T06:52:55.556Z] [shard 4] JOBID 60826017863 attempt 1/3 - opening https://www.naukri.com/job-listings-software-development-engineer-ai-ml-ntt-data-inc-noida-hyderabad-gurugram-8-to-13-years-060826017863
+[2026-09-02T06:52:56.450Z] [shard 4] JOBID 60826017863 COMPLETED - description captured (7314 chars)
+[2026-09-02T06:52:58.494Z] [shard 4] JOBID 60826016016 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-software-engineer-ii-ai-platforms-mx-build-technologies-chennai-8-to-13-years-060826016016
+[2026-09-02T06:52:59.508Z] [shard 4] JOBID 60826016016 COMPLETED - description captured (1687 chars)
+[2026-09-02T06:53:01.549Z] [shard 4] JOBID 60726505011 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-engineer-matchmove-global-pte-ltd-mumbai-8-to-12-years-060726505011
+[2026-09-02T06:53:02.367Z] [shard 4] JOBID 60726505011 COMPLETED - description captured (4520 chars)
+[2026-09-02T06:53:04.410Z] [shard 4] JOBID 60726502651 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-architect-wishtree-technologies-llp-ahmedabad-8-to-10-years-060726502651
+[2026-09-02T06:53:05.505Z] [shard 4] JOBID 60726502651 COMPLETED - description captured (819 chars)
+[2026-09-02T06:53:07.550Z] [shard 4] JOBID 60726502110 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-staff-software-development-engineer-ai-engineer-zscaler-latam-mohali-8-to-13-years-060726502110
+[2026-09-02T06:53:08.542Z] [shard 4] JOBID 60726502110 COMPLETED - description captured (7863 chars)
+[2026-09-02T06:53:08.567Z] [shard 4] Checkpoint saved (15 completed so far)
+[2026-09-02T06:53:10.608Z] [shard 4] JOBID 50826935404 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-manager-axtria-india-private-limited-hyderabad-8-to-13-years-050826935404
+[2026-09-02T06:53:11.969Z] [shard 4] JOBID 50826935404 COMPLETED - description captured (5491 chars)
+[2026-09-02T06:53:14.014Z] [shard 4] JOBID 50826935026 attempt 1/3 - opening https://www.naukri.com/job-listings-tigergraph-db-developer-infosys-limited-bengaluru-9-to-12-years-050826935026
+[2026-09-02T06:53:14.904Z] [shard 4] JOBID 50826935026 COMPLETED - description captured (2110 chars)
+[2026-09-02T06:53:16.946Z] [shard 4] JOBID 50826934999 attempt 1/3 - opening https://www.naukri.com/job-listings-service-transformation-consultant-infosys-limited-bengaluru-9-to-14-years-050826934999
+[2026-09-02T06:53:18.153Z] [shard 4] JOBID 50826934999 COMPLETED - description captured (3471 chars)
+[2026-09-02T06:53:20.199Z] [shard 4] JOBID 50826934441 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-technologist-ai-genai-q2-fy-27-infosys-limited-bengaluru-8-to-13-years-050826934441
+[2026-09-02T06:53:21.922Z] [shard 4] JOBID 50826934441 COMPLETED - description captured (1740 chars)
+[2026-09-02T06:53:23.968Z] [shard 4] JOBID 50826934410 attempt 1/3 - opening https://www.naukri.com/job-listings-technology-architect-ai-genai-q2-fy-27-infosys-limited-bengaluru-8-to-9-years-050826934410
+[2026-09-02T06:53:25.256Z] [shard 4] JOBID 50826934410 COMPLETED - description captured (1579 chars)
+[2026-09-02T06:53:25.280Z] [shard 4] Checkpoint saved (20 completed so far)
+[2026-09-02T06:53:27.325Z] [shard 4] JOBID 50826934339 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-technologist-infosys-limited-bengaluru-8-to-13-years-050826934339
+[2026-09-02T06:53:28.659Z] [shard 4] JOBID 50826934339 COMPLETED - description captured (2082 chars)
+[2026-09-02T06:53:30.702Z] [shard 4] JOBID 50826932057 attempt 1/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-telco-consultant-accenture-solutions-pvt-ltd-gurugram-9-to-14-years-050826932057
+[2026-09-02T06:54:00.705Z] [shard 4] JOBID 50826932057 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T06:54:02.781Z] [shard 4] JOBID 50826932057 attempt 2/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-telco-consultant-accenture-solutions-pvt-ltd-gurugram-9-to-14-years-050826932057
+[2026-09-02T06:54:32.799Z] [shard 4] JOBID 50826932057 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T06:54:34.863Z] [shard 4] JOBID 50826932057 attempt 3/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-telco-consultant-accenture-solutions-pvt-ltd-gurugram-9-to-14-years-050826932057
+[2026-09-02T06:55:04.865Z] [shard 4] JOBID 50826932057 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T06:55:04.883Z] [shard 4] JOBID 50826932057 FAILED after 3 attempts - will retry on next run
+[2026-09-02T06:55:06.928Z] [shard 4] JOBID 50826929691 attempt 1/3 - opening https://www.naukri.com/job-listings-solutions-architect-ai-infrastructure-private-cloud-at-dawn-technologies-pune-bengaluru-8-to-10-years-050826929691
+[2026-09-02T06:55:07.993Z] [shard 4] JOBID 50826929691 COMPLETED - description captured (8076 chars)
+[2026-09-02T06:55:10.038Z] [shard 4] JOBID 50826926493 attempt 1/3 - opening https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-8-to-10-years-050826926493
+[2026-09-02T06:55:10.977Z] [shard 4] JOBID 50826926493 COMPLETED - description captured (5440 chars)
+[2026-09-02T06:55:13.022Z] [shard 4] JOBID 50826926367 attempt 1/3 - opening https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-8-to-10-years-050826926367
+[2026-09-02T06:55:14.280Z] [shard 4] JOBID 50826926367 COMPLETED - description captured (5543 chars)
+[2026-09-02T06:55:16.322Z] [shard 4] JOBID 50826926198 attempt 1/3 - opening https://www.naukri.com/job-listings-data-architect-accenture-solutions-pvt-ltd-pune-8-to-13-years-050826926198
+[2026-09-02T06:55:17.545Z] [shard 4] JOBID 50826926198 COMPLETED - description captured (4974 chars)
+[2026-09-02T06:55:17.574Z] [shard 4] Checkpoint saved (25 completed so far)
+[2026-09-02T06:55:19.614Z] [shard 4] JOBID 50826919574 attempt 1/3 - opening https://www.naukri.com/job-listings-forward-deployed-engineer-accenture-solutions-pvt-ltd-bengaluru-8-to-13-years-050826919574
+[2026-09-02T06:55:20.881Z] [shard 4] JOBID 50826919574 COMPLETED - description captured (3317 chars)
+[2026-09-02T06:55:22.927Z] [shard 4] JOBID 50826919039 attempt 1/3 - opening https://www.naukri.com/job-listings-forward-deployed-engineer-accenture-solutions-pvt-ltd-bengaluru-8-to-13-years-050826919039
+[2026-09-02T06:55:24.137Z] [shard 4] JOBID 50826919039 COMPLETED - description captured (3332 chars)
+[2026-09-02T06:55:26.184Z] [shard 4] JOBID 50826916887 attempt 1/3 - opening https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-pune-8-to-13-years-050826916887
+[2026-09-02T06:55:27.211Z] [shard 4] JOBID 50826916887 COMPLETED - description captured (2928 chars)
+[2026-09-02T06:55:29.255Z] [shard 4] JOBID 50826912829 attempt 1/3 - opening https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-bengaluru-8-to-13-years-050826912829
+[2026-09-02T06:55:30.094Z] [shard 4] JOBID 50826912829 COMPLETED - description captured (3041 chars)
+[2026-09-02T06:55:32.137Z] [shard 4] JOBID 50826910019 attempt 1/3 - opening https://www.naukri.com/job-listings-strategic-partnerships-leader-data-ai-prodapt-solutions-private-limited-chennai-8-to-13-years-050826910019
+[2026-09-02T06:55:33.068Z] [shard 4] JOBID 50826910019 COMPLETED - description captured (3379 chars)
+[2026-09-02T06:55:33.093Z] [shard 4] Checkpoint saved (30 completed so far)
+[2026-09-02T06:55:35.142Z] [shard 4] JOBID 50826909479 attempt 1/3 - opening https://www.naukri.com/job-listings-deputy-director-swe-app-arch-sr-principal-engineer-pepsico-global-business-services-india-llp-hyderabad-8-to-12-years-050826909479
+[2026-09-02T06:55:36.379Z] [shard 4] JOBID 50826909479 COMPLETED - description captured (6146 chars)
+[2026-09-02T06:55:38.419Z] [shard 4] JOBID 50826505676 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-cyber-security-sap-architect-technology-experts-hireflex247-india-private-limited-bengaluru-8-to-13-years-050826505676
+[2026-09-02T06:55:39.728Z] [shard 4] JOBID 50826505676 COMPLETED - description captured (4588 chars)
+[2026-09-02T06:55:41.774Z] [shard 4] JOBID 50826505650 attempt 1/3 - opening https://www.naukri.com/job-listings-engineering-manager-devops-cloud-infrastructure-verantos-pune-8-to-13-years-050826505650
+[2026-09-02T06:55:42.879Z] [shard 4] JOBID 50826505650 COMPLETED - description captured (4312 chars)
+[2026-09-02T06:55:44.924Z] [shard 4] JOBID 50826505633 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-pre-silicon-firmware-lead-ampere-computing-pune-8-to-10-years-050826505633
+[2026-09-02T06:55:45.740Z] [shard 4] JOBID 50826505633 COMPLETED - description captured (7486 chars)
+[2026-09-02T06:55:47.785Z] [shard 4] JOBID 50826505631 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-pre-silicon-firmware-lead-ampere-computing-bengaluru-8-to-10-years-050826505631
+[2026-09-02T06:55:48.908Z] [shard 4] JOBID 50826505631 COMPLETED - description captured (7491 chars)
+[2026-09-02T06:55:48.936Z] [shard 4] Checkpoint saved (35 completed so far)
+[2026-09-02T06:55:50.979Z] [shard 4] JOBID 50826505252 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-engineer-bayer-zydus-pharma-bengaluru-8-to-13-years-050826505252
+[2026-09-02T06:55:51.919Z] [shard 4] JOBID 50826505252 COMPLETED - description captured (6574 chars)
+[2026-09-02T06:55:53.967Z] [shard 4] JOBID 50826505249 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-engineer-data-scientist-agentic-ai-srm-technologies-chennai-8-to-13-years-050826505249
+[2026-09-02T06:55:54.949Z] [shard 4] JOBID 50826505249 COMPLETED - description captured (5101 chars)
+[2026-09-02T06:55:56.996Z] [shard 4] JOBID 50826505149 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-software-engineer-onetrust-bengaluru-8-to-13-years-050826505149
+[2026-09-02T06:55:57.927Z] [shard 4] JOBID 50826505149 COMPLETED - description captured (1717 chars)
+[2026-09-02T06:55:59.969Z] [shard 4] JOBID 50826504999 attempt 1/3 - opening https://www.naukri.com/job-listings-it-support-glean-bengaluru-8-to-13-years-050826504999
+[2026-09-02T06:56:00.920Z] [shard 4] JOBID 50826504999 COMPLETED - description captured (10775 chars)
+[2026-09-02T06:56:02.968Z] [shard 4] JOBID 50826504881 attempt 1/3 - opening https://www.naukri.com/job-listings-regional-account-manager-eventussecurity-hyderabad-8-to-12-years-050826504881
+[2026-09-02T06:56:04.641Z] [shard 4] JOBID 50826504881 COMPLETED - description captured (2221 chars)
+[2026-09-02T06:56:04.664Z] [shard 4] Checkpoint saved (40 completed so far)
+[2026-09-02T06:56:06.706Z] [shard 4] JOBID 50826504621 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-education-counselor-rooman-bengaluru-8-to-13-years-050826504621
+[2026-09-02T06:56:07.595Z] [shard 4] JOBID 50826504621 COMPLETED - description captured (2760 chars)
+[2026-09-02T06:56:09.637Z] [shard 4] JOBID 50826504477 attempt 1/3 - opening https://www.naukri.com/job-listings-qa-lead-automation-jumpgrowth-pune-8-to-11-years-050826504477
+[2026-09-02T06:56:10.520Z] [shard 4] JOBID 50826504477 COMPLETED - description captured (3297 chars)
+[2026-09-02T06:56:12.567Z] [shard 4] JOBID 50826504301 attempt 1/3 - opening https://www.naukri.com/job-listings-tech-lead-embedded-software-testing-thales-india-pvt-ltd-ghaziabad-8-to-12-years-050826504301
+[2026-09-02T06:56:13.609Z] [shard 4] JOBID 50826504301 COMPLETED - description captured (5483 chars)
+[2026-09-02T06:56:15.659Z] [shard 4] JOBID 50826504273 attempt 1/3 - opening https://www.naukri.com/job-listings-backup-storage-engineering-professioanl-bank-of-tokyo-mitsubishi-ufj-ltd-bengaluru-8-to-13-years-050826504273
+[2026-09-02T06:56:16.451Z] [shard 4] JOBID 50826504273 COMPLETED - description captured (8025 chars)
+[2026-09-02T06:56:18.490Z] [shard 4] JOBID 50826503837 attempt 1/3 - opening https://www.naukri.com/job-listings-operations-lead-o2c-lowes-services-india-private-limited-bengaluru-8-to-16-years-050826503837
+[2026-09-02T06:56:19.392Z] [shard 4] JOBID 50826503837 COMPLETED - description captured (6131 chars)
+[2026-09-02T06:56:19.398Z] [shard 4] Checkpoint saved (45 completed so far)
+[2026-09-02T06:56:21.442Z] [shard 4] JOBID 50826503820 attempt 1/3 - opening https://www.naukri.com/job-listings-physical-design-engineer-advanced-micro-devices-inc-bengaluru-8-to-13-years-050826503820
+[2026-09-02T06:56:22.375Z] [shard 4] JOBID 50826503820 COMPLETED - description captured (4163 chars)
+[2026-09-02T06:56:24.420Z] [shard 4] JOBID 50826503570 attempt 1/3 - opening https://www.naukri.com/job-listings-performance-tester-test-lead-kyndryl-chennai-8-to-10-years-050826503570
+[2026-09-02T06:56:25.335Z] [shard 4] JOBID 50826503570 COMPLETED - description captured (2817 chars)
+[2026-09-02T06:56:27.381Z] [shard 4] JOBID 50826503558 attempt 1/3 - opening https://www.naukri.com/job-listings-nfr-tester-test-lead-kyndryl-chennai-8-to-13-years-050826503558
+[2026-09-02T06:56:28.301Z] [shard 4] JOBID 50826503558 COMPLETED - description captured (3013 chars)
+[2026-09-02T06:56:30.350Z] [shard 4] JOBID 50826503557 attempt 1/3 - opening https://www.naukri.com/job-listings-it-security-tester-test-lead-kyndryl-chennai-8-to-13-years-050826503557
+[2026-09-02T06:56:31.906Z] [shard 4] JOBID 50826503557 COMPLETED - description captured (3037 chars)
+[2026-09-02T06:56:33.947Z] [shard 4] JOBID 50826503551 attempt 1/3 - opening https://www.naukri.com/job-listings-nf-tester-oat-tester-test-lead-kyndryl-chennai-8-to-13-years-050826503551
+[2026-09-02T06:56:34.943Z] [shard 4] JOBID 50826503551 COMPLETED - description captured (3390 chars)
+[2026-09-02T06:56:34.968Z] [shard 4] Checkpoint saved (50 completed so far)
+[2026-09-02T06:56:37.007Z] [shard 4] JOBID 50826503549 attempt 1/3 - opening https://www.naukri.com/job-listings-nfr-tester-test-lead-kyndryl-chennai-8-to-13-years-050826503549
+[2026-09-02T06:56:37.911Z] [shard 4] JOBID 50826503549 COMPLETED - description captured (3005 chars)
+[2026-09-02T06:56:39.961Z] [shard 4] JOBID 50826503548 attempt 1/3 - opening https://www.naukri.com/job-listings-nfr-tester-test-lead-kyndryl-chennai-8-to-13-years-050826503548
+[2026-09-02T06:56:41.000Z] [shard 4] JOBID 50826503548 COMPLETED - description captured (2944 chars)
+[2026-09-02T06:56:43.046Z] [shard 4] JOBID 50826503519 attempt 1/3 - opening https://www.naukri.com/job-listings-area-sales-manager-manager-qr-khandwa-paytm-payments-services-limited-khandwa-8-to-12-years-050826503519
+[2026-09-02T06:56:44.002Z] [shard 4] JOBID 50826503519 COMPLETED - description captured (2142 chars)
+[2026-09-02T06:56:46.042Z] [shard 4] JOBID 50826503518 attempt 1/3 - opening https://www.naukri.com/job-listings-area-sales-manager-manager-qr-sagar-paytm-payments-services-limited-sagar-8-to-12-years-050826503518
+[2026-09-02T06:56:47.118Z] [shard 4] JOBID 50826503518 COMPLETED - description captured (1962 chars)
+[2026-09-02T06:56:49.159Z] [shard 4] JOBID 50826503228 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-test-engineer-mobile-rockwell-automation-pune-8-to-11-years-050826503228
+[2026-09-02T06:56:50.206Z] [shard 4] JOBID 50826503228 COMPLETED - description captured (5944 chars)
+[2026-09-02T06:56:50.218Z] [shard 4] Checkpoint saved (55 completed so far)
+[2026-09-02T06:56:52.263Z] [shard 4] JOBID 50826503088 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-manager-marketing-operations-alation-chennai-8-to-13-years-050826503088
+[2026-09-02T06:56:53.126Z] [shard 4] JOBID 50826503088 COMPLETED - description captured (6586 chars)
+[2026-09-02T06:56:55.172Z] [shard 4] JOBID 50826503079 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-software-engineer-java-backend-cloud-architecture-guidewire-software-inc-bengaluru-8-to-13-years-050826503079
+[2026-09-02T06:56:56.228Z] [shard 4] JOBID 50826503079 COMPLETED - description captured (5515 chars)
+[2026-09-02T06:56:58.272Z] [shard 4] JOBID 50826502935 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-search-lead-mediamonks-mumbai-8-to-13-years-050826502935
+[2026-09-02T06:56:59.317Z] [shard 4] JOBID 50826502935 COMPLETED - description captured (5522 chars)
+[2026-09-02T06:57:01.358Z] [shard 4] JOBID 50826502828 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-developer-endpoint-cloud-arctic-wolf-networks-bengaluru-8-to-12-years-050826502828
+[2026-09-02T06:57:02.703Z] [shard 4] JOBID 50826502828 COMPLETED - description captured (3499 chars)
+[2026-09-02T06:57:04.745Z] [shard 4] JOBID 50826502816 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-software-engineer-ii-insurity-noida-8-to-13-years-050826502816
+[2026-09-02T06:57:05.572Z] [shard 4] JOBID 50826502816 COMPLETED - description captured (2907 chars)
+[2026-09-02T06:57:05.600Z] [shard 4] Checkpoint saved (60 completed so far)
+[2026-09-02T06:57:07.645Z] [shard 4] JOBID 50826502730 attempt 1/3 - opening https://www.naukri.com/job-listings-vice-president-snowflake-data-engineer-bnymelloninternationaloperations-india-privatelim-ited-pune-9-to-13-years-050826502730
+[2026-09-02T06:57:09.018Z] [shard 4] JOBID 50826502730 COMPLETED - description captured (4003 chars)
+[2026-09-02T06:57:11.065Z] [shard 4] JOBID 50826502635 attempt 1/3 - opening https://www.naukri.com/job-listings-non-functional-oat-tester-test-lead-kyndryl-chennai-8-to-13-years-050826502635
+[2026-09-02T06:57:12.176Z] [shard 4] JOBID 50826502635 COMPLETED - description captured (3034 chars)
+[2026-09-02T06:57:14.220Z] [shard 4] JOBID 50826502631 attempt 1/3 - opening https://www.naukri.com/job-listings-nf-oat-tester-test-lead-kyndryl-chennai-8-to-13-years-050826502631
+[2026-09-02T06:57:15.170Z] [shard 4] JOBID 50826502631 COMPLETED - description captured (3010 chars)
+[2026-09-02T06:57:17.212Z] [shard 4] JOBID 50826501644 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-assurant-bengaluru-8-to-13-years-050826501644
+[2026-09-02T06:57:18.380Z] [shard 4] JOBID 50826501644 COMPLETED - description captured (4448 chars)
+[2026-09-02T06:57:20.418Z] [shard 4] JOBID 50826039596 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-data-scientist-nxtwave-disruptive-technologies-hiring-for-a-client-pune-8-to-12-years-050826039596
+[2026-09-02T06:57:21.296Z] [shard 4] JOBID 50826039596 COMPLETED - description captured (3034 chars)
+[2026-09-02T06:57:21.326Z] [shard 4] Checkpoint saved (65 completed so far)
+[2026-09-02T06:57:23.373Z] [shard 4] JOBID 50826037600 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-product-manager-fraud-risk-empover-chandigarh-8-to-13-years-050826037600
+[2026-09-02T06:57:24.234Z] [shard 4] JOBID 50826037600 COMPLETED - description captured (6036 chars)
+[2026-09-02T06:57:26.278Z] [shard 4] JOBID 50826036493 attempt 1/3 - opening https://www.naukri.com/job-listings-machine-learning-architect-chennai-novac-chennai-9-to-14-years-050826036493
+[2026-09-02T06:57:27.110Z] [shard 4] JOBID 50826036493 COMPLETED - description captured (5632 chars)
+[2026-09-02T06:57:29.152Z] [shard 4] JOBID 50826036095 attempt 1/3 - opening https://www.naukri.com/job-listings-python-ai-engineer-alphacom-systems-and-solutions-hyderabad-8-to-12-years-050826036095
+[2026-09-02T06:57:30.228Z] [shard 4] JOBID 50826036095 COMPLETED - description captured (1860 chars)
+[2026-09-02T06:57:32.274Z] [shard 4] JOBID 50826035970 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-ba-us-healthcare-integrity-ai-data-analysis-mandat-tanisha-systems-hyderabad-pune-bengaluru-9-to-14-years-050826035970
+[2026-09-02T06:57:33.113Z] [shard 4] JOBID 50826035970 COMPLETED - description captured (516 chars)
+[2026-09-02T06:57:35.164Z] [shard 4] JOBID 50826035956 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-testing-api-testing-manual-hexaware-technologies-hyderabad-pune-chennai-9-to-14-years-050826035956
+[2026-09-02T06:57:36.489Z] [shard 4] JOBID 50826035956 COMPLETED - description captured (1212 chars)
+[2026-09-02T06:57:36.515Z] [shard 4] Checkpoint saved (70 completed so far)
+[2026-09-02T06:57:38.562Z] [shard 4] JOBID 50826034786 attempt 1/3 - opening https://www.naukri.com/job-listings-software-development-team-lead-gwyneth-information-gurugram-8-to-13-years-050826034786
+[2026-09-02T06:57:39.418Z] [shard 4] JOBID 50826034786 COMPLETED - description captured (2885 chars)
+[2026-09-02T06:57:41.462Z] [shard 4] JOBID 50826032334 attempt 1/3 - opening https://www.naukri.com/job-listings-machine-learning-developer-cloudxtreme-pune-bengaluru-pan-india-8-to-13-years-050826032334
+[2026-09-02T06:57:42.290Z] [shard 4] JOBID 50826032334 COMPLETED - description captured (4223 chars)
+[2026-09-02T06:57:44.330Z] [shard 4] JOBID 50826030618 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-albireo-hyderabad-pune-chennai-bengaluru-8-to-10-years-050826030618
+[2026-09-02T06:57:45.128Z] [shard 4] JOBID 50826030618 COMPLETED - description captured (151 chars)
+[2026-09-02T06:57:47.172Z] [shard 4] JOBID 50826030564 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-data-scientist-ganit-business-solutions-bengaluru-delhi-ncr-mumbai-all-areas-8-to-12-years-050826030564
+[2026-09-02T06:57:48.332Z] [shard 4] JOBID 50826030564 COMPLETED - description captured (4887 chars)
+[2026-09-02T06:57:50.376Z] [shard 4] JOBID 50826030221 attempt 1/3 - opening https://www.naukri.com/job-listings-microsoft-fabric-architect-azure-databricks-tiger-analytics-chennai-bengaluru-delhi-ncr-8-to-13-years-050826030221
+[2026-09-02T06:57:51.251Z] [shard 4] JOBID 50826030221 COMPLETED - description captured (4881 chars)
+[2026-09-02T06:57:51.267Z] [shard 4] Checkpoint saved (75 completed so far)
+[2026-09-02T06:57:53.311Z] [shard 4] JOBID 50826030200 attempt 1/3 - opening https://www.naukri.com/job-listings-servicenow-ai-ops-architect-careernet-kolkata-8-to-10-years-050826030200
+[2026-09-02T06:57:54.383Z] [shard 4] JOBID 50826030200 COMPLETED - description captured (3798 chars)
+[2026-09-02T06:57:56.429Z] [shard 4] JOBID 50826024990 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-pre-sales-specialist-ai-infrastructure-and-industrial-ai-emtech-dubai-8-to-12-years-050826024990
+[2026-09-02T06:57:57.283Z] [shard 4] JOBID 50826024990 COMPLETED - description captured (1741 chars)
+[2026-09-02T06:57:59.328Z] [shard 4] JOBID 50826024013 attempt 1/3 - opening https://www.naukri.com/job-listings-python-developer-lead-cgi-hyderabad-chennai-bengaluru-8-to-10-years-050826024013
+[2026-09-02T06:58:00.325Z] [shard 4] JOBID 50826024013 COMPLETED - description captured (1740 chars)
+[2026-09-02T06:58:02.368Z] [shard 4] JOBID 50826023388 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-technical-lead-ai-ml-hcltech-bengaluru-8-to-13-years-050826023388
+[2026-09-02T06:58:03.683Z] [shard 4] JOBID 50826023388 COMPLETED - description captured (2298 chars)
+[2026-09-02T06:58:05.725Z] [shard 4] JOBID 50826022622 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-full-stack-engineer-vdartdigital-bengaluru-8-to-13-years-050826022622
+[2026-09-02T06:58:06.794Z] [shard 4] JOBID 50826022622 COMPLETED - description captured (2249 chars)
+[2026-09-02T06:58:06.811Z] [shard 4] Checkpoint saved (80 completed so far)
+[2026-09-02T06:58:08.856Z] [shard 4] JOBID 50826016335 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-team-lead-astar-data-hyderabad-8-to-13-years-050826016335
+[2026-09-02T06:58:10.270Z] [shard 4] JOBID 50826016335 COMPLETED - description captured (3858 chars)
+[2026-09-02T06:58:12.318Z] [shard 4] JOBID 50826014552 attempt 1/3 - opening https://www.naukri.com/job-listings-python-ai-engineer-highbrow-technology-inc-pune-chennai-delhi-ncr-8-to-11-years-050826014552
+[2026-09-02T06:58:13.202Z] [shard 4] JOBID 50826014552 COMPLETED - description captured (536 chars)
+[2026-09-02T06:58:15.245Z] [shard 4] JOBID 50826000540 attempt 1/3 - opening https://www.naukri.com/job-listings-python-full-stack-ai-engineer-bounteous-hyderabad-gurugram-bengaluru-8-to-12-years-050826000540
+[2026-09-02T06:58:16.088Z] [shard 4] JOBID 50826000540 COMPLETED - description captured (971 chars)
+[2026-09-02T06:58:18.133Z] [shard 4] JOBID 50426003266 attempt 1/3 - opening https://www.naukri.com/job-listings-snowflake-architect-tiger-analytics-hyderabad-chennai-bengaluru-9-to-14-years-050426003266
+[2026-09-02T06:58:19.352Z] [shard 4] JOBID 50426003266 COMPLETED - description captured (3865 chars)
+[2026-09-02T06:58:21.426Z] [shard 4] JOBID 40826929235 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineering-architect-infosys-limited-bengaluru-8-to-13-years-040826929235
+[2026-09-02T06:58:22.805Z] [shard 4] JOBID 40826929235 COMPLETED - description captured (4346 chars)
+[2026-09-02T06:58:22.827Z] [shard 4] Checkpoint saved (85 completed so far)
+[2026-09-02T06:58:24.884Z] [shard 4] JOBID 40826929224 attempt 1/3 - opening https://www.naukri.com/job-listings-data-engineering-ai-architect-infosys-limited-bengaluru-8-to-13-years-040826929224
+[2026-09-02T06:58:26.806Z] [shard 4] JOBID 40826929224 COMPLETED - description captured (4201 chars)
+[2026-09-02T06:58:28.847Z] [shard 4] JOBID 40826929222 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-trust-and-governance-architect-infosys-limited-bengaluru-8-to-13-years-040826929222
+[2026-09-02T06:58:29.717Z] [shard 4] JOBID 40826929222 COMPLETED - description captured (4012 chars)
+[2026-09-02T06:58:31.761Z] [shard 4] JOBID 40826929221 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-strategic-consultant-infosys-limited-bengaluru-8-to-13-years-040826929221
+[2026-09-02T06:58:32.954Z] [shard 4] JOBID 40826929221 COMPLETED - description captured (3445 chars)
+[2026-09-02T06:58:34.996Z] [shard 4] JOBID 40826929220 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-quality-engineering-lead-infosys-limited-bengaluru-8-to-13-years-040826929220
+[2026-09-02T06:58:36.563Z] [shard 4] JOBID 40826929220 COMPLETED - description captured (4031 chars)
+[2026-09-02T06:58:38.611Z] [shard 4] JOBID 40826922309 attempt 1/3 - opening https://www.naukri.com/job-listings-teamcenter-architect-capgemini-technology-services-india-limited-hyderabad-9-to-14-years-040826922309
+[2026-09-02T06:58:39.466Z] [shard 4] JOBID 40826922309 COMPLETED - description captured (2970 chars)
+[2026-09-02T06:58:39.485Z] [shard 4] Checkpoint saved (90 completed so far)
+[2026-09-02T06:58:41.526Z] [shard 4] JOBID 40826922133 attempt 1/3 - opening https://www.naukri.com/job-listings-director-solutions-delivery-ognam-technology-services-pvt-ltd-pune-8-to-13-years-040826922133
+[2026-09-02T06:58:42.316Z] [shard 4] JOBID 40826922133 COMPLETED - description captured (3099 chars)
+[2026-09-02T06:58:44.357Z] [shard 4] JOBID 40826922058 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-llm-rag-engineer-legacy-modernization-grid-dynamics-private-limited-hyderabad-chennai-bengaluru-9-to-13-years-040826922058
+[2026-09-02T06:58:45.200Z] [shard 4] JOBID 40826922058 COMPLETED - description captured (3540 chars)
+[2026-09-02T06:58:47.244Z] [shard 4] JOBID 40826921716 attempt 1/3 - opening https://www.naukri.com/job-listings-teamcenter-creo-ipem-architect-capgemini-technology-services-india-limited-bengaluru-9-to-14-years-040826921716
+[2026-09-02T06:58:48.024Z] [shard 4] JOBID 40826921716 COMPLETED - description captured (1993 chars)
+[2026-09-02T06:58:50.070Z] [shard 4] JOBID 40826910598 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-technical-lead-delivery-moxieit-digital-private-limited-pune-9-to-12-years-040826910598
+[2026-09-02T06:58:50.941Z] [shard 4] JOBID 40826910598 COMPLETED - description captured (1284 chars)
+[2026-09-02T06:58:52.984Z] [shard 4] JOBID 40826910596 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-technical-lead-delivery-moxieit-digital-private-limited-kolkata-hyderabad-chennai-9-to-12-years-040826910596
+[2026-09-02T06:58:53.731Z] [shard 4] JOBID 40826910596 COMPLETED - description captured (1284 chars)
+[2026-09-02T06:58:53.760Z] [shard 4] Checkpoint saved (95 completed so far)
+[2026-09-02T06:58:55.808Z] [shard 4] JOBID 40826910591 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-technical-lead-delivery-moxieit-digital-private-limited-mumbai-delhi-ncr-bengaluru-9-to-12-years-040826910591
+[2026-09-02T06:58:56.708Z] [shard 4] JOBID 40826910591 COMPLETED - description captured (1284 chars)
+[2026-09-02T06:58:58.754Z] [shard 4] JOBID 40826909633 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-adobe-campaign-ajo-consultant-infosys-limited-bengaluru-9-to-14-years-040826909633
+[2026-09-02T06:58:59.844Z] [shard 4] JOBID 40826909633 COMPLETED - description captured (2008 chars)
+[2026-09-02T06:59:01.889Z] [shard 4] JOBID 40826909604 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-interaction-designer-q2-27-infosys-limited-chennai-8-to-12-years-040826909604
+[2026-09-02T06:59:02.989Z] [shard 4] JOBID 40826909604 COMPLETED - description captured (2307 chars)
+[2026-09-02T06:59:05.035Z] [shard 4] JOBID 40826909293 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-product-designer-q2-27-infosys-limited-bengaluru-8-to-12-years-040826909293
+[2026-09-02T06:59:06.120Z] [shard 4] JOBID 40826909293 COMPLETED - description captured (1574 chars)
+[2026-09-02T06:59:08.163Z] [shard 4] JOBID 40826909261 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-interaction-designer-q2-27-infosys-limited-pune-8-to-12-years-040826909261
+[2026-09-02T06:59:09.424Z] [shard 4] JOBID 40826909261 COMPLETED - description captured (2471 chars)
+[2026-09-02T06:59:09.432Z] [shard 4] Checkpoint saved (100 completed so far)
+[2026-09-02T06:59:11.483Z] [shard 4] JOBID 40826502854 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-assurant-hyderabad-8-to-13-years-040826502854
+[2026-09-02T06:59:12.793Z] [shard 4] JOBID 40826502854 COMPLETED - description captured (4448 chars)
+[2026-09-02T06:59:14.841Z] [shard 4] JOBID 40826502053 attempt 1/3 - opening https://www.naukri.com/job-listings-solution-engineer-post-sales-hevo-technologies-india-private-limited-bengaluru-9-to-14-years-040826502053
+[2026-09-02T06:59:15.969Z] [shard 4] JOBID 40826502053 COMPLETED - description captured (7175 chars)
+[2026-09-02T06:59:18.016Z] [shard 4] JOBID 40826501408 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-ai-platform-engineer-bread-financial-bengaluru-8-to-13-years-040826501408
+[2026-09-02T06:59:19.032Z] [shard 4] JOBID 40826501408 COMPLETED - description captured (4380 chars)
+[2026-09-02T06:59:21.075Z] [shard 4] JOBID 40826501117 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-gcp-devops-engineer-r-19673-eyeota-hyderabad-8-to-12-years-040826501117
+[2026-09-02T06:59:21.965Z] [shard 4] JOBID 40826501117 COMPLETED - description captured (2352 chars)
+[2026-09-02T06:59:24.014Z] [shard 4] JOBID 40826033508 attempt 1/3 - opening https://www.naukri.com/job-listings-hiring-for-senior-data-scientist-orange-business-services-gurugram-8-to-13-years-040826033508
+[2026-09-02T06:59:24.821Z] [shard 4] JOBID 40826033508 COMPLETED - description captured (3762 chars)
+[2026-09-02T06:59:24.845Z] [shard 4] Checkpoint saved (105 completed so far)
+[2026-09-02T06:59:26.889Z] [shard 4] JOBID 40826032916 attempt 1/3 - opening https://www.naukri.com/job-listings-fullstack-developer-pyramid-it-consulting-pune-chennai-8-to-13-years-040826032916
+[2026-09-02T06:59:27.810Z] [shard 4] JOBID 40826032916 COMPLETED - description captured (1147 chars)
+[2026-09-02T06:59:29.857Z] [shard 4] JOBID 40826032852 attempt 1/3 - opening https://www.naukri.com/job-listings-development-manager-grey-chain-delhi-ncr-9-to-11-years-040826032852
+[2026-09-02T06:59:30.706Z] [shard 4] JOBID 40826032852 COMPLETED - description captured (5132 chars)
+[2026-09-02T06:59:32.766Z] [shard 4] JOBID 40826031575 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ai-ml-engineer-hinduja-global-solutions-hgs-indore-hyderabad-8-to-10-years-040826031575
+[2026-09-02T06:59:33.582Z] [shard 4] JOBID 40826031575 COMPLETED - description captured (4672 chars)
+[2026-09-02T06:59:35.627Z] [shard 4] JOBID 40826031044 attempt 1/3 - opening https://www.naukri.com/job-listings-agentic-ai-or-generative-ai-solution-architecture-talent-smart-soft-solutions-hyderabad-chennai-bengaluru-8-to-13-years-040826031044
+[2026-09-02T06:59:36.605Z] [shard 4] JOBID 40826031044 COMPLETED - description captured (1532 chars)
+[2026-09-02T06:59:38.652Z] [shard 4] JOBID 40826029864 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-software-engineering-architect-tata-consultancy-services-hyderabad-bengaluru-8-to-13-years-040826029864
+[2026-09-02T06:59:39.578Z] [shard 4] JOBID 40826029864 COMPLETED - description captured (879 chars)
+[2026-09-02T06:59:39.597Z] [shard 4] Checkpoint saved (110 completed so far)
+[2026-09-02T06:59:41.649Z] [shard 4] JOBID 40826023892 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineer-azure-copilot-studio-genai-tech-mahindra-noida-9-to-14-years-040826023892
+[2026-09-02T06:59:42.519Z] [shard 4] JOBID 40826023892 COMPLETED - description captured (3864 chars)
+[2026-09-02T06:59:44.569Z] [shard 4] JOBID 40826022538 attempt 1/3 - opening https://www.naukri.com/job-listings-generative-ai-developer-specialist-hexaware-technologies-hyderabad-8-to-13-years-040826022538
+[2026-09-02T06:59:46.007Z] [shard 4] JOBID 40826022538 COMPLETED - description captured (3215 chars)
+[2026-09-02T06:59:48.058Z] [shard 4] JOBID 40826020624 attempt 1/3 - opening https://www.naukri.com/job-listings-salesforce-business-analyst-maantic-technologies-pune-8-to-12-years-040826020624
+[2026-09-02T06:59:48.901Z] [shard 4] JOBID 40826020624 COMPLETED - description captured (1716 chars)
+[2026-09-02T06:59:50.952Z] [shard 4] JOBID 40826020484 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-software-engineer-opteamix-bengaluru-8-to-12-years-040826020484
+[2026-09-02T06:59:51.815Z] [shard 4] JOBID 40826020484 COMPLETED - description captured (1006 chars)
+[2026-09-02T06:59:53.862Z] [shard 4] JOBID 40826019019 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-validation-engineer-sunrise-biztech-systems-bengaluru-8-to-12-years-040826019019
+[2026-09-02T06:59:54.762Z] [shard 4] JOBID 40826019019 COMPLETED - description captured (1966 chars)
+[2026-09-02T06:59:54.769Z] [shard 4] Checkpoint saved (115 completed so far)
+[2026-09-02T06:59:56.816Z] [shard 4] JOBID 40826010381 attempt 1/3 - opening https://www.naukri.com/job-listings-data-science-manager-tredence-bengaluru-8-to-13-years-040826010381
+[2026-09-02T06:59:57.993Z] [shard 4] JOBID 40826010381 COMPLETED - description captured (4269 chars)
+[2026-09-02T07:00:00.042Z] [shard 4] JOBID 40826008501 attempt 1/3 - opening https://www.naukri.com/job-listings-research-and-development-manager-talent-hired-the-store-nashik-9-to-14-years-040826008501
+[2026-09-02T07:00:00.841Z] [shard 4] JOBID 40826008501 COMPLETED - description captured (1120 chars)
+[2026-09-02T07:00:02.889Z] [shard 4] JOBID 40826000320 attempt 1/3 - opening https://www.naukri.com/job-listings-art-director-elearning-media-innovation-onsite-pune-or-noid-infopro-learning-pune-8-to-13-years-040826000320
+[2026-09-02T07:00:03.719Z] [shard 4] JOBID 40826000320 COMPLETED - description captured (1983 chars)
+[2026-09-02T07:00:05.764Z] [shard 4] JOBID 30826921577 attempt 1/3 - opening https://www.naukri.com/job-listings-specialist-is-business-systems-analyst-r-d-data-catalyst-team-amgen-inc-hyderabad-8-to-12-years-030826921577
+[2026-09-02T07:00:07.264Z] [shard 4] JOBID 30826921577 COMPLETED - description captured (10098 chars)
+[2026-09-02T07:00:09.308Z] [shard 4] JOBID 30826921575 attempt 1/3 - opening https://www.naukri.com/job-listings-medical-operations-manager-amgen-inc-hyderabad-8-to-13-years-030826921575
+[2026-09-02T07:00:10.271Z] [shard 4] JOBID 30826921575 COMPLETED - description captured (6012 chars)
+[2026-09-02T07:00:10.300Z] [shard 4] Checkpoint saved (120 completed so far)
+[2026-09-02T07:00:12.353Z] [shard 4] JOBID 30826921559 attempt 1/3 - opening https://www.naukri.com/job-listings-commercial-analytics-manager-amgen-inc-hyderabad-8-to-13-years-030826921559
+[2026-09-02T07:00:13.299Z] [shard 4] JOBID 30826921559 COMPLETED - description captured (3908 chars)
+[2026-09-02T07:00:15.345Z] [shard 4] JOBID 30826921558 attempt 1/3 - opening https://www.naukri.com/job-listings-specialist-user-experience-amgen-inc-hyderabad-8-to-13-years-030826921558
+[2026-09-02T07:00:16.173Z] [shard 4] JOBID 30826921558 COMPLETED - description captured (5613 chars)
+[2026-09-02T07:00:18.220Z] [shard 4] JOBID 30826921537 attempt 1/3 - opening https://www.naukri.com/job-listings-mgr-biostatistics-study-statistician-and-or-study-lead-statistician-amgen-inc-hyderabad-8-to-13-years-030826921537
+[2026-09-02T07:00:19.865Z] [shard 4] JOBID 30826921537 COMPLETED - description captured (3803 chars)
+[2026-09-02T07:00:21.913Z] [shard 4] JOBID 30826921472 attempt 1/3 - opening https://www.naukri.com/job-listings-commercial-analytics-senior-manager-amgen-inc-hyderabad-9-to-13-years-030826921472
+[2026-09-02T07:00:23.158Z] [shard 4] JOBID 30826921472 COMPLETED - description captured (3021 chars)
+[2026-09-02T07:00:25.214Z] [shard 4] JOBID 30826921462 attempt 1/3 - opening https://www.naukri.com/job-listings-specialist-is-architect-rapid-response-amgen-inc-hyderabad-9-to-12-years-030826921462
+[2026-09-02T07:00:26.244Z] [shard 4] JOBID 30826921462 COMPLETED - description captured (6694 chars)
+[2026-09-02T07:00:26.252Z] [shard 4] Checkpoint saved (125 completed so far)
+[2026-09-02T07:00:28.303Z] [shard 4] JOBID 30826921456 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-data-scientist-perturbation-biology-amgen-inc-hyderabad-8-to-13-years-030826921456
+[2026-09-02T07:00:29.240Z] [shard 4] JOBID 30826921456 COMPLETED - description captured (5609 chars)
+[2026-09-02T07:00:31.287Z] [shard 4] JOBID 30826920112 attempt 1/3 - opening https://www.naukri.com/job-listings-strategic-growth-init-counsel-manager-accenture-solutions-pvt-ltd-bengaluru-8-to-13-years-030826920112
+[2026-09-02T07:00:32.757Z] [shard 4] JOBID 30826920112 COMPLETED - description captured (4516 chars)
+[2026-09-02T07:00:34.801Z] [shard 4] JOBID 30826918330 attempt 1/3 - opening https://www.naukri.com/job-listings-acn-gn-song-marketing-transformation-lifesciences-manager-accenture-solutions-pvt-ltd-gurugram-8-to-12-years-030826918330
+[2026-09-02T07:00:35.746Z] [shard 4] JOBID 30826918330 COMPLETED - description captured (11474 chars)
+[2026-09-02T07:00:37.792Z] [shard 4] JOBID 30826918250 attempt 1/3 - opening https://www.naukri.com/job-listings-gn-industry-strategy-cgrt-manager-accenture-solutions-pvt-ltd-bengaluru-8-to-10-years-030826918250
+[2026-09-02T07:00:38.732Z] [shard 4] JOBID 30826918250 COMPLETED - description captured (6814 chars)
+[2026-09-02T07:00:40.775Z] [shard 4] JOBID 30826914748 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-solution-architect-santriya-technologies-chennai-8-to-13-years-030826914748
+[2026-09-02T07:00:41.753Z] [shard 4] JOBID 30826914748 COMPLETED - description captured (1401 chars)
+[2026-09-02T07:00:41.778Z] [shard 4] Checkpoint saved (130 completed so far)
+[2026-09-02T07:00:43.820Z] [shard 4] JOBID 30826501988 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-python-ai-ml-developer-papigen-private-limited-remote-8-to-13-years-030826501988
+[2026-09-02T07:00:44.720Z] [shard 4] JOBID 30826501988 COMPLETED - description captured (3105 chars)
+[2026-09-02T07:00:46.766Z] [shard 4] JOBID 30826501844 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-ai-solutions-architect-resource-pro-remote-8-to-14-years-030826501844
+[2026-09-02T07:00:47.690Z] [shard 4] JOBID 30826501844 COMPLETED - description captured (800 chars)
+[2026-09-02T07:00:49.732Z] [shard 4] JOBID 30826500829 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-member-of-technical-staff-ai-platform-vmware-india-bengaluru-8-to-13-years-030826500829
+[2026-09-02T07:00:50.526Z] [shard 4] JOBID 30826500829 COMPLETED - description captured (4894 chars)
+[2026-09-02T07:00:52.574Z] [shard 4] JOBID 30826500827 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-member-of-technical-staff-ai-platform-vmware-india-kalyani-8-to-13-years-030826500827
+[2026-09-02T07:00:53.340Z] [shard 4] JOBID 30826500827 COMPLETED - description captured (4894 chars)
+[2026-09-02T07:00:55.391Z] [shard 4] JOBID 30826500823 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-member-of-technical-staff-ai-platform-broadcom-bengaluru-8-to-13-years-030826500823
+[2026-09-02T07:00:56.394Z] [shard 4] JOBID 30826500823 COMPLETED - description captured (4894 chars)
+[2026-09-02T07:00:56.412Z] [shard 4] Checkpoint saved (135 completed so far)
+[2026-09-02T07:00:58.458Z] [shard 4] JOBID 30826500822 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-member-of-technical-staff-ai-platform-broadcom-kalyani-8-to-13-years-030826500822
+[2026-09-02T07:00:59.284Z] [shard 4] JOBID 30826500822 COMPLETED - description captured (4894 chars)
+[2026-09-02T07:01:01.335Z] [shard 4] JOBID 30826500811 attempt 1/3 - opening https://www.naukri.com/job-listings-product-manager-valueops-financial-intelligence-solution-broadcom-kalyani-8-to-13-years-030826500811
+[2026-09-02T07:01:02.178Z] [shard 4] JOBID 30826500811 COMPLETED - description captured (10596 chars)
+[2026-09-02T07:01:04.227Z] [shard 4] JOBID 30826500119 attempt 1/3 - opening https://www.naukri.com/job-listings-customer-success-manager-marketing-cloud-salesforce-bengaluru-9-to-14-years-030826500119
+[2026-09-02T07:01:05.507Z] [shard 4] JOBID 30826500119 COMPLETED - description captured (1572 chars)
+[2026-09-02T07:01:07.557Z] [shard 4] JOBID 30826500118 attempt 1/3 - opening https://www.naukri.com/job-listings-customer-success-manager-marketing-cloud-salesforce-mumbai-9-to-14-years-030826500118
+[2026-09-02T07:01:08.925Z] [shard 4] JOBID 30826500118 COMPLETED - description captured (1572 chars)
+[2026-09-02T07:01:10.972Z] [shard 4] JOBID 30826025462 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-tenarai-technologies-private-limited-pune-bengaluru-delhi-ncr-8-to-13-years-030826025462
+[2026-09-02T07:01:11.908Z] [shard 4] JOBID 30826025462 COMPLETED - description captured (1082 chars)
+[2026-09-02T07:01:11.920Z] [shard 4] Checkpoint saved (140 completed so far)
+[2026-09-02T07:01:13.969Z] [shard 4] JOBID 30826024713 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-engineer-sigma-allied-services-chennai-8-to-13-years-030826024713
+[2026-09-02T07:01:14.791Z] [shard 4] JOBID 30826024713 COMPLETED - description captured (228 chars)
+[2026-09-02T07:01:16.838Z] [shard 4] JOBID 30826024464 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-applied-scientist-recruito-noida-bengaluru-8-to-12-years-030826024464
+[2026-09-02T07:01:17.697Z] [shard 4] JOBID 30826024464 COMPLETED - description captured (648 chars)
+[2026-09-02T07:01:19.744Z] [shard 4] JOBID 30826022329 attempt 1/3 - opening https://www.naukri.com/job-listings-firefly-ai-engagement-manager-ontime-global-noida-gurugram-bengaluru-9-to-14-years-030826022329
+[2026-09-02T07:01:20.568Z] [shard 4] JOBID 30826022329 COMPLETED - description captured (3236 chars)
+[2026-09-02T07:01:22.615Z] [shard 4] JOBID 30826013807 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-python-genai-developer-sutherland-hyderabad-8-to-12-years-030826013807
+[2026-09-02T07:01:23.544Z] [shard 4] JOBID 30826013807 COMPLETED - description captured (3466 chars)
+[2026-09-02T07:01:25.594Z] [shard 4] JOBID 30826012398 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ai-engineer-blackstraw-technologies-chennai-8-to-16-years-030826012398
+[2026-09-02T07:01:26.841Z] [shard 4] JOBID 30826012398 COMPLETED - description captured (916 chars)
+[2026-09-02T07:01:26.863Z] [shard 4] Checkpoint saved (145 completed so far)
+[2026-09-02T07:01:28.909Z] [shard 4] JOBID 30826010747 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-artificial-intelligence-machine-learning-engineer-ciklum-chennai-8-to-11-years-030826010747
+[2026-09-02T07:01:30.224Z] [shard 4] JOBID 30826010747 COMPLETED - description captured (4919 chars)
+[2026-09-02T07:01:32.273Z] [shard 4] JOBID 30826010322 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineer-pwc-hyderabad-gurugram-bengaluru-9-to-13-years-030826010322
+[2026-09-02T07:01:33.062Z] [shard 4] JOBID 30826010322 COMPLETED - description captured (2745 chars)
+[2026-09-02T07:01:35.112Z] [shard 4] JOBID 30826006652 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-architect-tata-consultancy-services-hyderabad-bengaluru-mumbai-all-areas-8-to-13-years-030826006652
+[2026-09-02T07:01:35.954Z] [shard 4] JOBID 30826006652 COMPLETED - description captured (1042 chars)
+[2026-09-02T07:01:37.998Z] [shard 4] JOBID 30826006651 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-project-manager-omnicom-global-solutions-hyderabad-chennai-bengaluru-9-to-14-years-030826006651
+[2026-09-02T07:01:38.840Z] [shard 4] JOBID 30826006651 COMPLETED - description captured (3348 chars)
+[2026-09-02T07:01:40.886Z] [shard 4] JOBID 30826006514 attempt 1/3 - opening https://www.naukri.com/job-listings-performance-testing-kairos-technologies-hyderabad-pune-bengaluru-8-to-13-years-030826006514
+[2026-09-02T07:01:41.971Z] [shard 4] JOBID 30826006514 COMPLETED - description captured (773 chars)
+[2026-09-02T07:01:41.979Z] [shard 4] Checkpoint saved (150 completed so far)
+[2026-09-02T07:01:44.030Z] [shard 4] JOBID 30826003937 attempt 1/3 - opening https://www.naukri.com/job-listings-power-apps-developer-capgemini-hyderabad-chennai-bengaluru-9-to-13-years-030826003937
+[2026-09-02T07:01:44.985Z] [shard 4] JOBID 30826003937 COMPLETED - description captured (2497 chars)
+[2026-09-02T07:01:47.031Z] [shard 4] JOBID 30826003227 attempt 1/3 - opening https://www.naukri.com/job-listings-test-manager-ai-architect-manager-bangalore-pwc-bengaluru-9-to-14-years-030826003227
+[2026-09-02T07:01:47.873Z] [shard 4] JOBID 30826003227 COMPLETED - description captured (1372 chars)
+[2026-09-02T07:01:49.916Z] [shard 4] JOBID 30826003227 attempt 1/3 - opening https://www.naukri.com/job-listings-test-manager-ai-architect-manager-bangalore-pwc-bengaluru-9-to-14-years-030826003227
+[2026-09-02T07:01:50.713Z] [shard 4] JOBID 30826003227 COMPLETED - description captured (1372 chars)
+[2026-09-02T07:01:52.765Z] [shard 4] JOBID 30726928026 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-director-database-design-amgen-inc-hyderabad-8-to-13-years-030726928026
+[2026-09-02T07:02:22.783Z] [shard 4] JOBID 30726928026 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:02:24.847Z] [shard 4] JOBID 30726928026 attempt 2/3 - opening https://www.naukri.com/job-listings-associate-director-database-design-amgen-inc-hyderabad-8-to-13-years-030726928026
+[2026-09-02T07:02:54.866Z] [shard 4] JOBID 30726928026 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:02:56.933Z] [shard 4] JOBID 30726928026 attempt 3/3 - opening https://www.naukri.com/job-listings-associate-director-database-design-amgen-inc-hyderabad-8-to-13-years-030726928026
+[2026-09-02T07:03:26.947Z] [shard 4] JOBID 30726928026 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:03:26.968Z] [shard 4] JOBID 30726928026 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:03:29.016Z] [shard 4] JOBID 30726505464 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-devops-engineer-solarwinds-india-pvt-ltd-bengaluru-8-to-13-years-030726505464
+[2026-09-02T07:03:29.760Z] [shard 4] JOBID 30726505464 COMPLETED - description captured (3448 chars)
+[2026-09-02T07:03:31.812Z] [shard 4] JOBID 30726503083 attempt 1/3 - opening https://www.naukri.com/job-listings-technology-lead-broadridge-financial-solutions-india-pvt-ltd-bengaluru-8-to-13-years-030726503083
+[2026-09-02T07:03:32.942Z] [shard 4] JOBID 30726503083 COMPLETED - description captured (1881 chars)
+[2026-09-02T07:03:32.966Z] [shard 4] Checkpoint saved (155 completed so far)
+[2026-09-02T07:03:35.015Z] [shard 4] JOBID 30726502684 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-data-engineer-ai-engineer-staples-india-innovation-business-hub-private-limited-chennai-8-to-13-years-030726502684
+[2026-09-02T07:03:36.054Z] [shard 4] JOBID 30726502684 COMPLETED - description captured (2269 chars)
+[2026-09-02T07:03:38.098Z] [shard 4] JOBID 30726501847 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ai-ml-engineer-staples-india-innovation-business-hub-private-limited-chennai-8-to-13-years-030726501847
+[2026-09-02T07:03:38.913Z] [shard 4] JOBID 30726501847 COMPLETED - description captured (6784 chars)
+[2026-09-02T07:03:40.960Z] [shard 4] JOBID 30726500904 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-fabric-data-engineer-rarr-technologies-bengaluru-8-to-12-years-030726500904
+[2026-09-02T07:03:42.041Z] [shard 4] JOBID 30726500904 COMPLETED - description captured (1268 chars)
+[2026-09-02T07:03:44.086Z] [shard 4] JOBID 30726500104 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-ai-product-manager-squadrun-inc-noida-8-to-14-years-030726500104
+[2026-09-02T07:03:45.095Z] [shard 4] JOBID 30726500104 COMPLETED - description captured (2064 chars)
+[2026-09-02T07:03:47.136Z] [shard 4] JOBID 30426500165 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-ai-ml-kla-tencor-software-india-pvt-ltd-chennai-8-to-13-years-030426500165
+[2026-09-02T07:03:48.508Z] [shard 4] JOBID 30426500165 COMPLETED - description captured (5940 chars)
+[2026-09-02T07:03:48.530Z] [shard 4] Checkpoint saved (160 completed so far)
+[2026-09-02T07:03:50.575Z] [shard 4] JOBID 30426020544 attempt 1/3 - opening https://www.naukri.com/job-listings-java-ai-ion-enterprise-solutions-pune-9-to-14-years-030426020544
+[2026-09-02T07:03:51.367Z] [shard 4] JOBID 30426020544 COMPLETED - description captured (4429 chars)
+[2026-09-02T07:03:53.407Z] [shard 4] JOBID 20826005934 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ai-architect-bmc-software-bengaluru-8-to-13-years-020826005934
+[2026-09-02T07:03:54.519Z] [shard 4] JOBID 20826005934 COMPLETED - description captured (4967 chars)
+[2026-09-02T07:03:56.561Z] [shard 4] JOBID 20726503359 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineer-lead-architect-kalpita-technologies-private-limited-bengaluru-8-to-13-years-020726503359
+[2026-09-02T07:03:57.352Z] [shard 4] JOBID 20726503359 COMPLETED - description captured (3574 chars)
+[2026-09-02T07:03:59.398Z] [shard 4] JOBID 10826009617 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-architect-ai-statusneo-technology-consulting-hyderabad-8-to-13-years-010826009617
+[2026-09-02T07:04:00.239Z] [shard 4] JOBID 10826009617 COMPLETED - description captured (2229 chars)
+[2026-09-02T07:04:02.282Z] [shard 4] JOBID 10826005563 attempt 1/3 - opening https://www.naukri.com/job-listings-qa-team-lead-automation-frameworks-devops-ai-testing-global-infotech-network-pvt-ltd-hyderabad-8-to-12-years-010826005563
+[2026-09-02T07:04:03.127Z] [shard 4] JOBID 10826005563 COMPLETED - description captured (6265 chars)
+[2026-09-02T07:04:03.153Z] [shard 4] Checkpoint saved (165 completed so far)
+[2026-09-02T07:04:05.200Z] [shard 4] JOBID 10826005034 attempt 1/3 - opening https://www.naukri.com/job-listings-data-modeler-gcp-big-query-elabs-infotech-kolkata-bengaluru-mumbai-all-areas-8-to-12-years-010826005034
+[2026-09-02T07:04:06.086Z] [shard 4] JOBID 10826005034 COMPLETED - description captured (2704 chars)
+[2026-09-02T07:04:08.128Z] [shard 4] JOBID 10726502138 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-ml-technologist-intel-technology-india-pvt-ltd-bengaluru-8-to-13-years-010726502138
+[2026-09-02T07:04:09.102Z] [shard 4] JOBID 10726502138 COMPLETED - description captured (5050 chars)
+[2026-09-02T07:04:11.146Z] [shard 4] JOBID 10626003841 attempt 1/3 - opening https://www.naukri.com/job-listings-forward-deployed-senior-software-engineer-redwood-software-india-hyderabad-8-to-13-years-010626003841
+[2026-09-02T07:04:12.106Z] [shard 4] JOBID 10626003841 COMPLETED - description captured (6605 chars)
+[2026-09-02T07:04:14.148Z] [shard 4] JOBID 310726927516 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-operations-manager-r1-rcm-global-private-limited-indore-8-to-13-years-310726927516
+[2026-09-02T07:04:44.169Z] [shard 4] JOBID 310726927516 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:04:46.234Z] [shard 4] JOBID 310726927516 attempt 2/3 - opening https://www.naukri.com/job-listings-associate-operations-manager-r1-rcm-global-private-limited-indore-8-to-13-years-310726927516
+[2026-09-02T07:05:16.255Z] [shard 4] JOBID 310726927516 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:05:18.320Z] [shard 4] JOBID 310726927516 attempt 3/3 - opening https://www.naukri.com/job-listings-associate-operations-manager-r1-rcm-global-private-limited-indore-8-to-13-years-310726927516
+[2026-09-02T07:05:48.325Z] [shard 4] JOBID 310726927516 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:05:48.350Z] [shard 4] JOBID 310726927516 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:05:50.395Z] [shard 4] JOBID 310726924761 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-software-engineer-abb-india-limited-bengaluru-9-to-14-years-310726924761
+[2026-09-02T07:06:20.407Z] [shard 4] JOBID 310726924761 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:06:22.469Z] [shard 4] JOBID 310726924761 attempt 2/3 - opening https://www.naukri.com/job-listings-principal-software-engineer-abb-india-limited-bengaluru-9-to-14-years-310726924761
+[2026-09-02T07:06:52.490Z] [shard 4] JOBID 310726924761 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:06:54.561Z] [shard 4] JOBID 310726924761 attempt 3/3 - opening https://www.naukri.com/job-listings-principal-software-engineer-abb-india-limited-bengaluru-9-to-14-years-310726924761
+[2026-09-02T07:07:24.582Z] [shard 4] JOBID 310726924761 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:07:24.598Z] [shard 4] JOBID 310726924761 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:07:26.645Z] [shard 4] JOBID 310726916026 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-engineer-harmony-abb-india-limited-bengaluru-9-to-14-years-310726916026
+[2026-09-02T07:07:56.653Z] [shard 4] JOBID 310726916026 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:07:58.718Z] [shard 4] JOBID 310726916026 attempt 2/3 - opening https://www.naukri.com/job-listings-lead-engineer-harmony-abb-india-limited-bengaluru-9-to-14-years-310726916026
+[2026-09-02T07:08:28.732Z] [shard 4] JOBID 310726916026 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:08:30.799Z] [shard 4] JOBID 310726916026 attempt 3/3 - opening https://www.naukri.com/job-listings-lead-engineer-harmony-abb-india-limited-bengaluru-9-to-14-years-310726916026
+[2026-09-02T07:09:00.818Z] [shard 4] JOBID 310726916026 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:09:00.842Z] [shard 4] JOBID 310726916026 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:09:02.888Z] [shard 4] JOBID 310726026356 attempt 1/3 - opening https://www.naukri.com/job-listings-chief-of-staff-head-of-office-atman-artwork-llp-chennai-8-to-13-years-310726026356
+[2026-09-02T07:09:32.901Z] [shard 4] JOBID 310726026356 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:09:34.971Z] [shard 4] JOBID 310726026356 attempt 2/3 - opening https://www.naukri.com/job-listings-chief-of-staff-head-of-office-atman-artwork-llp-chennai-8-to-13-years-310726026356
+[2026-09-02T07:10:04.993Z] [shard 4] JOBID 310726026356 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:10:07.071Z] [shard 4] JOBID 310726026356 attempt 3/3 - opening https://www.naukri.com/job-listings-chief-of-staff-head-of-office-atman-artwork-llp-chennai-8-to-13-years-310726026356
+[2026-09-02T07:10:37.091Z] [shard 4] JOBID 310726026356 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:10:37.109Z] [shard 4] JOBID 310726026356 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:10:39.159Z] [shard 4] JOBID 310726018167 attempt 1/3 - opening https://www.naukri.com/job-listings-people-ai-transformation-12-months-contractual-vistra-corporate-services-mumbai-all-areas-8-to-12-years-310726018167
+[2026-09-02T07:11:09.176Z] [shard 4] JOBID 310726018167 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:11:11.243Z] [shard 4] JOBID 310726018167 attempt 2/3 - opening https://www.naukri.com/job-listings-people-ai-transformation-12-months-contractual-vistra-corporate-services-mumbai-all-areas-8-to-12-years-310726018167
+[2026-09-02T07:11:41.244Z] [shard 4] JOBID 310726018167 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:11:43.312Z] [shard 4] JOBID 310726018167 attempt 3/3 - opening https://www.naukri.com/job-listings-people-ai-transformation-12-months-contractual-vistra-corporate-services-mumbai-all-areas-8-to-12-years-310726018167
+[2026-09-02T07:12:13.333Z] [shard 4] JOBID 310726018167 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T07:12:13.357Z] [shard 4] JOBID 310726018167 FAILED after 3 attempts - will retry on next run
+[2026-09-02T07:12:15.399Z] [shard 4] JOBID 310126500655 attempt 1/3 - opening https://www.naukri.com/job-listings-solutions-architect-cpg-analytics-ai-themathcompany-bengaluru-9-to-15-years-310126500655
+[2026-09-02T07:12:16.424Z] [shard 4] JOBID 310126500655 COMPLETED - description captured (3282 chars)
+[2026-09-02T07:12:18.469Z] [shard 4] JOBID 301225502574 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-lead-java-full-stack-thales-india-pvt-ltd-bengaluru-9-to-14-years-301225502574
+[2026-09-02T07:12:19.347Z] [shard 4] JOBID 301225502574 COMPLETED - description captured (4916 chars)
+[2026-09-02T07:12:19.379Z] [shard 4] Checkpoint saved (170 completed so far)
+[2026-09-02T07:12:21.420Z] [shard 4] JOBID 301225500526 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-consultant-full-stack-developer-ai-enablement-armanino-llp-ahmedabad-8-to-13-years-301225500526
+[2026-09-02T07:12:22.245Z] [shard 4] JOBID 301225500526 COMPLETED - description captured (3255 chars)
+[2026-09-02T07:12:24.289Z] [shard 4] JOBID 301025503959 attempt 1/3 - opening https://www.naukri.com/job-listings-azure-ai-architect-techrbm-inc-mohali-8-to-12-years-301025503959
+[2026-09-02T07:12:25.230Z] [shard 4] JOBID 301025503959 COMPLETED - description captured (1454 chars)
+[2026-09-02T07:12:27.274Z] [shard 4] JOBID 301024505105 attempt 1/3 - opening https://www.naukri.com/job-listings-engineering-manager-salesforce-fictiv-pune-8-to-13-years-301024505105
+[2026-09-02T07:12:28.030Z] [shard 4] JOBID 301024505105 COMPLETED - description captured (7323 chars)
+[2026-09-02T07:12:30.069Z] [shard 4] JOBID 300726502957 attempt 1/3 - opening https://www.naukri.com/job-listings-dft-engineer-advanced-micro-devices-inc-bengaluru-9-to-14-years-300726502957
+[2026-09-02T07:12:30.938Z] [shard 4] JOBID 300726502957 COMPLETED - description captured (2026 chars)
+[2026-09-02T07:12:32.978Z] [shard 4] JOBID 300726501691 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-product-manager-ai-logicmonitor-bengaluru-8-to-9-years-300726501691
+[2026-09-02T07:12:33.771Z] [shard 4] JOBID 300726501691 COMPLETED - description captured (2533 chars)
+[2026-09-02T07:12:33.798Z] [shard 4] Checkpoint saved (175 completed so far)
+[2026-09-02T07:12:35.837Z] [shard 4] JOBID 300726501691 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-product-manager-ai-logicmonitor-bengaluru-8-to-9-years-300726501691
+[2026-09-02T07:12:36.596Z] [shard 4] JOBID 300726501691 COMPLETED - description captured (2533 chars)
+[2026-09-02T07:12:38.643Z] [shard 4] JOBID 300726501175 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-solutions-expert-copilot-studio-astellas-pharma-bengaluru-9-to-14-years-300726501175
+[2026-09-02T07:12:39.392Z] [shard 4] JOBID 300726501175 COMPLETED - description captured (9093 chars)
+[2026-09-02T07:12:41.595Z] [shard 4] Run finished. Rows in range: 184. Completed: 177. Skipped (no URL): 0. Failed: 7.
