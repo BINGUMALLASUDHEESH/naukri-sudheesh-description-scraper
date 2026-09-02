@@ -480,3 +480,18 @@
 [2026-09-02T07:55:13.868Z] [shard 9] JOBID 240826929172 attempt 1/3 - opening https://www.naukri.com/job-listings-s-c-global-network-ai-cmt-engineering-senior-manager-accenture-solutions-pvt-ltd-bengaluru-12-to-17-years-240826929172
 [2026-09-02T07:55:14.819Z] [shard 9] JOBID 240826929172 COMPLETED - description captured (4380 chars)
 [2026-09-02T07:55:16.972Z] [shard 9] Run finished. Rows in range: 205. Completed: 199. Skipped (no URL): 0. Failed: 6.
+[2026-09-02T10:15:01.896Z] [shard 9] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:15:01.897Z] [shard 9] SHARDED MODE: processing rows 1641-1845 (of 3074 total)
+[2026-09-02T10:15:01.975Z] [shard 9] Resuming: found 193 already-captured descriptions in existing output CSV
+[2026-09-02T10:15:02.888Z] [shard 9] JOBID 250826501129 attempt 1/3 - opening https://www.naukri.com/job-listings-data-modeler-ontologist-orbion-infotech-bengaluru-10-to-15-years-250826501129
+[2026-09-02T10:15:32.905Z] [shard 9] JOBID 250826501129 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:34.984Z] [shard 9] JOBID 250826501129 attempt 2/3 - opening https://www.naukri.com/job-listings-data-modeler-ontologist-orbion-infotech-bengaluru-10-to-15-years-250826501129
+[2026-09-02T10:16:04.995Z] [shard 9] JOBID 250826501129 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:07.058Z] [shard 9] JOBID 250826501129 attempt 3/3 - opening https://www.naukri.com/job-listings-data-modeler-ontologist-orbion-infotech-bengaluru-10-to-15-years-250826501129
+[2026-09-02T10:16:37.071Z] [shard 9] JOBID 250826501129 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:37.088Z] [shard 9] JOBID 250826501129 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:39.132Z] [shard 9] JOBID 270826924194 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-technical-product-manager-optum-global-solutions-india-private-limited-hyderabad-13-to-18-years-270826924194
+[2026-09-02T10:17:09.155Z] [shard 9] JOBID 270826924194 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:11.219Z] [shard 9] JOBID 270826924194 attempt 2/3 - opening https://www.naukri.com/job-listings-lead-technical-product-manager-optum-global-solutions-india-private-limited-hyderabad-13-to-18-years-270826924194
+[2026-09-02T10:17:41.239Z] [shard 9] JOBID 270826924194 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:43.302Z] [shard 9] JOBID 270826924194 attempt 3/3 - opening https://www.naukri.com/job-listings-lead-technical-product-manager-optum-global-solutions-india-private-limited-hyderabad-13-to-18-years-270826924194

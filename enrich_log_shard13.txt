@@ -624,3 +624,18 @@
 [2026-09-02T08:41:57.451Z] [shard 13] JOBID 310726920219 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
 [2026-09-02T08:41:57.467Z] [shard 13] JOBID 310726920219 FAILED after 3 attempts - will retry on next run
 [2026-09-02T08:41:59.655Z] [shard 13] Run finished. Rows in range: 205. Completed: 169. Skipped (no URL): 0. Failed: 36.
+[2026-09-02T10:14:58.434Z] [shard 13] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:14:58.436Z] [shard 13] SHARDED MODE: processing rows 2461-2665 (of 3074 total)
+[2026-09-02T10:14:58.503Z] [shard 13] Resuming: found 164 already-captured descriptions in existing output CSV
+[2026-09-02T10:14:59.296Z] [shard 13] JOBID 310726922491 attempt 1/3 - opening https://www.naukri.com/job-listings-presales-ai-ml-professional-golden-opportunities-pvt-ltd-chennai-12-to-18-years-310726922491
+[2026-09-02T10:15:29.301Z] [shard 13] JOBID 310726922491 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:31.371Z] [shard 13] JOBID 310726922491 attempt 2/3 - opening https://www.naukri.com/job-listings-presales-ai-ml-professional-golden-opportunities-pvt-ltd-chennai-12-to-18-years-310726922491
+[2026-09-02T10:16:01.374Z] [shard 13] JOBID 310726922491 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:03.440Z] [shard 13] JOBID 310726922491 attempt 3/3 - opening https://www.naukri.com/job-listings-presales-ai-ml-professional-golden-opportunities-pvt-ltd-chennai-12-to-18-years-310726922491
+[2026-09-02T10:16:33.449Z] [shard 13] JOBID 310726922491 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:33.473Z] [shard 13] JOBID 310726922491 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:35.513Z] [shard 13] JOBID 310726921558 attempt 1/3 - opening https://www.naukri.com/job-listings-business-transformation-assoc-manager-accenture-solutions-pvt-ltd-navi-mumbai-10-to-14-years-310726921558
+[2026-09-02T10:17:05.517Z] [shard 13] JOBID 310726921558 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:07.579Z] [shard 13] JOBID 310726921558 attempt 2/3 - opening https://www.naukri.com/job-listings-business-transformation-assoc-manager-accenture-solutions-pvt-ltd-navi-mumbai-10-to-14-years-310726921558
+[2026-09-02T10:17:37.598Z] [shard 13] JOBID 310726921558 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:39.655Z] [shard 13] JOBID 310726921558 attempt 3/3 - opening https://www.naukri.com/job-listings-business-transformation-assoc-manager-accenture-solutions-pvt-ltd-navi-mumbai-10-to-14-years-310726921558

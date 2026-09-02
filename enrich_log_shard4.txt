@@ -504,3 +504,18 @@
 [2026-09-02T08:02:47.567Z] [shard 4] JOBID 260626500981 attempt 1/3 - opening https://www.naukri.com/job-listings-marketing-manager-primesoft-ip-solutions-pvt-ltd-mumbai-10-to-15-years-260626500981
 [2026-09-02T08:02:48.423Z] [shard 4] JOBID 260626500981 COMPLETED - description captured (4591 chars)
 [2026-09-02T08:02:50.515Z] [shard 4] Run finished. Rows in range: 205. Completed: 194. Skipped (no URL): 0. Failed: 11.
+[2026-09-02T10:14:57.076Z] [shard 4] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:14:57.078Z] [shard 4] SHARDED MODE: processing rows 616-820 (of 3074 total)
+[2026-09-02T10:14:57.144Z] [shard 4] Resuming: found 190 already-captured descriptions in existing output CSV
+[2026-09-02T10:14:58.074Z] [shard 4] JOBID 30726926662 attempt 1/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-banking-manager-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-030726926662
+[2026-09-02T10:15:28.091Z] [shard 4] JOBID 30726926662 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:30.160Z] [shard 4] JOBID 30726926662 attempt 2/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-banking-manager-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-030726926662
+[2026-09-02T10:16:00.169Z] [shard 4] JOBID 30726926662 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:02.261Z] [shard 4] JOBID 30726926662 attempt 3/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-banking-manager-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-030726926662
+[2026-09-02T10:16:32.265Z] [shard 4] JOBID 30726926662 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:32.299Z] [shard 4] JOBID 30726926662 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:34.340Z] [shard 4] JOBID 30726926630 attempt 1/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-lifesciences-senior-manager-accenture-solutions-pvt-ltd-gurugram-14-to-19-years-030726926630
+[2026-09-02T10:17:04.352Z] [shard 4] JOBID 30726926630 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:06.413Z] [shard 4] JOBID 30726926630 attempt 2/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-lifesciences-senior-manager-accenture-solutions-pvt-ltd-gurugram-14-to-19-years-030726926630
+[2026-09-02T10:17:36.420Z] [shard 4] JOBID 30726926630 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:38.479Z] [shard 4] JOBID 30726926630 attempt 3/3 - opening https://www.naukri.com/job-listings-industry-techno-strategy-architect-lifesciences-senior-manager-accenture-solutions-pvt-ltd-gurugram-14-to-19-years-030726926630

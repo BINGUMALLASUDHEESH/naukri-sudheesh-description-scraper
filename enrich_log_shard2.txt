@@ -461,3 +461,18 @@
 [2026-09-02T07:48:31.239Z] [shard 2] JOBID 90626502314 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-ai-application-development-expert-classic-marble-bengaluru-14-to-19-years-090626502314
 [2026-09-02T07:48:32.156Z] [shard 2] JOBID 90626502314 COMPLETED - description captured (4659 chars)
 [2026-09-02T07:48:34.252Z] [shard 2] Run finished. Rows in range: 205. Completed: 203. Skipped (no URL): 0. Failed: 2.
+[2026-09-02T10:15:00.030Z] [shard 2] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:15:00.031Z] [shard 2] SHARDED MODE: processing rows 206-410 (of 3074 total)
+[2026-09-02T10:15:00.071Z] [shard 2] Resuming: found 197 already-captured descriptions in existing output CSV
+[2026-09-02T10:15:02.418Z] [shard 2] JOBID 110826929804 attempt 1/3 - opening https://www.naukri.com/job-listings-digital-foundations-ai-op-model-governance-manager-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-110826929804
+[2026-09-02T10:15:32.439Z] [shard 2] JOBID 110826929804 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:34.495Z] [shard 2] JOBID 110826929804 attempt 2/3 - opening https://www.naukri.com/job-listings-digital-foundations-ai-op-model-governance-manager-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-110826929804
+[2026-09-02T10:16:04.503Z] [shard 2] JOBID 110826929804 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:06.551Z] [shard 2] JOBID 110826929804 attempt 3/3 - opening https://www.naukri.com/job-listings-digital-foundations-ai-op-model-governance-manager-accenture-solutions-pvt-ltd-gurugram-10-to-15-years-110826929804
+[2026-09-02T10:16:36.562Z] [shard 2] JOBID 110826929804 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:36.575Z] [shard 2] JOBID 110826929804 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:38.605Z] [shard 2] JOBID 100826504484 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-product-manager-behavioral-analytics-fraud-detection-experian-plc-hyderabad-11-to-16-years-100826504484
+[2026-09-02T10:17:08.614Z] [shard 2] JOBID 100826504484 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:10.661Z] [shard 2] JOBID 100826504484 attempt 2/3 - opening https://www.naukri.com/job-listings-senior-product-manager-behavioral-analytics-fraud-detection-experian-plc-hyderabad-11-to-16-years-100826504484
+[2026-09-02T10:17:40.663Z] [shard 2] JOBID 100826504484 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:42.712Z] [shard 2] JOBID 100826504484 attempt 3/3 - opening https://www.naukri.com/job-listings-senior-product-manager-behavioral-analytics-fraud-detection-experian-plc-hyderabad-11-to-16-years-100826504484

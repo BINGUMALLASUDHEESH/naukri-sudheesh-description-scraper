@@ -466,3 +466,18 @@
 [2026-09-02T07:50:10.056Z] [shard 11] JOBID 190826915464 attempt 1/3 - opening https://www.naukri.com/job-listings-operations-engineer-accenture-solutions-pvt-ltd-bengaluru-12-to-17-years-190826915464
 [2026-09-02T07:50:10.958Z] [shard 11] JOBID 190826915464 COMPLETED - description captured (8844 chars)
 [2026-09-02T07:50:13.208Z] [shard 11] Run finished. Rows in range: 205. Completed: 202. Skipped (no URL): 0. Failed: 3.
+[2026-09-02T10:14:57.100Z] [shard 11] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:14:57.102Z] [shard 11] SHARDED MODE: processing rows 2051-2255 (of 3074 total)
+[2026-09-02T10:14:57.171Z] [shard 11] Resuming: found 199 already-captured descriptions in existing output CSV
+[2026-09-02T10:14:57.947Z] [shard 11] JOBID 210826501234 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-data-engineer-principal-global-services-pvt-ltd-hyderabad-12-to-17-years-210826501234
+[2026-09-02T10:15:27.964Z] [shard 11] JOBID 210826501234 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:30.077Z] [shard 11] JOBID 210826501234 attempt 2/3 - opening https://www.naukri.com/job-listings-consultant-data-engineer-principal-global-services-pvt-ltd-hyderabad-12-to-17-years-210826501234
+[2026-09-02T10:16:00.098Z] [shard 11] JOBID 210826501234 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:02.159Z] [shard 11] JOBID 210826501234 attempt 3/3 - opening https://www.naukri.com/job-listings-consultant-data-engineer-principal-global-services-pvt-ltd-hyderabad-12-to-17-years-210826501234
+[2026-09-02T10:16:32.171Z] [shard 11] JOBID 210826501234 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:32.190Z] [shard 11] JOBID 210826501234 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:34.235Z] [shard 11] JOBID 190826927670 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-ai-ml-engineering-optum-global-solutions-india-private-limited-hyderabad-12-to-17-years-190826927670
+[2026-09-02T10:17:04.242Z] [shard 11] JOBID 190826927670 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:06.301Z] [shard 11] JOBID 190826927670 attempt 2/3 - opening https://www.naukri.com/job-listings-manager-ai-ml-engineering-optum-global-solutions-india-private-limited-hyderabad-12-to-17-years-190826927670
+[2026-09-02T10:17:36.309Z] [shard 11] JOBID 190826927670 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:38.372Z] [shard 11] JOBID 190826927670 attempt 3/3 - opening https://www.naukri.com/job-listings-manager-ai-ml-engineering-optum-global-solutions-india-private-limited-hyderabad-12-to-17-years-190826927670

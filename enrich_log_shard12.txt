@@ -452,3 +452,7 @@
 [2026-09-02T07:45:53.520Z] [shard 12] JOBID 170826918675 COMPLETED - description captured (3044 chars)
 [2026-09-02T07:45:53.548Z] [shard 12] Checkpoint saved (205 completed so far)
 [2026-09-02T07:45:55.721Z] [shard 12] Run finished. Rows in range: 205. Completed: 205. Skipped (no URL): 0. Failed: 0.
+[2026-09-02T10:15:01.912Z] [shard 12] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:15:01.913Z] [shard 12] SHARDED MODE: processing rows 2256-2460 (of 3074 total)
+[2026-09-02T10:15:01.989Z] [shard 12] Resuming: found 201 already-captured descriptions in existing output CSV
+[2026-09-02T10:15:02.864Z] [shard 12] Run finished. Rows in range: 205. Completed: 0. Skipped (no URL): 0. Failed: 0.

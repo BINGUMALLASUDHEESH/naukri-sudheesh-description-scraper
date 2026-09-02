@@ -480,3 +480,17 @@
 [2026-09-02T07:54:52.767Z] [shard 3] JOBID 50826502505 attempt 1/3 - opening https://www.naukri.com/job-listings-mainframe-support-storage-engineer-storage-administrator-data-consol-private-limited-hyderabad-10-to-15-years-050826502505
 [2026-09-02T07:54:53.966Z] [shard 3] JOBID 50826502505 COMPLETED - description captured (2910 chars)
 [2026-09-02T07:54:56.134Z] [shard 3] Run finished. Rows in range: 205. Completed: 199. Skipped (no URL): 0. Failed: 6.
+[2026-09-02T10:15:00.770Z] [shard 3] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:15:00.772Z] [shard 3] SHARDED MODE: processing rows 411-615 (of 3074 total)
+[2026-09-02T10:15:00.850Z] [shard 3] Resuming: found 194 already-captured descriptions in existing output CSV
+[2026-09-02T10:15:04.827Z] [shard 3] JOBID 70826504386 attempt 1/3 - opening https://www.naukri.com/job-listings-mts-2-software-engineer-ebay-bengaluru-10-to-15-years-070826504386
+[2026-09-02T10:15:34.846Z] [shard 3] JOBID 70826504386 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:36.914Z] [shard 3] JOBID 70826504386 attempt 2/3 - opening https://www.naukri.com/job-listings-mts-2-software-engineer-ebay-bengaluru-10-to-15-years-070826504386
+[2026-09-02T10:16:06.937Z] [shard 3] JOBID 70826504386 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:09.008Z] [shard 3] JOBID 70826504386 attempt 3/3 - opening https://www.naukri.com/job-listings-mts-2-software-engineer-ebay-bengaluru-10-to-15-years-070826504386
+[2026-09-02T10:16:39.011Z] [shard 3] JOBID 70826504386 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:39.033Z] [shard 3] JOBID 70826504386 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:41.085Z] [shard 3] JOBID 70526013593 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-trust-governance-architect-pan-india-infosys-hyderabad-chennai-bengaluru-10-to-20-years-070526013593
+[2026-09-02T10:17:11.093Z] [shard 3] JOBID 70526013593 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:13.165Z] [shard 3] JOBID 70526013593 attempt 2/3 - opening https://www.naukri.com/job-listings-ai-trust-governance-architect-pan-india-infosys-hyderabad-chennai-bengaluru-10-to-20-years-070526013593
+[2026-09-02T10:17:43.186Z] [shard 3] JOBID 70526013593 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"

@@ -480,3 +480,18 @@
 [2026-09-02T07:55:30.821Z] [shard 6] JOBID 60726500973 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-genai-architect-sparix-global-private-limited-noida-12-to-17-years-060726500973
 [2026-09-02T07:55:31.832Z] [shard 6] JOBID 60726500973 COMPLETED - description captured (4392 chars)
 [2026-09-02T07:55:34.010Z] [shard 6] Run finished. Rows in range: 205. Completed: 199. Skipped (no URL): 0. Failed: 6.
+[2026-09-02T10:15:00.726Z] [shard 6] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:15:00.727Z] [shard 6] SHARDED MODE: processing rows 1026-1230 (of 3074 total)
+[2026-09-02T10:15:00.790Z] [shard 6] Resuming: found 195 already-captured descriptions in existing output CSV
+[2026-09-02T10:15:04.098Z] [shard 6] JOBID 100226503980 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ai-forward-engineer-thomson-reuters-india-pvt-ltd-bengaluru-10-to-15-years-100226503980
+[2026-09-02T10:15:34.104Z] [shard 6] JOBID 100226503980 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:36.172Z] [shard 6] JOBID 100226503980 attempt 2/3 - opening https://www.naukri.com/job-listings-lead-ai-forward-engineer-thomson-reuters-india-pvt-ltd-bengaluru-10-to-15-years-100226503980
+[2026-09-02T10:16:06.189Z] [shard 6] JOBID 100226503980 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:08.253Z] [shard 6] JOBID 100226503980 attempt 3/3 - opening https://www.naukri.com/job-listings-lead-ai-forward-engineer-thomson-reuters-india-pvt-ltd-bengaluru-10-to-15-years-100226503980
+[2026-09-02T10:16:38.261Z] [shard 6] JOBID 100226503980 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:38.290Z] [shard 6] JOBID 100226503980 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:40.338Z] [shard 6] JOBID 80726503395 attempt 1/3 - opening https://www.naukri.com/job-listings-tech-lead-java-node-aws-and-ai-hpi-diverse-lynx-bengaluru-10-to-15-years-080726503395
+[2026-09-02T10:17:10.339Z] [shard 6] JOBID 80726503395 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:12.399Z] [shard 6] JOBID 80726503395 attempt 2/3 - opening https://www.naukri.com/job-listings-tech-lead-java-node-aws-and-ai-hpi-diverse-lynx-bengaluru-10-to-15-years-080726503395
+[2026-09-02T10:17:42.413Z] [shard 6] JOBID 80726503395 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:44.476Z] [shard 6] JOBID 80726503395 attempt 3/3 - opening https://www.naukri.com/job-listings-tech-lead-java-node-aws-and-ai-hpi-diverse-lynx-bengaluru-10-to-15-years-080726503395

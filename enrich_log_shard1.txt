@@ -562,3 +562,16 @@
 [2026-09-02T08:21:40.711Z] [shard 1] JOBID 310826913984 attempt 1/3 - opening https://www.naukri.com/job-listings-head-of-innovation-abb-india-limited-bengaluru-12-to-17-years-310826913984
 [2026-09-02T08:21:41.673Z] [shard 1] JOBID 310826913984 COMPLETED - description captured (5731 chars)
 [2026-09-02T08:21:44.148Z] [shard 1] Run finished. Rows in range: 205. Completed: 182. Skipped (no URL): 0. Failed: 23.
+[2026-09-02T10:15:01.776Z] [shard 1] Input CSV loaded: 3074 total rows, 56 columns
+[2026-09-02T10:15:01.777Z] [shard 1] SHARDED MODE: processing rows 1-205 (of 3074 total)
+[2026-09-02T10:15:01.840Z] [shard 1] Resuming: found 182 already-captured descriptions in existing output CSV
+[2026-09-02T10:15:07.738Z] [shard 1] JOBID 240826032707 attempt 1/3 - opening https://www.naukri.com/job-listings-gen-ai-engineer-cognizant-gurugram-10-to-15-years-240826032707
+[2026-09-02T10:15:37.741Z] [shard 1] JOBID 240826032707 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:15:39.805Z] [shard 1] JOBID 240826032707 attempt 2/3 - opening https://www.naukri.com/job-listings-gen-ai-engineer-cognizant-gurugram-10-to-15-years-240826032707
+[2026-09-02T10:16:09.807Z] [shard 1] JOBID 240826032707 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:11.869Z] [shard 1] JOBID 240826032707 attempt 3/3 - opening https://www.naukri.com/job-listings-gen-ai-engineer-cognizant-gurugram-10-to-15-years-240826032707
+[2026-09-02T10:16:41.871Z] [shard 1] JOBID 240826032707 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:16:41.892Z] [shard 1] JOBID 240826032707 FAILED after 3 attempts - will retry on next run
+[2026-09-02T10:16:43.928Z] [shard 1] JOBID 200826502395 attempt 1/3 - opening https://www.naukri.com/job-listings-gen-ai-bau-service-manager-haleon-bengaluru-10-to-15-years-200826502395
+[2026-09-02T10:17:13.936Z] [shard 1] JOBID 200826502395 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-02T10:17:15.998Z] [shard 1] JOBID 200826502395 attempt 2/3 - opening https://www.naukri.com/job-listings-gen-ai-bau-service-manager-haleon-bengaluru-10-to-15-years-200826502395
