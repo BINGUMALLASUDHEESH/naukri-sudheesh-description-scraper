@@ -1,0 +1,7 @@
+[2026-09-18T08:01:45.487Z] [shard 8] Input CSV loaded: 25 total rows, 57 columns
+[2026-09-18T08:01:45.488Z] [shard 8] SHARDED MODE: processing rows 15-16 (of 25 total)
+[2026-09-18T08:01:50.453Z] [shard 8] JOBID 80926929891 attempt 1/3 - opening https://www.naukri.com/job-listings-oil-gas-leader-ernst-young-llp-bengaluru-25-to-27-years-080926929891
+[2026-09-18T08:01:52.187Z] [shard 8] JOBID 80926929891 COMPLETED - description captured (7571 chars)
+[2026-09-18T08:01:54.270Z] [shard 8] JOBID 70926502860 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-software-development-appian-corporation-chennai-25-to-30-years-070926502860
+[2026-09-18T08:01:55.196Z] [shard 8] JOBID 70926502860 COMPLETED - description captured (5137 chars)
+[2026-09-18T08:01:57.361Z] [shard 8] Run finished. Rows in range: 2. Completed: 2. Skipped (no URL): 0. Failed: 0.

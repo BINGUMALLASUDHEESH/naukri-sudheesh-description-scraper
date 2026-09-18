@@ -1,0 +1,7 @@
+[2026-09-18T08:01:42.022Z] [shard 2] Input CSV loaded: 25 total rows, 57 columns
+[2026-09-18T08:01:42.024Z] [shard 2] SHARDED MODE: processing rows 3-4 (of 25 total)
+[2026-09-18T08:01:43.739Z] [shard 2] JOBID 210726500159 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-professor-raisoni-group-pune-22-to-27-years-210726500159
+[2026-09-18T08:01:45.172Z] [shard 2] JOBID 210726500159 COMPLETED - description captured (770 chars)
+[2026-09-18T08:01:47.256Z] [shard 2] JOBID 210726500158 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-professor-raisoni-group-nagpur-22-to-27-years-210726500158
+[2026-09-18T08:01:48.182Z] [shard 2] JOBID 210726500158 COMPLETED - description captured (770 chars)
+[2026-09-18T08:01:50.261Z] [shard 2] Run finished. Rows in range: 2. Completed: 2. Skipped (no URL): 0. Failed: 0.
