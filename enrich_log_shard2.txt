@@ -1,0 +1,1052 @@
+[2026-09-18T12:51:54.291Z] [shard 2] Input CSV loaded: 6988 total rows, 57 columns
+[2026-09-18T12:51:54.292Z] [shard 2] SHARDED MODE: processing rows 467-932 (of 6988 total)
+[2026-09-18T12:51:55.200Z] [shard 2] JOBID 80926921813 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sap-tm-technical-consultant-ernst-young-llp-pune-4-to-5-years-080926921813
+[2026-09-18T12:51:57.227Z] [shard 2] JOBID 80926921813 COMPLETED - description captured (4266 chars)
+[2026-09-18T12:51:59.284Z] [shard 2] JOBID 80926921811 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-smart-city-transformation-consultant-ernst-young-llp-kochi-5-to-10-years-080926921811
+[2026-09-18T12:52:00.127Z] [shard 2] JOBID 80926921811 COMPLETED - description captured (6754 chars)
+[2026-09-18T12:52:02.198Z] [shard 2] JOBID 80926921735 attempt 1/3 - opening https://www.naukri.com/job-listings-de-azure-cognitive-va-and-ai-developer-gdsn02-ernst-young-llp-coimbatore-4-to-6-years-080926921735
+[2026-09-18T12:52:03.148Z] [shard 2] JOBID 80926921735 COMPLETED - description captured (2765 chars)
+[2026-09-18T12:52:05.203Z] [shard 2] JOBID 80926921702 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-technology-strategy-consultant-ernst-young-llp-new-delhi-4-to-9-years-080926921702
+[2026-09-18T12:52:06.118Z] [shard 2] JOBID 80926921702 COMPLETED - description captured (1521 chars)
+[2026-09-18T12:52:08.179Z] [shard 2] JOBID 80926921698 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-aws-databricks-consultant-ernst-young-llp-chennai-5-to-7-years-080926921698
+[2026-09-18T12:52:09.075Z] [shard 2] JOBID 80926921698 COMPLETED - description captured (2519 chars)
+[2026-09-18T12:52:09.100Z] [shard 2] Checkpoint saved (5 completed so far)
+[2026-09-18T12:52:11.152Z] [shard 2] JOBID 80926921694 attempt 1/3 - opening https://www.naukri.com/job-listings-global-compliance-reporting-consultant-ernst-young-llp-gurugram-0-to-5-years-080926921694
+[2026-09-18T12:52:12.023Z] [shard 2] JOBID 80926921694 COMPLETED - description captured (2188 chars)
+[2026-09-18T12:52:14.075Z] [shard 2] JOBID 80926921654 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-project-consultant-infrastructure-advisory-ernst-young-llp-new-delhi-2-to-5-years-080926921654
+[2026-09-18T12:52:14.923Z] [shard 2] JOBID 80926921654 COMPLETED - description captured (2690 chars)
+[2026-09-18T12:52:16.981Z] [shard 2] JOBID 80926921651 attempt 1/3 - opening https://www.naukri.com/job-listings-ttt-sap-ui5-fiori-full-stack-developer-assistant-manager-ernst-young-llp-bengaluru-5-to-8-years-080926921651
+[2026-09-18T12:52:17.920Z] [shard 2] JOBID 80926921651 COMPLETED - description captured (3179 chars)
+[2026-09-18T12:52:19.969Z] [shard 2] JOBID 80926921643 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sentinel-security-consultant-ernst-young-llp-bengaluru-3-to-8-years-080926921643
+[2026-09-18T12:52:20.974Z] [shard 2] JOBID 80926921643 COMPLETED - description captured (2556 chars)
+[2026-09-18T12:52:23.032Z] [shard 2] JOBID 80926921628 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-project-consultant-infrastructure-advisory-ernst-young-llp-bengaluru-2-to-5-years-080926921628
+[2026-09-18T12:52:23.975Z] [shard 2] JOBID 80926921628 COMPLETED - description captured (2652 chars)
+[2026-09-18T12:52:24.000Z] [shard 2] Checkpoint saved (10 completed so far)
+[2026-09-18T12:52:26.059Z] [shard 2] JOBID 80926921626 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-data-science-consultant-ernst-young-llp-bengaluru-5-to-10-years-080926921626
+[2026-09-18T12:52:27.121Z] [shard 2] JOBID 80926921626 COMPLETED - description captured (4748 chars)
+[2026-09-18T12:52:29.187Z] [shard 2] JOBID 80926921264 attempt 1/3 - opening https://www.naukri.com/job-listings-eyp-commercial-strategy-associate-manager-ernst-young-llp-bengaluru-4-to-6-years-080926921264
+[2026-09-18T12:52:30.156Z] [shard 2] JOBID 80926921264 COMPLETED - description captured (3065 chars)
+[2026-09-18T12:52:32.206Z] [shard 2] JOBID 80926921231 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-global-compliance-reporting-ernst-young-llp-new-delhi-5-to-10-years-080926921231
+[2026-09-18T12:52:33.188Z] [shard 2] JOBID 80926921231 COMPLETED - description captured (3626 chars)
+[2026-09-18T12:52:35.335Z] [shard 2] JOBID 80926921230 attempt 1/3 - opening https://www.naukri.com/job-listings-gds-cyber-frontier-ai-vmdr-senior-consultant-ernst-young-llp-noida-2-to-7-years-080926921230
+[2026-09-18T12:52:36.406Z] [shard 2] JOBID 80926921230 COMPLETED - description captured (3851 chars)
+[2026-09-18T12:52:38.468Z] [shard 2] JOBID 80926921228 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-ftsv-ernst-young-llp-bengaluru-5-to-10-years-080926921228
+[2026-09-18T12:52:39.419Z] [shard 2] JOBID 80926921228 COMPLETED - description captured (3794 chars)
+[2026-09-18T12:52:39.444Z] [shard 2] Checkpoint saved (15 completed so far)
+[2026-09-18T12:52:41.494Z] [shard 2] JOBID 80926921225 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-process-controls-consultant-ernst-young-llp-noida-2-to-4-years-080926921225
+[2026-09-18T12:52:42.422Z] [shard 2] JOBID 80926921225 COMPLETED - description captured (4824 chars)
+[2026-09-18T12:52:44.485Z] [shard 2] JOBID 80926921221 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-data-protection-consultant-ernst-young-llp-bengaluru-4-to-7-years-080926921221
+[2026-09-18T12:52:45.344Z] [shard 2] JOBID 80926921221 COMPLETED - description captured (4433 chars)
+[2026-09-18T12:52:47.415Z] [shard 2] JOBID 80926921174 attempt 1/3 - opening https://www.naukri.com/job-listings-supervising-associate-ernst-young-llp-gurugram-5-to-7-years-080926921174
+[2026-09-18T12:52:48.266Z] [shard 2] JOBID 80926921174 COMPLETED - description captured (4485 chars)
+[2026-09-18T12:52:50.329Z] [shard 2] JOBID 80926921099 attempt 1/3 - opening https://www.naukri.com/job-listings-rc-fs-bt-ins-p-and-c-non-usa-manager-ernst-young-llp-bengaluru-3-to-8-years-080926921099
+[2026-09-18T12:52:51.242Z] [shard 2] JOBID 80926921099 COMPLETED - description captured (3760 chars)
+[2026-09-18T12:52:53.296Z] [shard 2] JOBID 80926920983 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-btp-applied-intelligence-aiml-manager-ernst-young-llp-noida-3-to-7-years-080926920983
+[2026-09-18T12:52:54.215Z] [shard 2] JOBID 80926920983 COMPLETED - description captured (4293 chars)
+[2026-09-18T12:52:54.239Z] [shard 2] Checkpoint saved (20 completed so far)
+[2026-09-18T12:52:56.301Z] [shard 2] JOBID 80926920933 attempt 1/3 - opening https://www.naukri.com/job-listings-engineering-lead-ai-ernst-young-llp-kochi-5-to-10-years-080926920933
+[2026-09-18T12:52:57.323Z] [shard 2] JOBID 80926920933 COMPLETED - description captured (5533 chars)
+[2026-09-18T12:52:59.380Z] [shard 2] JOBID 80926920871 attempt 1/3 - opening https://www.naukri.com/job-listings-supervising-associate-oil-gas-and-chemicals-ernst-young-llp-gurugram-5-to-7-years-080926920871
+[2026-09-18T12:53:00.211Z] [shard 2] JOBID 80926920871 COMPLETED - description captured (4332 chars)
+[2026-09-18T12:53:02.263Z] [shard 2] JOBID 80926920856 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-csv-validation-consultant-ernst-young-llp-hyderabad-5-to-10-years-080926920856
+[2026-09-18T12:53:03.151Z] [shard 2] JOBID 80926920856 COMPLETED - description captured (4721 chars)
+[2026-09-18T12:53:05.213Z] [shard 2] JOBID 80926920790 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-workforce-advisory-consultant-ernst-young-llp-bengaluru-2-to-3-years-080926920790
+[2026-09-18T12:53:06.113Z] [shard 2] JOBID 80926920790 COMPLETED - description captured (2370 chars)
+[2026-09-18T12:53:08.166Z] [shard 2] JOBID 80926920783 attempt 1/3 - opening https://www.naukri.com/job-listings-ttt-data-scientist-tax-senior-ernst-young-llp-bengaluru-5-to-10-years-080926920783
+[2026-09-18T12:53:09.147Z] [shard 2] JOBID 80926920783 COMPLETED - description captured (4382 chars)
+[2026-09-18T12:53:09.175Z] [shard 2] Checkpoint saved (25 completed so far)
+[2026-09-18T12:53:11.231Z] [shard 2] JOBID 80926920721 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-workforce-advisory-consultant-ernst-young-llp-bengaluru-2-to-3-years-080926920721
+[2026-09-18T12:53:12.173Z] [shard 2] JOBID 80926920721 COMPLETED - description captured (3662 chars)
+[2026-09-18T12:53:14.230Z] [shard 2] JOBID 80926920690 attempt 1/3 - opening https://www.naukri.com/job-listings-trust-safety-associate-accenture-solutions-pvt-ltd-hyderabad-1-to-3-years-080926920690
+[2026-09-18T12:53:15.063Z] [shard 2] JOBID 80926920690 COMPLETED - description captured (4787 chars)
+[2026-09-18T12:53:17.122Z] [shard 2] JOBID 80926920685 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sap-sac-planning-consultant-ernst-young-llp-noida-3-to-8-years-080926920685
+[2026-09-18T12:53:18.006Z] [shard 2] JOBID 80926920685 COMPLETED - description captured (1740 chars)
+[2026-09-18T12:53:20.059Z] [shard 2] JOBID 80926920679 attempt 1/3 - opening https://www.naukri.com/job-listings-gtm-content-development-support-specialist-supervising-associate-ernst-young-llp-kochi-3-to-6-years-080926920679
+[2026-09-18T12:53:20.989Z] [shard 2] JOBID 80926920679 COMPLETED - description captured (3908 chars)
+[2026-09-18T12:53:23.057Z] [shard 2] JOBID 80926920676 attempt 1/3 - opening https://www.naukri.com/job-listings-gcr-data-coe-advanced-analyst-ernst-young-llp-bengaluru-2-to-7-years-080926920676
+[2026-09-18T12:53:24.087Z] [shard 2] JOBID 80926920676 COMPLETED - description captured (1639 chars)
+[2026-09-18T12:53:24.110Z] [shard 2] Checkpoint saved (30 completed so far)
+[2026-09-18T12:53:26.166Z] [shard 2] JOBID 80926920674 attempt 1/3 - opening https://www.naukri.com/job-listings-trust-safety-new-associate-accenture-solutions-pvt-ltd-hyderabad-0-to-1-years-080926920674
+[2026-09-18T12:53:27.034Z] [shard 2] JOBID 80926920674 COMPLETED - description captured (4050 chars)
+[2026-09-18T12:53:29.100Z] [shard 2] JOBID 80926920655 attempt 1/3 - opening https://www.naukri.com/job-listings-transfer-pricing-consultant-ernst-young-llp-new-delhi-0-to-4-years-080926920655
+[2026-09-18T12:53:29.999Z] [shard 2] JOBID 80926920655 COMPLETED - description captured (1442 chars)
+[2026-09-18T12:53:32.062Z] [shard 2] JOBID 80926920651 attempt 1/3 - opening https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-3-to-8-years-080926920651
+[2026-09-18T12:53:32.919Z] [shard 2] JOBID 80926920651 COMPLETED - description captured (2952 chars)
+[2026-09-18T12:53:34.975Z] [shard 2] JOBID 80926920559 attempt 1/3 - opening https://www.naukri.com/job-listings-wam-crd-ba-manager-ernst-young-llp-hyderabad-3-to-6-years-080926920559
+[2026-09-18T12:53:35.819Z] [shard 2] JOBID 80926920559 COMPLETED - description captured (3766 chars)
+[2026-09-18T12:53:37.876Z] [shard 2] JOBID 80926920517 attempt 1/3 - opening https://www.naukri.com/job-listings-indirect-tax-analyst-ernst-young-llp-mumbai-1-to-2-years-080926920517
+[2026-09-18T12:53:38.795Z] [shard 2] JOBID 80926920517 COMPLETED - description captured (3097 chars)
+[2026-09-18T12:53:38.806Z] [shard 2] Checkpoint saved (35 completed so far)
+[2026-09-18T12:53:40.862Z] [shard 2] JOBID 80926920515 attempt 1/3 - opening https://www.naukri.com/job-listings-risk-consulting-mena-fsrm-credit-risk-senior-consultant-ernst-young-llp-kochi-3-to-8-years-080926920515
+[2026-09-18T12:53:41.744Z] [shard 2] JOBID 80926920515 COMPLETED - description captured (3926 chars)
+[2026-09-18T12:53:43.792Z] [shard 2] JOBID 80926920431 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-network-infrastructure-security-ernst-young-llp-bengaluru-4-to-8-years-080926920431
+[2026-09-18T12:53:44.705Z] [shard 2] JOBID 80926920431 COMPLETED - description captured (4842 chars)
+[2026-09-18T12:53:46.752Z] [shard 2] JOBID 80926920360 attempt 1/3 - opening https://www.naukri.com/job-listings-rc-regulatory-compliance-gxp-ai-model-consultant-senior-ernst-young-llp-hyderabad-5-to-10-years-080926920360
+[2026-09-18T12:53:47.599Z] [shard 2] JOBID 80926920360 COMPLETED - description captured (6329 chars)
+[2026-09-18T12:53:49.660Z] [shard 2] JOBID 80926920345 attempt 1/3 - opening https://www.naukri.com/job-listings-ttt-development-consultant-ernst-young-llp-mumbai-2-to-7-years-080926920345
+[2026-09-18T12:53:50.485Z] [shard 2] JOBID 80926920345 COMPLETED - description captured (1740 chars)
+[2026-09-18T12:53:52.539Z] [shard 2] JOBID 80926920331 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-informatica-idmc-consultant-ernst-young-llp-chennai-5-to-8-years-080926920331
+[2026-09-18T12:53:53.451Z] [shard 2] JOBID 80926920331 COMPLETED - description captured (2521 chars)
+[2026-09-18T12:53:53.475Z] [shard 2] Checkpoint saved (40 completed so far)
+[2026-09-18T12:53:55.521Z] [shard 2] JOBID 80926920280 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ttt-consulting-consultant-ernst-young-llp-bengaluru-4-to-9-years-080926920280
+[2026-09-18T12:53:56.388Z] [shard 2] JOBID 80926920280 COMPLETED - description captured (1745 chars)
+[2026-09-18T12:53:58.444Z] [shard 2] JOBID 80926920273 attempt 1/3 - opening https://www.naukri.com/job-listings-global-compliance-reporting-consultant-ernst-young-llp-new-delhi-3-to-8-years-080926920273
+[2026-09-18T12:53:59.397Z] [shard 2] JOBID 80926920273 COMPLETED - description captured (5855 chars)
+[2026-09-18T12:54:01.452Z] [shard 2] JOBID 80926920260 attempt 1/3 - opening https://www.naukri.com/job-listings-trust-safety-associate-accenture-solutions-pvt-ltd-hyderabad-1-to-3-years-080926920260
+[2026-09-18T12:54:02.295Z] [shard 2] JOBID 80926920260 COMPLETED - description captured (4787 chars)
+[2026-09-18T12:54:04.339Z] [shard 2] JOBID 80926920242 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-actuarial-consultant-prophet-ernst-young-llp-noida-3-to-6-years-080926920242
+[2026-09-18T12:54:05.538Z] [shard 2] JOBID 80926920242 COMPLETED - description captured (2581 chars)
+[2026-09-18T12:54:07.597Z] [shard 2] JOBID 80926920233 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-gxp-ai-validation-consultant-ernst-young-llp-hyderabad-5-to-10-years-080926920233
+[2026-09-18T12:54:08.490Z] [shard 2] JOBID 80926920233 COMPLETED - description captured (5676 chars)
+[2026-09-18T12:54:08.501Z] [shard 2] Checkpoint saved (45 completed so far)
+[2026-09-18T12:54:10.553Z] [shard 2] JOBID 80926920227 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-agentic-ai-consultant-ernst-young-llp-chennai-3-to-5-years-080926920227
+[2026-09-18T12:54:11.485Z] [shard 2] JOBID 80926920227 COMPLETED - description captured (6334 chars)
+[2026-09-18T12:54:13.544Z] [shard 2] JOBID 80926920122 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sap-retail-consultant-ernst-young-llp-noida-3-to-8-years-080926920122
+[2026-09-18T12:54:14.441Z] [shard 2] JOBID 80926920122 COMPLETED - description captured (3748 chars)
+[2026-09-18T12:54:16.498Z] [shard 2] JOBID 80926920115 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-transaction-tax-consultant-ernst-young-llp-bengaluru-3-to-5-years-080926920115
+[2026-09-18T12:54:17.396Z] [shard 2] JOBID 80926920115 COMPLETED - description captured (3923 chars)
+[2026-09-18T12:54:19.443Z] [shard 2] JOBID 80926920105 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-pmo-consultant-ernst-young-llp-bengaluru-5-to-8-years-080926920105
+[2026-09-18T12:54:20.311Z] [shard 2] JOBID 80926920105 COMPLETED - description captured (5099 chars)
+[2026-09-18T12:54:22.370Z] [shard 2] JOBID 80926920074 attempt 1/3 - opening https://www.naukri.com/job-listings-talent-project-manager-strategic-projects-ernst-young-llp-kochi-5-to-7-years-080926920074
+[2026-09-18T12:54:23.291Z] [shard 2] JOBID 80926920074 COMPLETED - description captured (3682 chars)
+[2026-09-18T12:54:23.319Z] [shard 2] Checkpoint saved (50 completed so far)
+[2026-09-18T12:54:25.372Z] [shard 2] JOBID 80926920054 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-csv-mes-validation-consultant-ernst-young-llp-kolkata-5-to-10-years-080926920054
+[2026-09-18T12:54:26.496Z] [shard 2] JOBID 80926920054 COMPLETED - description captured (5778 chars)
+[2026-09-18T12:54:28.544Z] [shard 2] JOBID 80926920050 attempt 1/3 - opening https://www.naukri.com/job-listings-bcm-business-analyst-payments-senior-gdsf02-ernst-young-llp-kochi-5-to-10-years-080926920050
+[2026-09-18T12:54:29.400Z] [shard 2] JOBID 80926920050 COMPLETED - description captured (3763 chars)
+[2026-09-18T12:54:31.448Z] [shard 2] JOBID 80926920040 attempt 1/3 - opening https://www.naukri.com/job-listings-ttt-vba-us-wht-staff-ernst-young-llp-bengaluru-2-to-3-years-080926920040
+[2026-09-18T12:54:32.337Z] [shard 2] JOBID 80926920040 COMPLETED - description captured (3396 chars)
+[2026-09-18T12:54:34.390Z] [shard 2] JOBID 80926920039 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-actuarial-consultant-axis-ernst-young-llp-bengaluru-3-to-6-years-080926920039
+[2026-09-18T12:54:35.380Z] [shard 2] JOBID 80926920039 COMPLETED - description captured (3907 chars)
+[2026-09-18T12:54:37.436Z] [shard 2] JOBID 80926919994 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-genai-consultant-ernst-young-llp-mumbai-3-to-8-years-080926919994
+[2026-09-18T12:54:38.320Z] [shard 2] JOBID 80926919994 COMPLETED - description captured (5928 chars)
+[2026-09-18T12:54:38.334Z] [shard 2] Checkpoint saved (55 completed so far)
+[2026-09-18T12:54:40.393Z] [shard 2] JOBID 80926919967 attempt 1/3 - opening https://www.naukri.com/job-listings-de-rce-risk-data-engineer-sr-gdsn02-ernst-young-llp-bengaluru-4-to-9-years-080926919967
+[2026-09-18T12:54:41.311Z] [shard 2] JOBID 80926919967 COMPLETED - description captured (3398 chars)
+[2026-09-18T12:54:43.365Z] [shard 2] JOBID 80926919935 attempt 1/3 - opening https://www.naukri.com/job-listings-de-et-deployment-engineer-senior-gds-ernst-young-llp-hyderabad-5-to-10-years-080926919935
+[2026-09-18T12:54:44.243Z] [shard 2] JOBID 80926919935 COMPLETED - description captured (5322 chars)
+[2026-09-18T12:54:46.305Z] [shard 2] JOBID 80926919929 attempt 1/3 - opening https://www.naukri.com/job-listings-ttt-development-consultant-ernst-young-llp-mumbai-2-to-7-years-080926919929
+[2026-09-18T12:54:47.161Z] [shard 2] JOBID 80926919929 COMPLETED - description captured (2641 chars)
+[2026-09-18T12:54:49.226Z] [shard 2] JOBID 80926919923 attempt 1/3 - opening https://www.naukri.com/job-listings-strategy-transactions-executive-ernst-young-llp-new-delhi-3-to-8-years-080926919923
+[2026-09-18T12:54:50.165Z] [shard 2] JOBID 80926919923 COMPLETED - description captured (4502 chars)
+[2026-09-18T12:54:52.223Z] [shard 2] JOBID 80926919922 attempt 1/3 - opening https://www.naukri.com/job-listings-bcm-temenos-transact-developers-ernst-young-llp-chennai-2-to-5-years-080926919922
+[2026-09-18T12:54:53.098Z] [shard 2] JOBID 80926919922 COMPLETED - description captured (3774 chars)
+[2026-09-18T12:54:53.128Z] [shard 2] Checkpoint saved (60 completed so far)
+[2026-09-18T12:54:55.216Z] [shard 2] JOBID 80926919919 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-data-platform-engineer-databricks-ernst-young-llp-hyderabad-5-to-10-years-080926919919
+[2026-09-18T12:54:56.049Z] [shard 2] JOBID 80926919919 COMPLETED - description captured (5009 chars)
+[2026-09-18T12:54:58.096Z] [shard 2] JOBID 80926919908 attempt 1/3 - opening https://www.naukri.com/job-listings-bcm-business-analyst-cards-senior-gdsf02-ernst-young-llp-kochi-5-to-10-years-080926919908
+[2026-09-18T12:54:58.965Z] [shard 2] JOBID 80926919908 COMPLETED - description captured (3505 chars)
+[2026-09-18T12:55:01.034Z] [shard 2] JOBID 80926919901 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-ai-detection-response-ernst-young-llp-bengaluru-4-to-9-years-080926919901
+[2026-09-18T12:55:01.907Z] [shard 2] JOBID 80926919901 COMPLETED - description captured (4802 chars)
+[2026-09-18T12:55:03.961Z] [shard 2] JOBID 80926919890 attempt 1/3 - opening https://www.naukri.com/job-listings-supervising-associate-eds-datascience-ernst-young-llp-kochi-4-to-9-years-080926919890
+[2026-09-18T12:55:04.844Z] [shard 2] JOBID 80926919890 COMPLETED - description captured (1368 chars)
+[2026-09-18T12:55:06.894Z] [shard 2] JOBID 80926919886 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-business-analyst-aladdin-efront-ernst-young-llp-chennai-3-to-8-years-080926919886
+[2026-09-18T12:55:07.796Z] [shard 2] JOBID 80926919886 COMPLETED - description captured (1971 chars)
+[2026-09-18T12:55:07.821Z] [shard 2] Checkpoint saved (65 completed so far)
+[2026-09-18T12:55:09.885Z] [shard 2] JOBID 80926919884 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-metadata-management-consultant-ernst-young-llp-hyderabad-5-to-9-years-080926919884
+[2026-09-18T12:55:10.898Z] [shard 2] JOBID 80926919884 COMPLETED - description captured (2327 chars)
+[2026-09-18T12:55:12.959Z] [shard 2] JOBID 80926919875 attempt 1/3 - opening https://www.naukri.com/job-listings-ttt-consulting-consultant-ernst-young-llp-bengaluru-3-to-8-years-080926919875
+[2026-09-18T12:55:13.963Z] [shard 2] JOBID 80926919875 COMPLETED - description captured (1842 chars)
+[2026-09-18T12:55:16.012Z] [shard 2] JOBID 80926919831 attempt 1/3 - opening https://www.naukri.com/job-listings-supervising-associate-ernst-young-llp-gurugram-4-to-7-years-080926919831
+[2026-09-18T12:55:16.938Z] [shard 2] JOBID 80926919831 COMPLETED - description captured (5044 chars)
+[2026-09-18T12:55:18.984Z] [shard 2] JOBID 80926919827 attempt 1/3 - opening https://www.naukri.com/job-listings-idt-vat-reconciliation-assistant-manager-ernst-young-llp-hyderabad-4-to-9-years-080926919827
+[2026-09-18T12:55:19.853Z] [shard 2] JOBID 80926919827 COMPLETED - description captured (3483 chars)
+[2026-09-18T12:55:21.907Z] [shard 2] JOBID 80926919793 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-microsoft-consultant-ernst-young-llp-bengaluru-3-to-8-years-080926919793
+[2026-09-18T12:55:22.802Z] [shard 2] JOBID 80926919793 COMPLETED - description captured (1954 chars)
+[2026-09-18T12:55:22.812Z] [shard 2] Checkpoint saved (70 completed so far)
+[2026-09-18T12:55:24.861Z] [shard 2] JOBID 80926919784 attempt 1/3 - opening https://www.naukri.com/job-listings-testing-ai-test-lead-senior-ernst-young-llp-bengaluru-5-to-10-years-080926919784
+[2026-09-18T12:55:25.747Z] [shard 2] JOBID 80926919784 COMPLETED - description captured (2097 chars)
+[2026-09-18T12:55:27.801Z] [shard 2] JOBID 80926919782 attempt 1/3 - opening https://www.naukri.com/job-listings-gds-cyber-dpp-staff-ai-data-protection-engineering-ernst-young-llp-bengaluru-5-to-10-years-080926919782
+[2026-09-18T12:55:28.978Z] [shard 2] JOBID 80926919782 COMPLETED - description captured (4299 chars)
+[2026-09-18T12:55:31.037Z] [shard 2] JOBID 80926919781 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-faas-consultant-ernst-young-llp-kolkata-3-to-5-years-080926919781
+[2026-09-18T12:55:31.927Z] [shard 2] JOBID 80926919781 COMPLETED - description captured (5902 chars)
+[2026-09-18T12:55:33.978Z] [shard 2] JOBID 80926919471 attempt 1/3 - opening https://www.naukri.com/job-listings-bc-sc-and-o-o-and-g-upstream-ops-manager-ernst-young-llp-kochi-1-to-6-years-080926919471
+[2026-09-18T12:55:34.840Z] [shard 2] JOBID 80926919471 COMPLETED - description captured (4689 chars)
+[2026-09-18T12:55:36.907Z] [shard 2] JOBID 80926919465 attempt 1/3 - opening https://www.naukri.com/job-listings-learning-deployment-specialist-senior-associate-ey-germany-ernst-young-llp-kochi-3-to-8-years-080926919465
+[2026-09-18T12:55:37.786Z] [shard 2] JOBID 80926919465 COMPLETED - description captured (5150 chars)
+[2026-09-18T12:55:37.810Z] [shard 2] Checkpoint saved (75 completed so far)
+[2026-09-18T12:55:39.866Z] [shard 2] JOBID 80926919454 attempt 1/3 - opening https://www.naukri.com/job-listings-de-cloud-native-ai-and-data-engineer-gcp-gdsn02-ernst-young-llp-bengaluru-4-to-7-years-080926919454
+[2026-09-18T12:55:40.798Z] [shard 2] JOBID 80926919454 COMPLETED - description captured (5498 chars)
+[2026-09-18T12:55:42.857Z] [shard 2] JOBID 80926919453 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sap-rar-consultant-ernst-young-llp-chennai-5-to-10-years-080926919453
+[2026-09-18T12:55:43.732Z] [shard 2] JOBID 80926919453 COMPLETED - description captured (5880 chars)
+[2026-09-18T12:55:45.794Z] [shard 2] JOBID 80926919430 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-associate-capital-debt-advisory-ernst-young-llp-mumbai-3-to-6-years-080926919430
+[2026-09-18T12:55:46.736Z] [shard 2] JOBID 80926919430 COMPLETED - description captured (2072 chars)
+[2026-09-18T12:55:48.784Z] [shard 2] JOBID 80926919427 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sap-retail-fashion-consultant-ernst-young-llp-noida-3-to-7-years-080926919427
+[2026-09-18T12:55:49.671Z] [shard 2] JOBID 80926919427 COMPLETED - description captured (3792 chars)
+[2026-09-18T12:55:51.727Z] [shard 2] JOBID 80926919420 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-global-compliance-reporting-consultant-ernst-young-llp-pune-4-to-9-years-080926919420
+[2026-09-18T12:55:52.577Z] [shard 2] JOBID 80926919420 COMPLETED - description captured (1514 chars)
+[2026-09-18T12:55:52.588Z] [shard 2] Checkpoint saved (80 completed so far)
+[2026-09-18T12:55:54.640Z] [shard 2] JOBID 80926919401 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-technology-strategy-transformation-ernst-young-llp-new-delhi-5-to-10-years-080926919401
+[2026-09-18T12:55:55.595Z] [shard 2] JOBID 80926919401 COMPLETED - description captured (1517 chars)
+[2026-09-18T12:55:57.647Z] [shard 2] JOBID 80926919399 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-quantum-consultant-ernst-young-llp-pune-2-to-5-years-080926919399
+[2026-09-18T12:55:58.548Z] [shard 2] JOBID 80926919399 COMPLETED - description captured (3440 chars)
+[2026-09-18T12:56:00.612Z] [shard 2] JOBID 80926919366 attempt 1/3 - opening https://www.naukri.com/job-listings-instructional-designer-senior-associate-europe-west-ernst-young-llp-kochi-3-to-6-years-080926919366
+[2026-09-18T12:56:01.512Z] [shard 2] JOBID 80926919366 COMPLETED - description captured (4552 chars)
+[2026-09-18T12:56:03.565Z] [shard 2] JOBID 80926919357 attempt 1/3 - opening https://www.naukri.com/job-listings-gds-gco-enablement-team-assistant-manager-cc-team-ernst-young-llp-bengaluru-5-to-8-years-080926919357
+[2026-09-18T12:56:04.417Z] [shard 2] JOBID 80926919357 COMPLETED - description captured (4100 chars)
+[2026-09-18T12:56:06.479Z] [shard 2] JOBID 80926919324 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-data-ai-product-management-consultant-ernst-young-llp-kochi-4-to-9-years-080926919324
+[2026-09-18T12:56:07.349Z] [shard 2] JOBID 80926919324 COMPLETED - description captured (3517 chars)
+[2026-09-18T12:56:07.381Z] [shard 2] Checkpoint saved (85 completed so far)
+[2026-09-18T12:56:09.439Z] [shard 2] JOBID 80926919322 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-net-angular-full-stack-consultant-ernst-young-llp-kolkata-5-to-10-years-080926919322
+[2026-09-18T12:56:10.440Z] [shard 2] JOBID 80926919322 COMPLETED - description captured (3054 chars)
+[2026-09-18T12:56:12.486Z] [shard 2] JOBID 80926919291 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-co-consultant-ernst-young-llp-noida-3-to-7-years-080926919291
+[2026-09-18T12:56:13.367Z] [shard 2] JOBID 80926919291 COMPLETED - description captured (4065 chars)
+[2026-09-18T12:56:15.434Z] [shard 2] JOBID 80926919279 attempt 1/3 - opening https://www.naukri.com/job-listings-data-steward-tech-supervising-associate-eds-ernst-young-llp-kochi-5-to-10-years-080926919279
+[2026-09-18T12:56:16.280Z] [shard 2] JOBID 80926919279 COMPLETED - description captured (6983 chars)
+[2026-09-18T12:56:18.328Z] [shard 2] JOBID 80926919274 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-etl-test-engineer-ernst-young-llp-kolkata-5-to-8-years-080926919274
+[2026-09-18T12:56:19.226Z] [shard 2] JOBID 80926919274 COMPLETED - description captured (5416 chars)
+[2026-09-18T12:56:21.296Z] [shard 2] JOBID 80926919263 attempt 1/3 - opening https://www.naukri.com/job-listings-data-engineer-senior-ernst-young-llp-bengaluru-4-to-9-years-080926919263
+[2026-09-18T12:56:22.162Z] [shard 2] JOBID 80926919263 COMPLETED - description captured (5800 chars)
+[2026-09-18T12:56:22.169Z] [shard 2] Checkpoint saved (90 completed so far)
+[2026-09-18T12:56:24.218Z] [shard 2] JOBID 80926919219 attempt 1/3 - opening https://www.naukri.com/job-listings-data-steward-tech-senior-associate-eds-ernst-young-llp-kochi-3-to-8-years-080926919219
+[2026-09-18T12:56:25.115Z] [shard 2] JOBID 80926919219 COMPLETED - description captured (6316 chars)
+[2026-09-18T12:56:27.177Z] [shard 2] JOBID 80926919215 attempt 1/3 - opening https://www.naukri.com/job-listings-business-consulting-supply-chain-and-operations-senior-consultant-ernst-young-llp-kochi-5-to-10-years-080926919215
+[2026-09-18T12:56:28.134Z] [shard 2] JOBID 80926919215 COMPLETED - description captured (5080 chars)
+[2026-09-18T12:56:30.186Z] [shard 2] JOBID 80926919204 attempt 1/3 - opening https://www.naukri.com/job-listings-tech-s-and-t-dwp-engineer-senior-gdsn02-ernst-young-llp-bengaluru-5-to-10-years-080926919204
+[2026-09-18T12:56:31.127Z] [shard 2] JOBID 80926919204 COMPLETED - description captured (4624 chars)
+[2026-09-18T12:56:33.176Z] [shard 2] JOBID 80926919175 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-data-platform-engineer-snowflake-ernst-young-llp-bengaluru-5-to-10-years-080926919175
+[2026-09-18T12:56:34.110Z] [shard 2] JOBID 80926919175 COMPLETED - description captured (5078 chars)
+[2026-09-18T12:56:36.166Z] [shard 2] JOBID 80926919156 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sap-fiori-consultant-ernst-young-llp-bengaluru-4-to-9-years-080926919156
+[2026-09-18T12:56:37.068Z] [shard 2] JOBID 80926919156 COMPLETED - description captured (4401 chars)
+[2026-09-18T12:56:37.093Z] [shard 2] Checkpoint saved (95 completed so far)
+[2026-09-18T12:56:39.158Z] [shard 2] JOBID 80926919136 attempt 1/3 - opening https://www.naukri.com/job-listings-service-delivery-manager-ernst-young-llp-kochi-5-to-10-years-080926919136
+[2026-09-18T12:56:40.035Z] [shard 2] JOBID 80926919136 COMPLETED - description captured (2829 chars)
+[2026-09-18T12:56:42.092Z] [shard 2] JOBID 80926919100 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-btp-llm-developer-senior-ernst-young-llp-noida-3-to-4-years-080926919100
+[2026-09-18T12:56:43.034Z] [shard 2] JOBID 80926919100 COMPLETED - description captured (2722 chars)
+[2026-09-18T12:56:45.086Z] [shard 2] JOBID 80926919096 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-consultant-digital-risk-ernst-young-llp-mumbai-1-to-6-years-080926919096
+[2026-09-18T12:56:46.063Z] [shard 2] JOBID 80926919096 COMPLETED - description captured (4343 chars)
+[2026-09-18T12:56:48.119Z] [shard 2] JOBID 80926919077 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-full-stack-ai-consultant-ernst-young-llp-bengaluru-3-to-7-years-080926919077
+[2026-09-18T12:56:49.058Z] [shard 2] JOBID 80926919077 COMPLETED - description captured (2228 chars)
+[2026-09-18T12:56:51.122Z] [shard 2] JOBID 80926919072 attempt 1/3 - opening https://www.naukri.com/job-listings-oracle-cloud-infra-admin-oracle-dba-with-oci-senior-ernst-young-llp-noida-3-to-7-years-080926919072
+[2026-09-18T12:56:52.154Z] [shard 2] JOBID 80926919072 COMPLETED - description captured (5505 chars)
+[2026-09-18T12:56:52.169Z] [shard 2] Checkpoint saved (100 completed so far)
+[2026-09-18T12:56:54.230Z] [shard 2] JOBID 80926919038 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-fsrm-risk-consultant-ernst-young-llp-noida-3-to-8-years-080926919038
+[2026-09-18T12:56:55.140Z] [shard 2] JOBID 80926919038 COMPLETED - description captured (3958 chars)
+[2026-09-18T12:56:57.200Z] [shard 2] JOBID 80926919012 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-data-governance-consultant-ernst-young-llp-bengaluru-5-to-9-years-080926919012
+[2026-09-18T12:56:58.119Z] [shard 2] JOBID 80926919012 COMPLETED - description captured (2086 chars)
+[2026-09-18T12:57:00.165Z] [shard 2] JOBID 80926918996 attempt 1/3 - opening https://www.naukri.com/job-listings-gms-staff-ms-rss-ernst-young-llp-bengaluru-1-to-4-years-080926918996
+[2026-09-18T12:57:01.075Z] [shard 2] JOBID 80926918996 COMPLETED - description captured (4401 chars)
+[2026-09-18T12:57:03.128Z] [shard 2] JOBID 80926918985 attempt 1/3 - opening https://www.naukri.com/job-listings-fincrime-compliance-staff-ernst-young-llp-bengaluru-1-to-3-years-080926918985
+[2026-09-18T12:57:04.047Z] [shard 2] JOBID 80926918985 COMPLETED - description captured (6077 chars)
+[2026-09-18T12:57:06.095Z] [shard 2] JOBID 80926918982 attempt 1/3 - opening https://www.naukri.com/job-listings-forensics-consultant-ernst-young-llp-mumbai-2-to-5-years-080926918982
+[2026-09-18T12:57:06.980Z] [shard 2] JOBID 80926918982 COMPLETED - description captured (1559 chars)
+[2026-09-18T12:57:07.011Z] [shard 2] Checkpoint saved (105 completed so far)
+[2026-09-18T12:57:09.067Z] [shard 2] JOBID 80926918917 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-sales-use-tax-consultant-ernst-young-llp-bengaluru-3-to-6-years-080926918917
+[2026-09-18T12:57:10.023Z] [shard 2] JOBID 80926918917 COMPLETED - description captured (2682 chars)
+[2026-09-18T12:57:12.066Z] [shard 2] JOBID 80926918914 attempt 1/3 - opening https://www.naukri.com/job-listings-ms-fdl-sr-ai-engineer-senior-e-ernst-young-llp-bengaluru-4-to-9-years-080926918914
+[2026-09-18T12:57:13.943Z] [shard 2] JOBID 80926918914 COMPLETED - description captured (5211 chars)
+[2026-09-18T12:57:16.008Z] [shard 2] JOBID 80926918861 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-pp-tech-consultant-senior-ernst-young-llp-noida-4-to-9-years-080926918861
+[2026-09-18T12:57:16.914Z] [shard 2] JOBID 80926918861 COMPLETED - description captured (1476 chars)
+[2026-09-18T12:57:18.967Z] [shard 2] JOBID 80926918847 attempt 1/3 - opening https://www.naukri.com/job-listings-rc-fs-ms-ey-comply-and-rvs-regulatory-reporting-staff-ernst-young-llp-bengaluru-2-to-4-years-080926918847
+[2026-09-18T12:57:19.989Z] [shard 2] JOBID 80926918847 COMPLETED - description captured (4853 chars)
+[2026-09-18T12:57:22.046Z] [shard 2] JOBID 80926918838 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-btp-fullstack-developer-ernst-young-llp-bengaluru-5-to-10-years-080926918838
+[2026-09-18T12:57:22.931Z] [shard 2] JOBID 80926918838 COMPLETED - description captured (4696 chars)
+[2026-09-18T12:57:22.955Z] [shard 2] Checkpoint saved (110 completed so far)
+[2026-09-18T12:57:25.013Z] [shard 2] JOBID 80926918827 attempt 1/3 - opening https://www.naukri.com/job-listings-power-platform-developer-senior-ernst-young-llp-bengaluru-3-to-8-years-080926918827
+[2026-09-18T12:57:26.044Z] [shard 2] JOBID 80926918827 COMPLETED - description captured (5495 chars)
+[2026-09-18T12:57:28.103Z] [shard 2] JOBID 80926918817 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-microsoft-project-server-analyst-ernst-young-llp-bengaluru-3-to-6-years-080926918817
+[2026-09-18T12:57:29.032Z] [shard 2] JOBID 80926918817 COMPLETED - description captured (5588 chars)
+[2026-09-18T12:57:31.102Z] [shard 2] JOBID 80926918799 attempt 1/3 - opening https://www.naukri.com/job-listings-business-consulting-business-transformation-bsh-consultant-ernst-young-llp-kochi-3-to-8-years-080926918799
+[2026-09-18T12:57:31.947Z] [shard 2] JOBID 80926918799 COMPLETED - description captured (4648 chars)
+[2026-09-18T12:57:34.004Z] [shard 2] JOBID 80926918737 attempt 1/3 - opening https://www.naukri.com/job-listings-appsec-grc-staff-ernst-young-llp-bengaluru-1-to-3-years-080926918737
+[2026-09-18T12:57:35.060Z] [shard 2] JOBID 80926918737 COMPLETED - description captured (5220 chars)
+[2026-09-18T12:57:37.110Z] [shard 2] JOBID 80926915431 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-software-engineer-arivon-technologie-bengaluru-1-to-3-years-080926915431
+[2026-09-18T12:57:37.896Z] [shard 2] JOBID 80926915431 COMPLETED - description captured (629 chars)
+[2026-09-18T12:57:37.906Z] [shard 2] Checkpoint saved (115 completed so far)
+[2026-09-18T12:57:39.958Z] [shard 2] JOBID 80926915421 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-teacher-cbse-grade-9-and-10-sanjay-ghodawat-international-school-kolhapur-5-to-7-years-080926915421
+[2026-09-18T12:57:40.832Z] [shard 2] JOBID 80926915421 COMPLETED - description captured (1072 chars)
+[2026-09-18T12:57:42.883Z] [shard 2] JOBID 80926912718 attempt 1/3 - opening https://www.naukri.com/job-listings-junior-business-analyst-datazoic-machines-private-limited-chennai-3-to-5-years-080926912718
+[2026-09-18T12:57:43.660Z] [shard 2] JOBID 80926912718 COMPLETED - description captured (1343 chars)
+[2026-09-18T12:57:45.723Z] [shard 2] JOBID 80926912715 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineer-datazoic-machines-private-limited-chennai-2-to-4-years-080926912715
+[2026-09-18T12:57:46.562Z] [shard 2] JOBID 80926912715 COMPLETED - description captured (1924 chars)
+[2026-09-18T12:57:48.619Z] [shard 2] JOBID 80926911198 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-avenirdigital-solutions-private-limited-hyderabad-5-to-10-years-080926911198
+[2026-09-18T12:57:49.445Z] [shard 2] JOBID 80926911198 COMPLETED - description captured (2056 chars)
+[2026-09-18T12:57:51.494Z] [shard 2] JOBID 80926911195 attempt 1/3 - opening https://www.naukri.com/job-listings-generative-ai-chatbot-python-developer-avenirdigital-solutions-private-limited-hyderabad-5-to-8-years-080926911195
+[2026-09-18T12:57:52.289Z] [shard 2] JOBID 80926911195 COMPLETED - description captured (2106 chars)
+[2026-09-18T12:57:52.319Z] [shard 2] Checkpoint saved (120 completed so far)
+[2026-09-18T12:57:54.375Z] [shard 2] JOBID 80926910853 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-bengaluru-0-to-5-years-080926910853
+[2026-09-18T12:57:55.250Z] [shard 2] JOBID 80926910853 COMPLETED - description captured (4311 chars)
+[2026-09-18T12:57:57.307Z] [shard 2] JOBID 80926910852 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-thane-0-to-5-years-080926910852
+[2026-09-18T12:57:58.107Z] [shard 2] JOBID 80926910852 COMPLETED - description captured (3181 chars)
+[2026-09-18T12:58:00.167Z] [shard 2] JOBID 80926910847 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-indore-0-to-5-years-080926910847
+[2026-09-18T12:58:00.968Z] [shard 2] JOBID 80926910847 COMPLETED - description captured (4249 chars)
+[2026-09-18T12:58:03.031Z] [shard 2] JOBID 80926910842 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-delhi-ncr-0-to-5-years-080926910842
+[2026-09-18T12:58:03.849Z] [shard 2] JOBID 80926910842 COMPLETED - description captured (3180 chars)
+[2026-09-18T12:58:05.913Z] [shard 2] JOBID 80926910841 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-gurugram-0-to-5-years-080926910841
+[2026-09-18T12:58:06.757Z] [shard 2] JOBID 80926910841 COMPLETED - description captured (3401 chars)
+[2026-09-18T12:58:06.769Z] [shard 2] Checkpoint saved (125 completed so far)
+[2026-09-18T12:58:08.833Z] [shard 2] JOBID 80926910838 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-mumbai-0-to-5-years-080926910838
+[2026-09-18T12:58:09.659Z] [shard 2] JOBID 80926910838 COMPLETED - description captured (3408 chars)
+[2026-09-18T12:58:11.707Z] [shard 2] JOBID 80926910831 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-kolkata-0-to-5-years-080926910831
+[2026-09-18T12:58:12.537Z] [shard 2] JOBID 80926910831 COMPLETED - description captured (4171 chars)
+[2026-09-18T12:58:14.605Z] [shard 2] JOBID 80926910788 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-agra-0-to-5-years-080926910788
+[2026-09-18T12:58:15.472Z] [shard 2] JOBID 80926910788 COMPLETED - description captured (4154 chars)
+[2026-09-18T12:58:17.535Z] [shard 2] JOBID 80926910664 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-kolkata-0-to-5-years-080926910664
+[2026-09-18T12:58:18.413Z] [shard 2] JOBID 80926910664 COMPLETED - description captured (3249 chars)
+[2026-09-18T12:58:20.473Z] [shard 2] JOBID 80926910644 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-jaipur-0-to-5-years-080926910644
+[2026-09-18T12:58:21.320Z] [shard 2] JOBID 80926910644 COMPLETED - description captured (3187 chars)
+[2026-09-18T12:58:21.349Z] [shard 2] Checkpoint saved (130 completed so far)
+[2026-09-18T12:58:23.413Z] [shard 2] JOBID 80926910630 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-bengaluru-0-to-5-years-080926910630
+[2026-09-18T12:58:24.189Z] [shard 2] JOBID 80926910630 COMPLETED - description captured (3276 chars)
+[2026-09-18T12:58:26.236Z] [shard 2] JOBID 80926910613 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-ahmedabad-0-to-5-years-080926910613
+[2026-09-18T12:58:27.079Z] [shard 2] JOBID 80926910613 COMPLETED - description captured (3272 chars)
+[2026-09-18T12:58:29.139Z] [shard 2] JOBID 80926910600 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-lucknow-0-to-5-years-080926910600
+[2026-09-18T12:58:29.953Z] [shard 2] JOBID 80926910600 COMPLETED - description captured (4139 chars)
+[2026-09-18T12:58:32.008Z] [shard 2] JOBID 80926910521 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-noida-0-to-5-years-080926910521
+[2026-09-18T12:58:32.856Z] [shard 2] JOBID 80926910521 COMPLETED - description captured (3301 chars)
+[2026-09-18T12:58:34.912Z] [shard 2] JOBID 80926910519 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-visakhapatnam-0-to-5-years-080926910519
+[2026-09-18T12:58:35.775Z] [shard 2] JOBID 80926910519 COMPLETED - description captured (3371 chars)
+[2026-09-18T12:58:35.782Z] [shard 2] Checkpoint saved (135 completed so far)
+[2026-09-18T12:58:37.834Z] [shard 2] JOBID 80926910516 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-pune-0-to-5-years-080926910516
+[2026-09-18T12:58:38.637Z] [shard 2] JOBID 80926910516 COMPLETED - description captured (3551 chars)
+[2026-09-18T12:58:40.703Z] [shard 2] JOBID 80926910513 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-mumbai-0-to-5-years-080926910513
+[2026-09-18T12:58:41.501Z] [shard 2] JOBID 80926910513 COMPLETED - description captured (4144 chars)
+[2026-09-18T12:58:43.550Z] [shard 2] JOBID 80926910468 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-nagpur-0-to-5-years-080926910468
+[2026-09-18T12:58:44.368Z] [shard 2] JOBID 80926910468 COMPLETED - description captured (3219 chars)
+[2026-09-18T12:58:46.433Z] [shard 2] JOBID 80926910467 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-chennai-0-to-5-years-080926910467
+[2026-09-18T12:58:47.207Z] [shard 2] JOBID 80926910467 COMPLETED - description captured (3186 chars)
+[2026-09-18T12:58:49.256Z] [shard 2] JOBID 80926910463 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-jaipur-0-to-5-years-080926910463
+[2026-09-18T12:58:50.233Z] [shard 2] JOBID 80926910463 COMPLETED - description captured (3225 chars)
+[2026-09-18T12:58:50.256Z] [shard 2] Checkpoint saved (140 completed so far)
+[2026-09-18T12:58:52.310Z] [shard 2] JOBID 80926910462 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-ludhiana-0-to-5-years-080926910462
+[2026-09-18T12:58:53.176Z] [shard 2] JOBID 80926910462 COMPLETED - description captured (4156 chars)
+[2026-09-18T12:58:55.233Z] [shard 2] JOBID 80926910436 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-surat-0-to-5-years-080926910436
+[2026-09-18T12:58:56.038Z] [shard 2] JOBID 80926910436 COMPLETED - description captured (4249 chars)
+[2026-09-18T12:58:58.096Z] [shard 2] JOBID 80926910434 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-hyderabad-0-to-5-years-080926910434
+[2026-09-18T12:58:58.868Z] [shard 2] JOBID 80926910434 COMPLETED - description captured (4249 chars)
+[2026-09-18T12:59:00.930Z] [shard 2] JOBID 80926910432 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-visakhapatnam-0-to-5-years-080926910432
+[2026-09-18T12:59:01.721Z] [shard 2] JOBID 80926910432 COMPLETED - description captured (3226 chars)
+[2026-09-18T12:59:03.783Z] [shard 2] JOBID 80926910430 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-gurugram-0-to-5-years-080926910430
+[2026-09-18T12:59:04.601Z] [shard 2] JOBID 80926910430 COMPLETED - description captured (4078 chars)
+[2026-09-18T12:59:04.619Z] [shard 2] Checkpoint saved (145 completed so far)
+[2026-09-18T12:59:06.678Z] [shard 2] JOBID 80926910429 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-kanpur-0-to-5-years-080926910429
+[2026-09-18T12:59:07.475Z] [shard 2] JOBID 80926910429 COMPLETED - description captured (4154 chars)
+[2026-09-18T12:59:09.535Z] [shard 2] JOBID 80926910428 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-thane-0-to-5-years-080926910428
+[2026-09-18T12:59:10.367Z] [shard 2] JOBID 80926910428 COMPLETED - description captured (3495 chars)
+[2026-09-18T12:59:12.417Z] [shard 2] JOBID 80926910427 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-delhi-ncr-0-to-5-years-080926910427
+[2026-09-18T12:59:13.281Z] [shard 2] JOBID 80926910427 COMPLETED - description captured (3371 chars)
+[2026-09-18T12:59:15.330Z] [shard 2] JOBID 80926910426 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-noida-0-to-5-years-080926910426
+[2026-09-18T12:59:16.190Z] [shard 2] JOBID 80926910426 COMPLETED - description captured (3364 chars)
+[2026-09-18T12:59:18.247Z] [shard 2] JOBID 80926910413 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-noida-0-to-5-years-080926910413
+[2026-09-18T12:59:19.115Z] [shard 2] JOBID 80926910413 COMPLETED - description captured (3181 chars)
+[2026-09-18T12:59:19.141Z] [shard 2] Checkpoint saved (150 completed so far)
+[2026-09-18T12:59:21.191Z] [shard 2] JOBID 80926910409 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-chennai-0-to-5-years-080926910409
+[2026-09-18T12:59:22.023Z] [shard 2] JOBID 80926910409 COMPLETED - description captured (4154 chars)
+[2026-09-18T12:59:24.076Z] [shard 2] JOBID 80926910407 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-kanpur-0-to-5-years-080926910407
+[2026-09-18T12:59:24.973Z] [shard 2] JOBID 80926910407 COMPLETED - description captured (3371 chars)
+[2026-09-18T12:59:27.041Z] [shard 2] JOBID 80926910406 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-ahmedabad-0-to-5-years-080926910406
+[2026-09-18T12:59:27.874Z] [shard 2] JOBID 80926910406 COMPLETED - description captured (3385 chars)
+[2026-09-18T12:59:29.927Z] [shard 2] JOBID 80926910404 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-indore-0-to-5-years-080926910404
+[2026-09-18T12:59:30.822Z] [shard 2] JOBID 80926910404 COMPLETED - description captured (3548 chars)
+[2026-09-18T12:59:32.884Z] [shard 2] JOBID 80926910402 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-bhopal-0-to-5-years-080926910402
+[2026-09-18T12:59:33.669Z] [shard 2] JOBID 80926910402 COMPLETED - description captured (4146 chars)
+[2026-09-18T12:59:33.686Z] [shard 2] Checkpoint saved (155 completed so far)
+[2026-09-18T12:59:35.741Z] [shard 2] JOBID 80926910386 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-ltd-agra-0-to-5-years-080926910386
+[2026-09-18T12:59:36.569Z] [shard 2] JOBID 80926910386 COMPLETED - description captured (4249 chars)
+[2026-09-18T12:59:38.630Z] [shard 2] JOBID 80926910383 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-ltd-hyderabad-0-to-5-years-080926910383
+[2026-09-18T12:59:39.414Z] [shard 2] JOBID 80926910383 COMPLETED - description captured (3430 chars)
+[2026-09-18T12:59:41.469Z] [shard 2] JOBID 80926910381 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-ltd-pune-0-to-5-years-080926910381
+[2026-09-18T12:59:42.280Z] [shard 2] JOBID 80926910381 COMPLETED - description captured (3371 chars)
+[2026-09-18T12:59:44.328Z] [shard 2] JOBID 80926910222 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-nlp-machine-learning-benovymed-healthcare-private-limited-pune-0-to-5-years-080926910222
+[2026-09-18T12:59:45.159Z] [shard 2] JOBID 80926910222 COMPLETED - description captured (4218 chars)
+[2026-09-18T12:59:47.220Z] [shard 2] JOBID 80926910215 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-jaipur-0-to-5-years-080926910215
+[2026-09-18T12:59:48.049Z] [shard 2] JOBID 80926910215 COMPLETED - description captured (745 chars)
+[2026-09-18T12:59:48.076Z] [shard 2] Checkpoint saved (160 completed so far)
+[2026-09-18T12:59:50.137Z] [shard 2] JOBID 80926910204 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-limited-delhi-ncr-0-to-5-years-080926910204
+[2026-09-18T12:59:51.006Z] [shard 2] JOBID 80926910204 COMPLETED - description captured (3728 chars)
+[2026-09-18T12:59:53.065Z] [shard 2] JOBID 80926910201 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-nlp-machine-learning-benovymed-healthcare-private-limited-gurugram-0-to-5-years-080926910201
+[2026-09-18T12:59:53.837Z] [shard 2] JOBID 80926910201 COMPLETED - description captured (3158 chars)
+[2026-09-18T12:59:55.893Z] [shard 2] JOBID 80926910118 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-conversational-chatbot-developer-benovymed-healthcare-private-limited-new-delhi-3-to-5-years-080926910118
+[2026-09-18T12:59:56.790Z] [shard 2] JOBID 80926910118 COMPLETED - description captured (3249 chars)
+[2026-09-18T12:59:58.845Z] [shard 2] JOBID 80926909981 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-new-delhi-0-to-5-years-080926909981
+[2026-09-18T12:59:59.678Z] [shard 2] JOBID 80926909981 COMPLETED - description captured (5497 chars)
+[2026-09-18T13:00:01.735Z] [shard 2] JOBID 80926909850 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-app-developer-mobile-architect-lead-ios-android-platform-benovymed-healthcare-private-limited-patna-2-to-7-years-080926909850
+[2026-09-18T13:00:02.711Z] [shard 2] JOBID 80926909850 COMPLETED - description captured (2234 chars)
+[2026-09-18T13:00:02.725Z] [shard 2] Checkpoint saved (165 completed so far)
+[2026-09-18T13:00:04.786Z] [shard 2] JOBID 80926909832 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-jabalpur-0-to-5-years-080926909832
+[2026-09-18T13:00:05.644Z] [shard 2] JOBID 80926909832 COMPLETED - description captured (3647 chars)
+[2026-09-18T13:00:07.707Z] [shard 2] JOBID 80926909827 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-chennai-0-to-5-years-080926909827
+[2026-09-18T13:00:08.564Z] [shard 2] JOBID 80926909827 COMPLETED - description captured (2971 chars)
+[2026-09-18T13:00:10.625Z] [shard 2] JOBID 80926909825 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-limited-delhi-ncr-0-to-5-years-080926909825
+[2026-09-18T13:00:11.431Z] [shard 2] JOBID 80926909825 COMPLETED - description captured (4027 chars)
+[2026-09-18T13:00:13.485Z] [shard 2] JOBID 80926909823 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-limited-chennai-0-to-5-years-080926909823
+[2026-09-18T13:00:14.412Z] [shard 2] JOBID 80926909823 COMPLETED - description captured (3158 chars)
+[2026-09-18T13:00:16.469Z] [shard 2] JOBID 80926909822 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-lucknow-0-to-5-years-080926909822
+[2026-09-18T13:00:17.266Z] [shard 2] JOBID 80926909822 COMPLETED - description captured (639 chars)
+[2026-09-18T13:00:17.293Z] [shard 2] Checkpoint saved (170 completed so far)
+[2026-09-18T13:00:19.355Z] [shard 2] JOBID 80926909820 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-hyderabad-0-to-5-years-080926909820
+[2026-09-18T13:00:20.165Z] [shard 2] JOBID 80926909820 COMPLETED - description captured (3395 chars)
+[2026-09-18T13:00:22.236Z] [shard 2] JOBID 80926909705 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-app-developer-mobile-architect-lead-ios-android-platform-benovymed-healthcare-private-limited-jabalpur-2-to-7-years-080926909705
+[2026-09-18T13:00:23.218Z] [shard 2] JOBID 80926909705 COMPLETED - description captured (2234 chars)
+[2026-09-18T13:00:25.268Z] [shard 2] JOBID 80926909687 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-sr-data-scientist-data-scientist-benovymed-healthcare-private-limited-noida-gurugram-delhi-ncr-0-to-5-years-080926909687
+[2026-09-18T13:00:26.067Z] [shard 2] JOBID 80926909687 COMPLETED - description captured (3699 chars)
+[2026-09-18T13:00:28.112Z] [shard 2] JOBID 80926909686 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-limited-gurugram-0-to-5-years-080926909686
+[2026-09-18T13:00:29.033Z] [shard 2] JOBID 80926909686 COMPLETED - description captured (3186 chars)
+[2026-09-18T13:00:31.082Z] [shard 2] JOBID 80926909682 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-ranchi-0-to-5-years-080926909682
+[2026-09-18T13:00:31.978Z] [shard 2] JOBID 80926909682 COMPLETED - description captured (2971 chars)
+[2026-09-18T13:00:32.030Z] [shard 2] Checkpoint saved (175 completed so far)
+[2026-09-18T13:00:34.082Z] [shard 2] JOBID 80926909679 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-patna-0-to-5-years-080926909679
+[2026-09-18T13:00:34.898Z] [shard 2] JOBID 80926909679 COMPLETED - description captured (3647 chars)
+[2026-09-18T13:00:36.956Z] [shard 2] JOBID 80926909677 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-nashik-0-to-5-years-080926909677
+[2026-09-18T13:00:37.800Z] [shard 2] JOBID 80926909677 COMPLETED - description captured (2971 chars)
+[2026-09-18T13:00:39.851Z] [shard 2] JOBID 80926909674 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-noida-gurugram-delhi-ncr-0-to-5-years-080926909674
+[2026-09-18T13:00:40.662Z] [shard 2] JOBID 80926909674 COMPLETED - description captured (4065 chars)
+[2026-09-18T13:00:42.716Z] [shard 2] JOBID 80926909670 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-limited-ahmedabad-0-to-5-years-080926909670
+[2026-09-18T13:00:43.546Z] [shard 2] JOBID 80926909670 COMPLETED - description captured (3313 chars)
+[2026-09-18T13:00:45.604Z] [shard 2] JOBID 80926909602 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-private-limited-surat-2-to-3-years-080926909602
+[2026-09-18T13:00:46.493Z] [shard 2] JOBID 80926909602 COMPLETED - description captured (584 chars)
+[2026-09-18T13:00:46.506Z] [shard 2] Checkpoint saved (180 completed so far)
+[2026-09-18T13:00:48.561Z] [shard 2] JOBID 80926909600 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-private-limited-patna-3-to-5-years-080926909600
+[2026-09-18T13:00:49.430Z] [shard 2] JOBID 80926909600 COMPLETED - description captured (754 chars)
+[2026-09-18T13:00:51.495Z] [shard 2] JOBID 80926909512 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-app-developer-mobile-architect-lead-ios-android-platform-benovymed-healthcare-private-limited-coimbatore-2-to-7-years-080926909512
+[2026-09-18T13:00:52.287Z] [shard 2] JOBID 80926909512 COMPLETED - description captured (2234 chars)
+[2026-09-18T13:00:54.347Z] [shard 2] JOBID 80926909498 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-benovymed-healthcare-private-limited-new-delhi-2-to-7-years-080926909498
+[2026-09-18T13:00:55.175Z] [shard 2] JOBID 80926909498 COMPLETED - description captured (5060 chars)
+[2026-09-18T13:00:57.231Z] [shard 2] JOBID 80926909345 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-limited-nagpur-delhi-ncr-gurgaon-gurugram-0-to-5-years-080926909345
+[2026-09-18T13:00:58.091Z] [shard 2] JOBID 80926909345 COMPLETED - description captured (3145 chars)
+[2026-09-18T13:01:00.145Z] [shard 2] JOBID 80926909343 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-ludhiana-0-to-5-years-080926909343
+[2026-09-18T13:01:01.256Z] [shard 2] JOBID 80926909343 COMPLETED - description captured (3475 chars)
+[2026-09-18T13:01:01.284Z] [shard 2] Checkpoint saved (185 completed so far)
+[2026-09-18T13:01:03.344Z] [shard 2] JOBID 80926909342 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-lucknow-0-to-5-years-080926909342
+[2026-09-18T13:01:04.211Z] [shard 2] JOBID 80926909342 COMPLETED - description captured (3346 chars)
+[2026-09-18T13:01:06.269Z] [shard 2] JOBID 80926909339 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-bengaluru-0-to-5-years-080926909339
+[2026-09-18T13:01:07.195Z] [shard 2] JOBID 80926909339 COMPLETED - description captured (3475 chars)
+[2026-09-18T13:01:09.261Z] [shard 2] JOBID 80926909337 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-limited-bengaluru-0-to-5-years-080926909337
+[2026-09-18T13:01:10.284Z] [shard 2] JOBID 80926909337 COMPLETED - description captured (3486 chars)
+[2026-09-18T13:01:12.342Z] [shard 2] JOBID 80926909223 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-pune-0-to-5-years-080926909223
+[2026-09-18T13:01:13.145Z] [shard 2] JOBID 80926909223 COMPLETED - description captured (3647 chars)
+[2026-09-18T13:01:15.209Z] [shard 2] JOBID 80926909214 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-benovymed-healthcare-private-limited-pune-0-to-5-years-080926909214
+[2026-09-18T13:01:16.034Z] [shard 2] JOBID 80926909214 COMPLETED - description captured (4112 chars)
+[2026-09-18T13:01:16.041Z] [shard 2] Checkpoint saved (190 completed so far)
+[2026-09-18T13:01:18.092Z] [shard 2] JOBID 80926909210 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-varanasi-0-to-5-years-080926909210
+[2026-09-18T13:01:18.983Z] [shard 2] JOBID 80926909210 COMPLETED - description captured (3475 chars)
+[2026-09-18T13:01:21.047Z] [shard 2] JOBID 80926909208 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-surat-0-to-5-years-080926909208
+[2026-09-18T13:01:21.944Z] [shard 2] JOBID 80926909208 COMPLETED - description captured (3291 chars)
+[2026-09-18T13:01:23.991Z] [shard 2] JOBID 80926909088 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-app-developer-mobile-architect-lead-ios-android-platform-benovymed-healthcare-private-limited-pune-2-to-7-years-080926909088
+[2026-09-18T13:01:24.962Z] [shard 2] JOBID 80926909088 COMPLETED - description captured (2228 chars)
+[2026-09-18T13:01:27.019Z] [shard 2] JOBID 80926909072 attempt 1/3 - opening https://www.naukri.com/job-listings-product-development-professional-digital-health-benovymed-healthcare-private-limited-gurugram-1-to-5-years-080926909072
+[2026-09-18T13:01:27.972Z] [shard 2] JOBID 80926909072 COMPLETED - description captured (1322 chars)
+[2026-09-18T13:01:30.023Z] [shard 2] JOBID 80926909071 attempt 1/3 - opening https://www.naukri.com/job-listings-product-development-digital-health-benovymed-healthcare-private-limited-gurugram-2-to-3-years-080926909071
+[2026-09-18T13:01:30.881Z] [shard 2] JOBID 80926909071 COMPLETED - description captured (1568 chars)
+[2026-09-18T13:01:30.911Z] [shard 2] Checkpoint saved (195 completed so far)
+[2026-09-18T13:01:32.964Z] [shard 2] JOBID 80926909070 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-ml-benovymed-healthcare-private-limited-mumbai-0-to-5-years-080926909070
+[2026-09-18T13:01:33.793Z] [shard 2] JOBID 80926909070 COMPLETED - description captured (3152 chars)
+[2026-09-18T13:01:35.849Z] [shard 2] JOBID 80926909069 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-lm-benovymed-healthcare-private-limited-surat-0-to-5-years-080926909069
+[2026-09-18T13:01:36.758Z] [shard 2] JOBID 80926909069 COMPLETED - description captured (2923 chars)
+[2026-09-18T13:01:38.821Z] [shard 2] JOBID 80926909065 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-kanpur-0-to-5-years-080926909065
+[2026-09-18T13:01:39.657Z] [shard 2] JOBID 80926909065 COMPLETED - description captured (2971 chars)
+[2026-09-18T13:01:41.708Z] [shard 2] JOBID 80926909063 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-coimbatore-0-to-5-years-080926909063
+[2026-09-18T13:01:42.784Z] [shard 2] JOBID 80926909063 COMPLETED - description captured (3647 chars)
+[2026-09-18T13:01:44.850Z] [shard 2] JOBID 80926909060 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-data-scientist-senior-data-scientist-data-scientist-nlp-benovymed-healthcare-private-limited-faridabad-0-to-5-years-080926909060
+[2026-09-18T13:01:45.777Z] [shard 2] JOBID 80926909060 COMPLETED - description captured (745 chars)
+[2026-09-18T13:01:45.796Z] [shard 2] Checkpoint saved (200 completed so far)
+[2026-09-18T13:01:47.854Z] [shard 2] JOBID 80926909003 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-conversational-chatbot-developer-benovymed-healthcare-private-limited-vadodara-1-to-4-years-080926909003
+[2026-09-18T13:01:48.691Z] [shard 2] JOBID 80926909003 COMPLETED - description captured (763 chars)
+[2026-09-18T13:01:50.752Z] [shard 2] JOBID 80926908999 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-ludhiana-3-to-5-years-080926908999
+[2026-09-18T13:01:51.742Z] [shard 2] JOBID 80926908999 COMPLETED - description captured (463 chars)
+[2026-09-18T13:01:53.796Z] [shard 2] JOBID 80926908998 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-coimbatore-3-to-5-years-080926908998
+[2026-09-18T13:01:54.859Z] [shard 2] JOBID 80926908998 COMPLETED - description captured (477 chars)
+[2026-09-18T13:01:56.912Z] [shard 2] JOBID 80926908995 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-surat-3-to-5-years-080926908995
+[2026-09-18T13:01:57.826Z] [shard 2] JOBID 80926908995 COMPLETED - description captured (498 chars)
+[2026-09-18T13:01:59.874Z] [shard 2] JOBID 80926908994 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-mysuru-3-to-5-years-080926908994
+[2026-09-18T13:02:00.724Z] [shard 2] JOBID 80926908994 COMPLETED - description captured (498 chars)
+[2026-09-18T13:02:00.747Z] [shard 2] Checkpoint saved (205 completed so far)
+[2026-09-18T13:02:02.811Z] [shard 2] JOBID 80926908991 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-bhopal-3-to-5-years-080926908991
+[2026-09-18T13:02:03.727Z] [shard 2] JOBID 80926908991 COMPLETED - description captured (477 chars)
+[2026-09-18T13:02:05.791Z] [shard 2] JOBID 80926908989 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-benovymed-healthcare-bhopal-3-to-5-years-080926908989
+[2026-09-18T13:02:06.750Z] [shard 2] JOBID 80926908989 COMPLETED - description captured (484 chars)
+[2026-09-18T13:02:08.809Z] [shard 2] JOBID 80926908987 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-bhubaneswar-3-to-5-years-080926908987
+[2026-09-18T13:02:09.710Z] [shard 2] JOBID 80926908987 COMPLETED - description captured (463 chars)
+[2026-09-18T13:02:11.767Z] [shard 2] JOBID 80926908986 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-benovymed-healthcare-coimbatore-3-to-5-years-080926908986
+[2026-09-18T13:02:12.830Z] [shard 2] JOBID 80926908986 COMPLETED - description captured (484 chars)
+[2026-09-18T13:02:14.890Z] [shard 2] JOBID 80926908985 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-faridabad-3-to-5-years-080926908985
+[2026-09-18T13:02:15.837Z] [shard 2] JOBID 80926908985 COMPLETED - description captured (464 chars)
+[2026-09-18T13:02:15.864Z] [shard 2] Checkpoint saved (210 completed so far)
+[2026-09-18T13:02:17.912Z] [shard 2] JOBID 80926908983 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-it-benovymed-healthcare-chandigarh-3-to-5-years-080926908983
+[2026-09-18T13:02:18.800Z] [shard 2] JOBID 80926908983 COMPLETED - description captured (463 chars)
+[2026-09-18T13:02:20.846Z] [shard 2] JOBID 80926908982 attempt 1/3 - opening https://www.naukri.com/job-listings-advisory-board-members-benovymed-healthcare-kochi-3-to-5-years-080926908982
+[2026-09-18T13:02:21.933Z] [shard 2] JOBID 80926908982 COMPLETED - description captured (484 chars)
+[2026-09-18T13:02:23.987Z] [shard 2] JOBID 80926907182 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-teacher-cbse-grade-9-and-10-sanjay-ghodawat-international-school-kolhapur-maharashtra-5-to-10-years-080926907182
+[2026-09-18T13:02:24.849Z] [shard 2] JOBID 80926907182 COMPLETED - description captured (1023 chars)
+[2026-09-18T13:02:26.906Z] [shard 2] JOBID 80926506070 attempt 1/3 - opening https://www.naukri.com/job-listings-web-developer-d-a-v-chennai-chennai-3-to-8-years-080926506070
+[2026-09-18T13:02:27.822Z] [shard 2] JOBID 80926506070 COMPLETED - description captured (2721 chars)
+[2026-09-18T13:02:29.891Z] [shard 2] JOBID 80926506043 attempt 1/3 - opening https://www.naukri.com/job-listings-product-designer-growthx-bengaluru-3-to-8-years-080926506043
+[2026-09-18T13:02:30.688Z] [shard 2] JOBID 80926506043 COMPLETED - description captured (1326 chars)
+[2026-09-18T13:02:30.703Z] [shard 2] Checkpoint saved (215 completed so far)
+[2026-09-18T13:02:32.767Z] [shard 2] JOBID 80926506041 attempt 1/3 - opening https://www.naukri.com/job-listings-junior-video-editor-growthx-bengaluru-1-to-3-years-080926506041
+[2026-09-18T13:02:33.668Z] [shard 2] JOBID 80926506041 COMPLETED - description captured (2800 chars)
+[2026-09-18T13:02:35.733Z] [shard 2] JOBID 80926506032 attempt 1/3 - opening https://www.naukri.com/job-listings-video-editor-intern-growthx-bengaluru-0-to-5-years-080926506032
+[2026-09-18T13:02:36.585Z] [shard 2] JOBID 80926506032 COMPLETED - description captured (1440 chars)
+[2026-09-18T13:02:38.647Z] [shard 2] JOBID 80926506031 attempt 1/3 - opening https://www.naukri.com/job-listings-community-marketing-internship-growthx-bengaluru-0-to-5-years-080926506031
+[2026-09-18T13:02:39.515Z] [shard 2] JOBID 80926506031 COMPLETED - description captured (3393 chars)
+[2026-09-18T13:02:41.579Z] [shard 2] JOBID 80926506006 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-sound-engineer-kuku-fm-remote-2-to-3-years-080926506006
+[2026-09-18T13:02:42.496Z] [shard 2] JOBID 80926506006 COMPLETED - description captured (2586 chars)
+[2026-09-18T13:02:44.553Z] [shard 2] JOBID 80926506005 attempt 1/3 - opening https://www.naukri.com/job-listings-cloud-engineer-suzega-remote-2-to-5-years-080926506005
+[2026-09-18T13:02:45.394Z] [shard 2] JOBID 80926506005 COMPLETED - description captured (1001 chars)
+[2026-09-18T13:02:45.427Z] [shard 2] Checkpoint saved (220 completed so far)
+[2026-09-18T13:02:47.491Z] [shard 2] JOBID 80926506004 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineer-suzega-remote-1-to-4-years-080926506004
+[2026-09-18T13:02:48.288Z] [shard 2] JOBID 80926506004 COMPLETED - description captured (1100 chars)
+[2026-09-18T13:02:50.343Z] [shard 2] JOBID 80926505978 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-associate-digital-designer-rategain-noida-1-to-5-years-080926505978
+[2026-09-18T13:02:51.380Z] [shard 2] JOBID 80926505978 COMPLETED - description captured (5874 chars)
+[2026-09-18T13:02:53.429Z] [shard 2] JOBID 80926505940 attempt 1/3 - opening https://www.naukri.com/job-listings-language-production-lead-lionbridge-technologies-inc-navi-mumbai-2-to-4-years-080926505940
+[2026-09-18T13:02:54.372Z] [shard 2] JOBID 80926505940 COMPLETED - description captured (5240 chars)
+[2026-09-18T13:02:56.431Z] [shard 2] JOBID 80926505939 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-project-manager-lionbridge-technologies-inc-navi-mumbai-4-to-7-years-080926505939
+[2026-09-18T13:02:57.342Z] [shard 2] JOBID 80926505939 COMPLETED - description captured (2752 chars)
+[2026-09-18T13:02:59.389Z] [shard 2] JOBID 80926505837 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-software-qa-engineer-crimson-education-mumbai-4-to-9-years-080926505837
+[2026-09-18T13:03:00.337Z] [shard 2] JOBID 80926505837 COMPLETED - description captured (1489 chars)
+[2026-09-18T13:03:00.355Z] [shard 2] Checkpoint saved (225 completed so far)
+[2026-09-18T13:03:02.427Z] [shard 2] JOBID 80926505803 attempt 1/3 - opening https://www.naukri.com/job-listings-assistant-manager-deputy-manager-office-of-research-ashoka-university-sonipat-5-to-10-years-080926505803
+[2026-09-18T13:03:03.402Z] [shard 2] JOBID 80926505803 COMPLETED - description captured (4669 chars)
+[2026-09-18T13:03:05.460Z] [shard 2] JOBID 80926505789 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-software-engineer-ai-agent-crimson-education-mumbai-1-to-5-years-080926505789
+[2026-09-18T13:03:06.780Z] [shard 2] JOBID 80926505789 COMPLETED - description captured (2484 chars)
+[2026-09-18T13:03:08.827Z] [shard 2] JOBID 80926505788 attempt 1/3 - opening https://www.naukri.com/job-listings-capstone-project-mentor-specialist-coach-crimson-education-mumbai-1-to-4-years-080926505788
+[2026-09-18T13:03:09.740Z] [shard 2] JOBID 80926505788 COMPLETED - description captured (4415 chars)
+[2026-09-18T13:03:11.799Z] [shard 2] JOBID 80926505757 attempt 1/3 - opening https://www.naukri.com/job-listings-digital-marketing-manager-twilio-remote-5-to-8-years-080926505757
+[2026-09-18T13:03:12.765Z] [shard 2] JOBID 80926505757 COMPLETED - description captured (6058 chars)
+[2026-09-18T13:03:14.822Z] [shard 2] JOBID 80926505755 attempt 1/3 - opening https://www.naukri.com/job-listings-senior-ai-ml-engineers-fde-india-newrocket-remote-3-to-6-years-080926505755
+[2026-09-18T13:03:15.660Z] [shard 2] JOBID 80926505755 COMPLETED - description captured (3062 chars)
+[2026-09-18T13:03:15.688Z] [shard 2] Checkpoint saved (230 completed so far)
+[2026-09-18T13:03:17.731Z] [shard 2] JOBID 80926505739 attempt 1/3 - opening https://www.naukri.com/job-listings-streaming-news-writer-screen-rant-remote-2-to-7-years-080926505739
+[2026-09-18T13:03:18.592Z] [shard 2] JOBID 80926505739 COMPLETED - description captured (2897 chars)
+[2026-09-18T13:03:20.658Z] [shard 2] JOBID 80926505700 attempt 1/3 - opening https://www.naukri.com/job-listings-prompt-engineer-mindnotix-remote-1-to-6-years-080926505700
+[2026-09-18T13:03:21.425Z] [shard 2] JOBID 80926505700 COMPLETED - description captured (1514 chars)
+[2026-09-18T13:03:23.482Z] [shard 2] JOBID 80926505699 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-architect-suzega-remote-5-to-10-years-080926505699
+[2026-09-18T13:03:24.318Z] [shard 2] JOBID 80926505699 COMPLETED - description captured (1022 chars)
+[2026-09-18T13:03:26.373Z] [shard 2] JOBID 80926505697 attempt 1/3 - opening https://www.naukri.com/job-listings-full-stack-engineer-python-react-suzega-remote-2-to-6-years-080926505697
+[2026-09-18T13:03:27.780Z] [shard 2] JOBID 80926505697 COMPLETED - description captured (979 chars)
+[2026-09-18T13:03:29.836Z] [shard 2] JOBID 80926505610 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-anantapuramu-paytm-payments-services-limited-anantapur-1-to-5-years-080926505610
+[2026-09-18T13:03:30.777Z] [shard 2] JOBID 80926505610 COMPLETED - description captured (3942 chars)
+[2026-09-18T13:03:30.786Z] [shard 2] Checkpoint saved (235 completed so far)
+[2026-09-18T13:03:32.844Z] [shard 2] JOBID 80926505582 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-chengalpattu-1-to-5-years-080926505582
+[2026-09-18T13:03:33.996Z] [shard 2] JOBID 80926505582 COMPLETED - description captured (3942 chars)
+[2026-09-18T13:03:36.053Z] [shard 2] JOBID 80926505406 attempt 1/3 - opening https://www.naukri.com/job-listings-engineer-kula-bengaluru-1-to-6-years-080926505406
+[2026-09-18T13:03:37.133Z] [shard 2] JOBID 80926505406 COMPLETED - description captured (3462 chars)
+[2026-09-18T13:03:39.184Z] [shard 2] JOBID 80926505308 attempt 1/3 - opening https://www.naukri.com/job-listings-quality-assurance-engineer-bigquery-66degrees-pune-5-to-10-years-080926505308
+[2026-09-18T13:03:40.175Z] [shard 2] JOBID 80926505308 COMPLETED - description captured (5746 chars)
+[2026-09-18T13:03:42.235Z] [shard 2] JOBID 80926504810 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-manager-ai-solutions-technical-product-owner-pfizer-mumbai-2-to-3-years-080926504810
+[2026-09-18T13:03:43.330Z] [shard 2] JOBID 80926504810 COMPLETED - description captured (2713 chars)
+[2026-09-18T13:03:45.390Z] [shard 2] JOBID 80926504631 attempt 1/3 - opening https://www.naukri.com/job-listings-digital-technology-specialist-data-science-baker-hughes-the-network-bengaluru-2-to-7-years-080926504631
+[2026-09-18T13:03:46.231Z] [shard 2] JOBID 80926504631 COMPLETED - description captured (7761 chars)
+[2026-09-18T13:03:46.261Z] [shard 2] Checkpoint saved (240 completed so far)
+[2026-09-18T13:03:48.324Z] [shard 2] JOBID 80926504606 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-manager-ai-solutions-technical-product-owner-pfizer-inc-mumbai-2-to-3-years-080926504606
+[2026-09-18T13:03:49.259Z] [shard 2] JOBID 80926504606 COMPLETED - description captured (6891 chars)
+[2026-09-18T13:03:51.325Z] [shard 2] JOBID 80926504598 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-motion-graphics-n-a-sportz-interactive-private-limited-goregaon-1-to-4-years-080926504598
+[2026-09-18T13:03:52.190Z] [shard 2] JOBID 80926504598 COMPLETED - description captured (2066 chars)
+[2026-09-18T13:03:54.252Z] [shard 2] JOBID 80926503935 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-engineer-python-ai-quarks-mumbai-5-to-8-years-080926503935
+[2026-09-18T13:03:55.179Z] [shard 2] JOBID 80926503935 COMPLETED - description captured (12325 chars)
+[2026-09-18T13:03:57.234Z] [shard 2] JOBID 80926503814 attempt 1/3 - opening https://www.naukri.com/job-listings-forward-deployed-engineer-crimson-education-new-delhi-1-to-3-years-080926503814
+[2026-09-18T13:03:58.119Z] [shard 2] JOBID 80926503814 COMPLETED - description captured (3745 chars)
+[2026-09-18T13:04:00.180Z] [shard 2] JOBID 80926503491 attempt 1/3 - opening https://www.naukri.com/job-listings-servicenow-itom-developer-kyndryl-bengaluru-2-to-7-years-080926503491
+[2026-09-18T13:04:01.228Z] [shard 2] JOBID 80926503491 COMPLETED - description captured (7882 chars)
+[2026-09-18T13:04:01.244Z] [shard 2] Checkpoint saved (245 completed so far)
+[2026-09-18T13:04:03.304Z] [shard 2] JOBID 80926503426 attempt 1/3 - opening https://www.naukri.com/job-listings-etl-tester-bigquery-66degrees-bengaluru-5-to-10-years-080926503426
+[2026-09-18T13:04:04.164Z] [shard 2] JOBID 80926503426 COMPLETED - description captured (5746 chars)
+[2026-09-18T13:04:06.219Z] [shard 2] JOBID 80926502976 attempt 1/3 - opening https://www.naukri.com/job-listings-software-tester-eazy-dms-distributor-management-system-hybrid-1-to-4-years-080926502976
+[2026-09-18T13:04:07.059Z] [shard 2] JOBID 80926502976 COMPLETED - description captured (2803 chars)
+[2026-09-18T13:04:09.119Z] [shard 2] JOBID 80926502949 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-java-python-advisory-corporate-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-4-to-9-years-080926502949
+[2026-09-18T13:04:09.994Z] [shard 2] JOBID 80926502949 COMPLETED - description captured (1213 chars)
+[2026-09-18T13:04:12.050Z] [shard 2] JOBID 80926502947 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-internal-audit-and-data-analytics-internal-audit-services-pricewaterhouse-coopers-service-delivery-center-kolkata-gurugram-1-to-4-years-080926502947
+[2026-09-18T13:04:12.987Z] [shard 2] JOBID 80926502947 COMPLETED - description captured (2915 chars)
+[2026-09-18T13:04:15.035Z] [shard 2] JOBID 80926502946 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-azure-gcc-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-4-to-8-years-080926502946
+[2026-09-18T13:04:15.955Z] [shard 2] JOBID 80926502946 COMPLETED - description captured (2592 chars)
+[2026-09-18T13:04:15.986Z] [shard 2] Checkpoint saved (250 completed so far)
+[2026-09-18T13:04:18.042Z] [shard 2] JOBID 80926502945 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-gen-ai-emerging-businesses-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-2-to-6-years-080926502945
+[2026-09-18T13:04:19.031Z] [shard 2] JOBID 80926502945 COMPLETED - description captured (2368 chars)
+[2026-09-18T13:04:21.086Z] [shard 2] JOBID 80926502924 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-android-lightmetrics-bengaluru-2-to-4-years-080926502924
+[2026-09-18T13:04:22.016Z] [shard 2] JOBID 80926502924 COMPLETED - description captured (1527 chars)
+[2026-09-18T13:04:24.070Z] [shard 2] JOBID 80926502921 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-developer-integrations-cvent-india-pvt-ltd-gurugram-5-to-7-years-080926502921
+[2026-09-18T13:04:25.079Z] [shard 2] JOBID 80926502921 COMPLETED - description captured (4204 chars)
+[2026-09-18T13:04:27.138Z] [shard 2] JOBID 80926502864 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-system-builder-vibe-coder-lovable-expert-crebos-online-solutions-pvt-mohali-4-to-6-years-080926502864
+[2026-09-18T13:04:28.137Z] [shard 2] JOBID 80926502864 COMPLETED - description captured (7125 chars)
+[2026-09-18T13:04:30.202Z] [shard 2] JOBID 80926502848 attempt 1/3 - opening https://www.naukri.com/job-listings-crm-business-analyst-vserve-ebusiness-solutions-pvt-ltd-coimbatore-1-to-4-years-080926502848
+[2026-09-18T13:04:31.110Z] [shard 2] JOBID 80926502848 COMPLETED - description captured (4446 chars)
+[2026-09-18T13:04:31.139Z] [shard 2] Checkpoint saved (255 completed so far)
+[2026-09-18T13:04:33.183Z] [shard 2] JOBID 80926502843 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-lead-thales-india-pvt-ltd-noida-2-to-7-years-080926502843
+[2026-09-18T13:04:34.227Z] [shard 2] JOBID 80926502843 COMPLETED - description captured (4583 chars)
+[2026-09-18T13:04:36.279Z] [shard 2] JOBID 80926502836 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-anlayst-senecaglobal-it-services-pvt-ltd-hyderabad-5-to-8-years-080926502836
+[2026-09-18T13:04:37.135Z] [shard 2] JOBID 80926502836 COMPLETED - description captured (2340 chars)
+[2026-09-18T13:04:39.185Z] [shard 2] JOBID 80926502835 attempt 1/3 - opening https://www.naukri.com/job-listings-front-office-executive-senecaglobal-it-services-pvt-ltd-hyderabad-1-to-2-years-080926502835
+[2026-09-18T13:04:40.067Z] [shard 2] JOBID 80926502835 COMPLETED - description captured (2895 chars)
+[2026-09-18T13:04:42.130Z] [shard 2] JOBID 80926502829 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-ai-engineer-relay-human-cloud-india-pvt-ltd-ahmedabad-4-to-9-years-080926502829
+[2026-09-18T13:04:43.161Z] [shard 2] JOBID 80926502829 COMPLETED - description captured (3491 chars)
+[2026-09-18T13:04:45.219Z] [shard 2] JOBID 80926502824 attempt 1/3 - opening https://www.naukri.com/job-listings-business-development-executive-it-services-perydot-mumbai-1-to-4-years-080926502824
+[2026-09-18T13:04:46.070Z] [shard 2] JOBID 80926502824 COMPLETED - description captured (5221 chars)
+[2026-09-18T13:04:46.101Z] [shard 2] Checkpoint saved (260 completed so far)
+[2026-09-18T13:04:48.151Z] [shard 2] JOBID 80926502807 attempt 1/3 - opening https://www.naukri.com/job-listings-account-manager-minimal-tweaks-gurugram-2-to-4-years-080926502807
+[2026-09-18T13:04:49.032Z] [shard 2] JOBID 80926502807 COMPLETED - description captured (4019 chars)
+[2026-09-18T13:04:51.087Z] [shard 2] JOBID 80926502774 attempt 1/3 - opening https://www.naukri.com/job-listings-data-analyst-inito-bengaluru-2-to-4-years-080926502774
+[2026-09-18T13:04:51.928Z] [shard 2] JOBID 80926502774 COMPLETED - description captured (5630 chars)
+[2026-09-18T13:04:53.991Z] [shard 2] JOBID 80926502772 attempt 1/3 - opening https://www.naukri.com/job-listings-data-engineer-snowflake-cortex-infocepts-nagpur-3-to-6-years-080926502772
+[2026-09-18T13:04:54.865Z] [shard 2] JOBID 80926502772 COMPLETED - description captured (4088 chars)
+[2026-09-18T13:04:56.923Z] [shard 2] JOBID 80926502724 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-technical-program-manager-mastercard-gurugram-5-to-10-years-080926502724
+[2026-09-18T13:04:57.739Z] [shard 2] JOBID 80926502724 COMPLETED - description captured (4219 chars)
+[2026-09-18T13:04:59.799Z] [shard 2] JOBID 80926502721 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-ai-ml-engineer-dolby-bengaluru-5-to-10-years-080926502721
+[2026-09-18T13:05:00.745Z] [shard 2] JOBID 80926502721 COMPLETED - description captured (7339 chars)
+[2026-09-18T13:05:00.762Z] [shard 2] Checkpoint saved (265 completed so far)
+[2026-09-18T13:05:02.812Z] [shard 2] JOBID 80926502700 attempt 1/3 - opening https://www.naukri.com/job-listings-assistant-manager-digital-marketing-bar-code-india-ltd-gurugram-4-to-6-years-080926502700
+[2026-09-18T13:05:03.724Z] [shard 2] JOBID 80926502700 COMPLETED - description captured (9125 chars)
+[2026-09-18T13:05:05.771Z] [shard 2] JOBID 80926502697 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-full-stack-ai-consumer-products-ai-bain-company-india-pvt-ltd-new-delhi-4-to-7-years-080926502697
+[2026-09-18T13:05:06.729Z] [shard 2] JOBID 80926502697 COMPLETED - description captured (5927 chars)
+[2026-09-18T13:05:08.790Z] [shard 2] JOBID 80926502638 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-noida-1-to-5-years-080926502638
+[2026-09-18T13:05:09.681Z] [shard 2] JOBID 80926502638 COMPLETED - description captured (3959 chars)
+[2026-09-18T13:05:11.736Z] [shard 2] JOBID 80926502628 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineer-generative-ai-qloron-pvt-ltd-nagpur-4-to-8-years-080926502628
+[2026-09-18T13:05:12.640Z] [shard 2] JOBID 80926502628 COMPLETED - description captured (865 chars)
+[2026-09-18T13:05:14.700Z] [shard 2] JOBID 80926502530 attempt 1/3 - opening https://www.naukri.com/job-listings-social-media-optimisation-manager-bluebash-consulting-private-limited-mohali-2-to-5-years-080926502530
+[2026-09-18T13:05:15.540Z] [shard 2] JOBID 80926502530 COMPLETED - description captured (11521 chars)
+[2026-09-18T13:05:15.568Z] [shard 2] Checkpoint saved (270 completed so far)
+[2026-09-18T13:05:17.611Z] [shard 2] JOBID 80926502497 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-brillio-2-hyderabad-4-to-7-years-080926502497
+[2026-09-18T13:05:18.572Z] [shard 2] JOBID 80926502497 COMPLETED - description captured (2688 chars)
+[2026-09-18T13:05:20.616Z] [shard 2] JOBID 80926502496 attempt 1/3 - opening https://www.naukri.com/job-listings-superintendent-operations-csd-ancillaries-adani-transmission-thiruvananthapuram-5-to-10-years-080926502496
+[2026-09-18T13:05:21.687Z] [shard 2] JOBID 80926502496 COMPLETED - description captured (3735 chars)
+[2026-09-18T13:05:23.749Z] [shard 2] JOBID 80926502446 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-rc-fs-bt-ins-p-and-c-non-usa-professional-ernst-young-chennai-2-to-6-years-080926502446
+[2026-09-18T13:05:24.659Z] [shard 2] JOBID 80926502446 COMPLETED - description captured (1964 chars)
+[2026-09-18T13:05:26.727Z] [shard 2] JOBID 80926502352 attempt 1/3 - opening https://www.naukri.com/job-listings-account-executive-scooter-ai-bengaluru-0-to-3-years-080926502352
+[2026-09-18T13:05:27.610Z] [shard 2] JOBID 80926502352 COMPLETED - description captured (740 chars)
+[2026-09-18T13:05:29.680Z] [shard 2] JOBID 80926502342 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-ml-engineer-geospatial-ai-rurtech-for-arayans-llp-remote-3-to-7-years-080926502342
+[2026-09-18T13:05:30.558Z] [shard 2] JOBID 80926502342 COMPLETED - description captured (932 chars)
+[2026-09-18T13:05:30.578Z] [shard 2] Checkpoint saved (275 completed so far)
+[2026-09-18T13:05:32.626Z] [shard 2] JOBID 80926502312 attempt 1/3 - opening https://www.naukri.com/job-listings-thai-expert-ais-newt-global-chennai-2-to-6-years-080926502312
+[2026-09-18T13:05:33.515Z] [shard 2] JOBID 80926502312 COMPLETED - description captured (819 chars)
+[2026-09-18T13:05:35.574Z] [shard 2] JOBID 80926502132 attempt 1/3 - opening https://www.naukri.com/job-listings-project-analyst-value-automation-enterprise-ai-wpp-aunz-chennai-5-to-10-years-080926502132
+[2026-09-18T13:05:36.442Z] [shard 2] JOBID 80926502132 COMPLETED - description captured (4573 chars)
+[2026-09-18T13:05:38.510Z] [shard 2] JOBID 80926502102 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-videosdk-surat-0-to-1-years-080926502102
+[2026-09-18T13:05:39.320Z] [shard 2] JOBID 80926502102 COMPLETED - description captured (2734 chars)
+[2026-09-18T13:05:41.384Z] [shard 2] JOBID 80926502100 attempt 1/3 - opening https://www.naukri.com/job-listings-software-developer-videosdk-live-surat-0-to-1-years-080926502100
+[2026-09-18T13:05:42.234Z] [shard 2] JOBID 80926502100 COMPLETED - description captured (2702 chars)
+[2026-09-18T13:05:44.282Z] [shard 2] JOBID 80926502099 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-sdet-verantos-pune-5-to-10-years-080926502099
+[2026-09-18T13:05:45.085Z] [shard 2] JOBID 80926502099 COMPLETED - description captured (3455 chars)
+[2026-09-18T13:05:45.096Z] [shard 2] Checkpoint saved (280 completed so far)
+[2026-09-18T13:05:47.163Z] [shard 2] JOBID 80926502083 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-development-softtech-engineers-pvt-ltd-pune-2-to-4-years-080926502083
+[2026-09-18T13:06:17.185Z] [shard 2] JOBID 80926502083 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:06:19.266Z] [shard 2] JOBID 80926502083 attempt 2/3 - opening https://www.naukri.com/job-listings-sr-associate-development-softtech-engineers-pvt-ltd-pune-2-to-4-years-080926502083
+[2026-09-18T13:06:49.272Z] [shard 2] JOBID 80926502083 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:06:51.338Z] [shard 2] JOBID 80926502083 attempt 3/3 - opening https://www.naukri.com/job-listings-sr-associate-development-softtech-engineers-pvt-ltd-pune-2-to-4-years-080926502083
+[2026-09-18T13:07:21.345Z] [shard 2] JOBID 80926502083 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:07:21.359Z] [shard 2] JOBID 80926502083 FAILED after 3 attempts - will retry on next run
+[2026-09-18T13:07:23.423Z] [shard 2] JOBID 80926502074 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-business-partnerships-teachmint-hyderabad-3-to-6-years-080926502074
+[2026-09-18T13:07:24.453Z] [shard 2] JOBID 80926502074 COMPLETED - description captured (3567 chars)
+[2026-09-18T13:07:26.513Z] [shard 2] JOBID 80926502073 attempt 1/3 - opening https://www.naukri.com/job-listings-social-media-brand-associate-teachmint-bengaluru-1-to-3-years-080926502073
+[2026-09-18T13:07:27.476Z] [shard 2] JOBID 80926502073 COMPLETED - description captured (2888 chars)
+[2026-09-18T13:07:29.547Z] [shard 2] JOBID 80926502051 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-tripeur-bengaluru-4-to-6-years-080926502051
+[2026-09-18T13:07:30.404Z] [shard 2] JOBID 80926502051 COMPLETED - description captured (3566 chars)
+[2026-09-18T13:07:32.463Z] [shard 2] JOBID 80926502032 attempt 1/3 - opening https://www.naukri.com/job-listings-cloud-ops-engineer-ii-riversand-technologies-inc-bengaluru-2-to-7-years-080926502032
+[2026-09-18T13:07:33.300Z] [shard 2] JOBID 80926502032 COMPLETED - description captured (4657 chars)
+[2026-09-18T13:07:35.367Z] [shard 2] JOBID 80926501977 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-azure-ai-ml-agentic-ai-engineer-gcc-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-4-to-8-years-080926501977
+[2026-09-18T13:07:36.247Z] [shard 2] JOBID 80926501977 COMPLETED - description captured (1848 chars)
+[2026-09-18T13:07:36.279Z] [shard 2] Checkpoint saved (285 completed so far)
+[2026-09-18T13:07:38.328Z] [shard 2] JOBID 80926501966 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-node-js-emerging-businesses-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-2-to-6-years-080926501966
+[2026-09-18T13:07:39.170Z] [shard 2] JOBID 80926501966 COMPLETED - description captured (3135 chars)
+[2026-09-18T13:07:41.227Z] [shard 2] JOBID 80926501963 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-test-automation-emerging-businesses-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-3-to-6-years-080926501963
+[2026-09-18T13:08:11.246Z] [shard 2] JOBID 80926501963 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:08:13.321Z] [shard 2] JOBID 80926501963 attempt 2/3 - opening https://www.naukri.com/job-listings-sr-associate-test-automation-emerging-businesses-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-3-to-6-years-080926501963
+[2026-09-18T13:08:43.329Z] [shard 2] JOBID 80926501963 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:08:45.411Z] [shard 2] JOBID 80926501963 attempt 3/3 - opening https://www.naukri.com/job-listings-sr-associate-test-automation-emerging-businesses-advisory-pricewaterhouse-coopers-service-delivery-center-kolkata-bengaluru-3-to-6-years-080926501963
+[2026-09-18T13:09:15.430Z] [shard 2] JOBID 80926501963 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:09:15.453Z] [shard 2] JOBID 80926501963 FAILED after 3 attempts - will retry on next run
+[2026-09-18T13:09:17.513Z] [shard 2] JOBID 80926501914 attempt 1/3 - opening https://www.naukri.com/job-listings-system-consultant-nne-pharmaplan-bengaluru-5-to-7-years-080926501914
+[2026-09-18T13:09:18.429Z] [shard 2] JOBID 80926501914 COMPLETED - description captured (7196 chars)
+[2026-09-18T13:09:20.483Z] [shard 2] JOBID 80926501895 attempt 1/3 - opening https://www.naukri.com/job-listings-business-development-representative-new-relic-one-bengaluru-2-to-7-years-080926501895
+[2026-09-18T13:09:21.464Z] [shard 2] JOBID 80926501895 COMPLETED - description captured (3209 chars)
+[2026-09-18T13:09:23.509Z] [shard 2] JOBID 80926501861 attempt 1/3 - opening https://www.naukri.com/job-listings-business-development-associate-lalamove-india-private-limited-new-delhi-2-to-4-years-080926501861
+[2026-09-18T13:09:24.395Z] [shard 2] JOBID 80926501861 COMPLETED - description captured (3205 chars)
+[2026-09-18T13:09:26.456Z] [shard 2] JOBID 80926501858 attempt 1/3 - opening https://www.naukri.com/job-listings-quality-assurance-engineer-knowledgesprint-technologies-india-pvt-ltd-hyderabad-0-to-3-years-080926501858
+[2026-09-18T13:09:27.497Z] [shard 2] JOBID 80926501858 COMPLETED - description captured (2420 chars)
+[2026-09-18T13:09:27.529Z] [shard 2] Checkpoint saved (290 completed so far)
+[2026-09-18T13:09:29.587Z] [shard 2] JOBID 80926501857 attempt 1/3 - opening https://www.naukri.com/job-listings-performance-engineer-knowledgesprint-technologies-india-pvt-ltd-hyderabad-5-to-10-years-080926501857
+[2026-09-18T13:09:30.431Z] [shard 2] JOBID 80926501857 COMPLETED - description captured (1622 chars)
+[2026-09-18T13:09:32.483Z] [shard 2] JOBID 80926501812 attempt 1/3 - opening https://www.naukri.com/job-listings-assistant-team-lead-sales-commissions-cvent-india-pvt-ltd-gurugram-5-to-10-years-080926501812
+[2026-09-18T13:09:33.387Z] [shard 2] JOBID 80926501812 COMPLETED - description captured (6161 chars)
+[2026-09-18T13:09:35.445Z] [shard 2] JOBID 80926501794 attempt 1/3 - opening https://www.naukri.com/job-listings-specialist-stewardship-design-reporting-invesco-india-pvt-ltd-hyderabad-5-to-10-years-080926501794
+[2026-09-18T13:09:36.335Z] [shard 2] JOBID 80926501794 COMPLETED - description captured (5771 chars)
+[2026-09-18T13:09:38.400Z] [shard 2] JOBID 80926501789 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-business-finance-inmobi-solutions-pvt-ltd-bengaluru-2-to-3-years-080926501789
+[2026-09-18T13:09:39.239Z] [shard 2] JOBID 80926501789 COMPLETED - description captured (2690 chars)
+[2026-09-18T13:09:41.290Z] [shard 2] JOBID 80926501787 attempt 1/3 - opening https://www.naukri.com/job-listings-quality-control-specialist-ingredion-nashik-5-to-10-years-080926501787
+[2026-09-18T13:09:42.185Z] [shard 2] JOBID 80926501787 COMPLETED - description captured (3429 chars)
+[2026-09-18T13:09:42.217Z] [shard 2] Checkpoint saved (295 completed so far)
+[2026-09-18T13:09:44.264Z] [shard 2] JOBID 80926501786 attempt 1/3 - opening https://www.naukri.com/job-listings-quality-assurance-executive-ingredion-ahmedabad-5-to-8-years-080926501786
+[2026-09-18T13:09:45.116Z] [shard 2] JOBID 80926501786 COMPLETED - description captured (4095 chars)
+[2026-09-18T13:09:47.181Z] [shard 2] JOBID 80926501748 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-engineer-cpu-ip-design-engineer-global-foundries-inc-bengaluru-4-to-7-years-080926501748
+[2026-09-18T13:09:48.289Z] [shard 2] JOBID 80926501748 COMPLETED - description captured (3327 chars)
+[2026-09-18T13:09:50.342Z] [shard 2] JOBID 80926501719 attempt 1/3 - opening https://www.naukri.com/job-listings-strategic-account-manager-r-19870-eyeota-bengaluru-4-to-9-years-080926501719
+[2026-09-18T13:09:51.215Z] [shard 2] JOBID 80926501719 COMPLETED - description captured (3525 chars)
+[2026-09-18T13:09:53.274Z] [shard 2] JOBID 80926501664 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-technical-developer-epsilon-asia-group-of-companies-bengaluru-4-to-9-years-080926501664
+[2026-09-18T13:09:54.135Z] [shard 2] JOBID 80926501664 COMPLETED - description captured (5372 chars)
+[2026-09-18T13:09:56.196Z] [shard 2] JOBID 80926501661 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-data-analyst-data-analytics-epsilon-asia-group-of-companies-bengaluru-5-to-10-years-080926501661
+[2026-09-18T13:09:57.182Z] [shard 2] JOBID 80926501661 COMPLETED - description captured (5716 chars)
+[2026-09-18T13:09:57.197Z] [shard 2] Checkpoint saved (300 completed so far)
+[2026-09-18T13:09:59.254Z] [shard 2] JOBID 80926501660 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-developer-account-analytics-development-epsilon-asia-group-of-companies-bengaluru-5-to-10-years-080926501660
+[2026-09-18T13:10:00.099Z] [shard 2] JOBID 80926501660 COMPLETED - description captured (5205 chars)
+[2026-09-18T13:10:02.155Z] [shard 2] JOBID 80926501646 attempt 1/3 - opening https://www.naukri.com/job-listings-coordinator-marketing-operations-elasticsearch-bengaluru-1-to-3-years-080926501646
+[2026-09-18T13:10:03.110Z] [shard 2] JOBID 80926501646 COMPLETED - description captured (2990 chars)
+[2026-09-18T13:10:05.165Z] [shard 2] JOBID 80926501644 attempt 1/3 - opening https://www.naukri.com/job-listings-principal-consultant-edge-verve-bengaluru-5-to-12-years-080926501644
+[2026-09-18T13:10:06.064Z] [shard 2] JOBID 80926501644 COMPLETED - description captured (2237 chars)
+[2026-09-18T13:10:08.113Z] [shard 2] JOBID 80926501638 attempt 1/3 - opening https://www.naukri.com/job-listings-software-tester-gurugram-eazy-technologies-hybrid-1-to-4-years-080926501638
+[2026-09-18T13:10:09.020Z] [shard 2] JOBID 80926501638 COMPLETED - description captured (2903 chars)
+[2026-09-18T13:10:11.068Z] [shard 2] JOBID 80926501621 attempt 1/3 - opening https://www.naukri.com/job-listings-risk-analyst-deutsche-bank-mumbai-0-to-6-years-080926501621
+[2026-09-18T13:10:11.968Z] [shard 2] JOBID 80926501621 COMPLETED - description captured (934 chars)
+[2026-09-18T13:10:11.999Z] [shard 2] Checkpoint saved (305 completed so far)
+[2026-09-18T13:10:14.061Z] [shard 2] JOBID 80926501619 attempt 1/3 - opening https://www.naukri.com/job-listings-apprentice-deutsche-bank-pune-0-to-1-years-080926501619
+[2026-09-18T13:10:14.899Z] [shard 2] JOBID 80926501619 COMPLETED - description captured (2993 chars)
+[2026-09-18T13:10:16.949Z] [shard 2] JOBID 80926501607 attempt 1/3 - opening https://www.naukri.com/job-listings-corporate-account-executive-crowdstrike-bengaluru-1-to-5-years-080926501607
+[2026-09-18T13:10:17.841Z] [shard 2] JOBID 80926501607 COMPLETED - description captured (3783 chars)
+[2026-09-18T13:10:19.907Z] [shard 2] JOBID 80926501599 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-engineer-2-convegenius-edu-solutions-pvt-ltd-noida-1-to-3-years-080926501599
+[2026-09-18T13:10:20.779Z] [shard 2] JOBID 80926501599 COMPLETED - description captured (1810 chars)
+[2026-09-18T13:10:22.837Z] [shard 2] JOBID 80926501598 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-test-engineer-i-connectwise-pune-4-to-7-years-080926501598
+[2026-09-18T13:10:23.640Z] [shard 2] JOBID 80926501598 COMPLETED - description captured (2637 chars)
+[2026-09-18T13:10:25.705Z] [shard 2] JOBID 80926501597 attempt 1/3 - opening https://www.naukri.com/job-listings-video-editor-motion-graphics-artist-compunet-connections-chennai-1-to-2-years-080926501597
+[2026-09-18T13:10:26.647Z] [shard 2] JOBID 80926501597 COMPLETED - description captured (2164 chars)
+[2026-09-18T13:10:26.661Z] [shard 2] Checkpoint saved (310 completed so far)
+[2026-09-18T13:10:28.716Z] [shard 2] JOBID 80926501582 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-ios-engineer-collinson-mumbai-4-to-8-years-080926501582
+[2026-09-18T13:10:29.722Z] [shard 2] JOBID 80926501582 COMPLETED - description captured (2767 chars)
+[2026-09-18T13:10:31.771Z] [shard 2] JOBID 80926501581 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-android-engieer-collinson-mumbai-4-to-8-years-080926501581
+[2026-09-18T13:10:32.740Z] [shard 2] JOBID 80926501581 COMPLETED - description captured (2851 chars)
+[2026-09-18T13:10:34.803Z] [shard 2] JOBID 80926501542 attempt 1/3 - opening https://www.naukri.com/job-listings-product-manager-sr-a-blackbaud-hyderabad-5-to-10-years-080926501542
+[2026-09-18T13:10:36.003Z] [shard 2] JOBID 80926501542 COMPLETED - description captured (3130 chars)
+[2026-09-18T13:10:38.057Z] [shard 2] JOBID 80926501510 attempt 1/3 - opening https://www.naukri.com/job-listings-agentic-ai-developer-azurity-pharmaceuticals-hyderabad-2-to-6-years-080926501510
+[2026-09-18T13:10:39.116Z] [shard 2] JOBID 80926501510 COMPLETED - description captured (2737 chars)
+[2026-09-18T13:10:41.180Z] [shard 2] JOBID 80926501506 attempt 1/3 - opening https://www.naukri.com/job-listings-devops-engineer-kla-tencor-software-india-pvt-ltd-chennai-3-to-7-years-080926501506
+[2026-09-18T13:10:42.119Z] [shard 2] JOBID 80926501506 COMPLETED - description captured (2834 chars)
+[2026-09-18T13:10:42.139Z] [shard 2] Checkpoint saved (315 completed so far)
+[2026-09-18T13:10:44.192Z] [shard 2] JOBID 80926501444 attempt 1/3 - opening https://www.naukri.com/job-listings-software-development-engineer-python-automation-networking-zscaler-latam-hyderabad-4-to-9-years-080926501444
+[2026-09-18T13:10:45.295Z] [shard 2] JOBID 80926501444 COMPLETED - description captured (7231 chars)
+[2026-09-18T13:10:47.359Z] [shard 2] JOBID 80926501419 attempt 1/3 - opening https://www.naukri.com/job-listings-talent-acquisition-specialist-yokogawa-electric-international-pte-bengaluru-3-to-7-years-080926501419
+[2026-09-18T13:11:17.379Z] [shard 2] JOBID 80926501419 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:11:19.470Z] [shard 2] JOBID 80926501419 attempt 2/3 - opening https://www.naukri.com/job-listings-talent-acquisition-specialist-yokogawa-electric-international-pte-bengaluru-3-to-7-years-080926501419
+[2026-09-18T13:11:49.473Z] [shard 2] JOBID 80926501419 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:11:51.553Z] [shard 2] JOBID 80926501419 attempt 3/3 - opening https://www.naukri.com/job-listings-talent-acquisition-specialist-yokogawa-electric-international-pte-bengaluru-3-to-7-years-080926501419
+[2026-09-18T13:12:21.571Z] [shard 2] JOBID 80926501419 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:12:21.593Z] [shard 2] JOBID 80926501419 FAILED after 3 attempts - will retry on next run
+[2026-09-18T13:12:23.642Z] [shard 2] JOBID 80926501401 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-azure-databricks-yash-technologies-hyderabad-5-to-10-years-080926501401
+[2026-09-18T13:12:24.605Z] [shard 2] JOBID 80926501401 COMPLETED - description captured (3867 chars)
+[2026-09-18T13:12:26.669Z] [shard 2] JOBID 80926501397 attempt 1/3 - opening https://www.naukri.com/job-listings-growth-gtm-marketing-international-markets-xoxoday-bengaluru-5-to-8-years-080926501397
+[2026-09-18T13:12:27.736Z] [shard 2] JOBID 80926501397 COMPLETED - description captured (5006 chars)
+[2026-09-18T13:12:29.784Z] [shard 2] JOBID 80926501396 attempt 1/3 - opening https://www.naukri.com/job-listings-abm-specialist-xoxoday-bengaluru-1-to-3-years-080926501396
+[2026-09-18T13:12:30.663Z] [shard 2] JOBID 80926501396 COMPLETED - description captured (5686 chars)
+[2026-09-18T13:12:32.713Z] [shard 2] JOBID 80926501370 attempt 1/3 - opening https://www.naukri.com/job-listings-engineer-operations-engineering-flex-chennai-4-to-9-years-080926501370
+[2026-09-18T13:12:33.693Z] [shard 2] JOBID 80926501370 COMPLETED - description captured (5605 chars)
+[2026-09-18T13:12:33.722Z] [shard 2] Checkpoint saved (320 completed so far)
+[2026-09-18T13:12:35.787Z] [shard 2] JOBID 80926501358 attempt 1/3 - opening https://www.naukri.com/job-listings-outbound-product-manager-demo-architect-ifs-pvt-ltd-pune-5-to-8-years-080926501358
+[2026-09-18T13:12:36.667Z] [shard 2] JOBID 80926501358 COMPLETED - description captured (3414 chars)
+[2026-09-18T13:12:38.722Z] [shard 2] JOBID 80926501355 attempt 1/3 - opening https://www.naukri.com/job-listings-motion-graphics-and-video-editing-qualminds-technologies-pvt-ltd-hyderabad-2-to-7-years-080926501355
+[2026-09-18T13:12:39.552Z] [shard 2] JOBID 80926501355 COMPLETED - description captured (4955 chars)
+[2026-09-18T13:12:41.616Z] [shard 2] JOBID 80926501354 attempt 1/3 - opening https://www.naukri.com/job-listings-quality-engineer-informa-connect-bengaluru-3-to-4-years-080926501354
+[2026-09-18T13:12:42.440Z] [shard 2] JOBID 80926501354 COMPLETED - description captured (7131 chars)
+[2026-09-18T13:12:44.499Z] [shard 2] JOBID 80926501352 attempt 1/3 - opening https://www.naukri.com/job-listings-global-macro-content-specialist-stonex-group-inc-bengaluru-2-to-5-years-080926501352
+[2026-09-18T13:12:45.542Z] [shard 2] JOBID 80926501352 COMPLETED - description captured (7712 chars)
+[2026-09-18T13:12:47.596Z] [shard 2] JOBID 80926501343 attempt 1/3 - opening https://www.naukri.com/job-listings-assistant-manager-artificial-intelligence-information-technology-apollo-pipes-ltd-noida-3-to-7-years-080926501343
+[2026-09-18T13:12:48.518Z] [shard 2] JOBID 80926501343 COMPLETED - description captured (1884 chars)
+[2026-09-18T13:12:48.549Z] [shard 2] Checkpoint saved (325 completed so far)
+[2026-09-18T13:12:50.602Z] [shard 2] JOBID 80926501329 attempt 1/3 - opening https://www.naukri.com/job-listings-accounts-officer-treasury-wahed-com-mumbai-2-to-4-years-080926501329
+[2026-09-18T13:12:51.439Z] [shard 2] JOBID 80926501329 COMPLETED - description captured (8626 chars)
+[2026-09-18T13:12:53.499Z] [shard 2] JOBID 80926501313 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-software-engineering-it-systems-software-vertiv-group-corp-pune-5-to-10-years-080926501313
+[2026-09-18T13:12:54.562Z] [shard 2] JOBID 80926501313 COMPLETED - description captured (4196 chars)
+[2026-09-18T13:12:56.620Z] [shard 2] JOBID 80926501306 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-process-optimization-lead-construction-architecture-international-service-partners-llc-surat-2-to-5-years-080926501306
+[2026-09-18T13:12:57.911Z] [shard 2] JOBID 80926501306 COMPLETED - description captured (5263 chars)
+[2026-09-18T13:12:59.977Z] [shard 2] JOBID 80926501304 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-concur-integration-consultant-turium-ai-hyderabad-2-to-7-years-080926501304
+[2026-09-18T13:13:01.427Z] [shard 2] JOBID 80926501304 COMPLETED - description captured (3690 chars)
+[2026-09-18T13:13:03.481Z] [shard 2] JOBID 80926501300 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-consultant-trinity-life-sciences-bengaluru-5-to-10-years-080926501300
+[2026-09-18T13:13:04.727Z] [shard 2] JOBID 80926501300 COMPLETED - description captured (7240 chars)
+[2026-09-18T13:13:04.758Z] [shard 2] Checkpoint saved (330 completed so far)
+[2026-09-18T13:13:06.825Z] [shard 2] JOBID 80926501292 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-legal-counsel-commercial-contracts-aem-markets-thomson-reuters-india-pvt-ltd-bengaluru-5-to-10-years-080926501292
+[2026-09-18T13:13:07.763Z] [shard 2] JOBID 80926501292 COMPLETED - description captured (10917 chars)
+[2026-09-18T13:13:09.820Z] [shard 2] JOBID 80926501290 attempt 1/3 - opening https://www.naukri.com/job-listings-investment-associate-metayb-pvt-ltd-chennai-2-to-5-years-080926501290
+[2026-09-18T13:13:10.877Z] [shard 2] JOBID 80926501290 COMPLETED - description captured (9985 chars)
+[2026-09-18T13:13:12.939Z] [shard 2] JOBID 80926501192 attempt 1/3 - opening https://www.naukri.com/job-listings-field-logistics-representative-thales-india-pvt-ltd-noida-1-to-5-years-080926501192
+[2026-09-18T13:13:13.988Z] [shard 2] JOBID 80926501192 COMPLETED - description captured (2258 chars)
+[2026-09-18T13:13:16.053Z] [shard 2] JOBID 80926501191 attempt 1/3 - opening https://www.naukri.com/job-listings-field-logistics-representative-thales-india-pvt-ltd-noida-1-to-5-years-080926501191
+[2026-09-18T13:13:17.214Z] [shard 2] JOBID 80926501191 COMPLETED - description captured (2351 chars)
+[2026-09-18T13:13:19.278Z] [shard 2] JOBID 80926501190 attempt 1/3 - opening https://www.naukri.com/job-listings-field-support-engineer-thales-india-pvt-ltd-noida-1-to-5-years-080926501190
+[2026-09-18T13:13:20.194Z] [shard 2] JOBID 80926501190 COMPLETED - description captured (2258 chars)
+[2026-09-18T13:13:20.221Z] [shard 2] Checkpoint saved (335 completed so far)
+[2026-09-18T13:13:22.280Z] [shard 2] JOBID 80926501188 attempt 1/3 - opening https://www.naukri.com/job-listings-fse-sonar-professional-thales-india-pvt-ltd-mumbai-2-to-7-years-080926501188
+[2026-09-18T13:13:23.310Z] [shard 2] JOBID 80926501188 COMPLETED - description captured (2224 chars)
+[2026-09-18T13:13:25.358Z] [shard 2] JOBID 80926501186 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-engineer-thales-india-pvt-ltd-bengaluru-3-to-7-years-080926501186
+[2026-09-18T13:13:26.313Z] [shard 2] JOBID 80926501186 COMPLETED - description captured (4726 chars)
+[2026-09-18T13:13:28.364Z] [shard 2] JOBID 80926501022 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-pro-sendinblue-noida-4-to-6-years-080926501022
+[2026-09-18T13:13:29.236Z] [shard 2] JOBID 80926501022 COMPLETED - description captured (6248 chars)
+[2026-09-18T13:13:31.296Z] [shard 2] JOBID 80926500973 attempt 1/3 - opening https://www.naukri.com/job-listings-node-full-stack-developer-quarks-bengaluru-5-to-7-years-080926500973
+[2026-09-18T13:13:32.187Z] [shard 2] JOBID 80926500973 COMPLETED - description captured (4505 chars)
+[2026-09-18T13:13:34.255Z] [shard 2] JOBID 80926500972 attempt 1/3 - opening https://www.naukri.com/job-listings-node-full-stack-developer-quarks-bengaluru-3-to-5-years-080926500972
+[2026-09-18T13:13:35.091Z] [shard 2] JOBID 80926500972 COMPLETED - description captured (4164 chars)
+[2026-09-18T13:13:35.123Z] [shard 2] Checkpoint saved (340 completed so far)
+[2026-09-18T13:13:37.198Z] [shard 2] JOBID 80926500970 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-machine-learning-engineer-quantiphi-analytics-solutions-pvt-ltd-mumbai-3-to-6-years-080926500970
+[2026-09-18T13:13:38.017Z] [shard 2] JOBID 80926500970 COMPLETED - description captured (3996 chars)
+[2026-09-18T13:13:40.077Z] [shard 2] JOBID 80926500956 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-java-happiest-minds-technologies-pvt-ltd-pune-3-to-8-years-080926500956
+[2026-09-18T13:13:40.947Z] [shard 2] JOBID 80926500956 COMPLETED - description captured (1598 chars)
+[2026-09-18T13:13:43.013Z] [shard 2] JOBID 80926500935 attempt 1/3 - opening https://www.naukri.com/job-listings-graphic-designer-prometteur-solutions-pvt-ltd-pune-3-to-8-years-080926500935
+[2026-09-18T13:13:43.946Z] [shard 2] JOBID 80926500935 COMPLETED - description captured (6717 chars)
+[2026-09-18T13:13:45.997Z] [shard 2] JOBID 80926500924 attempt 1/3 - opening https://www.naukri.com/job-listings-devops-engineer-ii-pdi-software-chennai-3-to-5-years-080926500924
+[2026-09-18T13:13:46.978Z] [shard 2] JOBID 80926500924 COMPLETED - description captured (10080 chars)
+[2026-09-18T13:13:49.037Z] [shard 2] JOBID 80926500923 attempt 1/3 - opening https://www.naukri.com/job-listings-kam-associate-oil-gas-field-sales-paytm-payments-services-limited-pune-1-to-6-years-080926500923
+[2026-09-18T13:13:49.972Z] [shard 2] JOBID 80926500923 COMPLETED - description captured (2916 chars)
+[2026-09-18T13:13:49.996Z] [shard 2] Checkpoint saved (345 completed so far)
+[2026-09-18T13:13:52.052Z] [shard 2] JOBID 80926500922 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-chennai-1-to-5-years-080926500922
+[2026-09-18T13:13:53.635Z] [shard 2] JOBID 80926500922 COMPLETED - description captured (3946 chars)
+[2026-09-18T13:13:55.686Z] [shard 2] JOBID 80926500921 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-pune-1-to-5-years-080926500921
+[2026-09-18T13:13:56.991Z] [shard 2] JOBID 80926500921 COMPLETED - description captured (3946 chars)
+[2026-09-18T13:13:59.041Z] [shard 2] JOBID 80926500920 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-thanjavur-1-to-5-years-080926500920
+[2026-09-18T13:14:00.425Z] [shard 2] JOBID 80926500920 COMPLETED - description captured (3946 chars)
+[2026-09-18T13:14:02.485Z] [shard 2] JOBID 80926500919 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-virudhunagar-1-to-5-years-080926500919
+[2026-09-18T13:14:03.776Z] [shard 2] JOBID 80926500919 COMPLETED - description captured (3946 chars)
+[2026-09-18T13:14:05.832Z] [shard 2] JOBID 80926500918 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-satara-1-to-5-years-080926500918
+[2026-09-18T13:14:07.189Z] [shard 2] JOBID 80926500918 COMPLETED - description captured (3946 chars)
+[2026-09-18T13:14:07.224Z] [shard 2] Checkpoint saved (350 completed so far)
+[2026-09-18T13:14:09.272Z] [shard 2] JOBID 80926500917 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-mmb-1-paytm-payments-services-limited-kolhapur-1-to-5-years-080926500917
+[2026-09-18T13:14:10.220Z] [shard 2] JOBID 80926500917 COMPLETED - description captured (3946 chars)
+[2026-09-18T13:14:12.273Z] [shard 2] JOBID 80926500916 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-offline-merchants-qr-paytm-payments-services-limited-eluru-3-to-8-years-080926500916
+[2026-09-18T13:14:13.150Z] [shard 2] JOBID 80926500916 COMPLETED - description captured (3369 chars)
+[2026-09-18T13:14:15.203Z] [shard 2] JOBID 80926500915 attempt 1/3 - opening https://www.naukri.com/job-listings-merchant-helpdesk-associate-email-paytm-payments-services-limited-noida-0-to-2-years-080926500915
+[2026-09-18T13:14:16.203Z] [shard 2] JOBID 80926500915 COMPLETED - description captured (4703 chars)
+[2026-09-18T13:14:18.271Z] [shard 2] JOBID 80926500913 attempt 1/3 - opening https://www.naukri.com/job-listings-team-leader-o-g-adj-1-paytm-payments-services-limited-mysuru-3-to-8-years-080926500913
+[2026-09-18T13:14:21.068Z] [shard 2] JOBID 80926500913 COMPLETED - description captured (3623 chars)
+[2026-09-18T13:14:23.124Z] [shard 2] JOBID 80926500911 attempt 1/3 - opening https://www.naukri.com/job-listings-employee-relations-am-dm-noida-paytm-payments-services-limited-noida-2-to-4-years-080926500911
+[2026-09-18T13:14:24.041Z] [shard 2] JOBID 80926500911 COMPLETED - description captured (3510 chars)
+[2026-09-18T13:14:24.068Z] [shard 2] Checkpoint saved (355 completed so far)
+[2026-09-18T13:14:26.136Z] [shard 2] JOBID 80926500910 attempt 1/3 - opening https://www.naukri.com/job-listings-people-operations-associate-hr-admin-y-combinator-hyderabad-3-to-8-years-080926500910
+[2026-09-18T13:14:26.947Z] [shard 2] JOBID 80926500910 COMPLETED - description captured (6069 chars)
+[2026-09-18T13:14:29.013Z] [shard 2] JOBID 80926500904 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-engineer-nice-cxone-enphase-energy-bengaluru-3-to-8-years-080926500904
+[2026-09-18T13:14:29.889Z] [shard 2] JOBID 80926500904 COMPLETED - description captured (3733 chars)
+[2026-09-18T13:14:31.949Z] [shard 2] JOBID 80926500893 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-member-of-technical-staff-omnissa-bengaluru-5-to-10-years-080926500893
+[2026-09-18T13:14:32.866Z] [shard 2] JOBID 80926500893 COMPLETED - description captured (5020 chars)
+[2026-09-18T13:14:34.914Z] [shard 2] JOBID 80926500878 attempt 1/3 - opening https://www.naukri.com/job-listings-csv-gxp-professional-with-ai-ml-knowledge-newt-global-chennai-3-to-8-years-080926500878
+[2026-09-18T13:14:35.818Z] [shard 2] JOBID 80926500878 COMPLETED - description captured (4569 chars)
+[2026-09-18T13:14:37.879Z] [shard 2] JOBID 80926500851 attempt 1/3 - opening https://www.naukri.com/job-listings-data-engineer-ncs-pte-ltd-pune-5-to-10-years-080926500851
+[2026-09-18T13:14:38.701Z] [shard 2] JOBID 80926500851 COMPLETED - description captured (7830 chars)
+[2026-09-18T13:14:38.759Z] [shard 2] Checkpoint saved (360 completed so far)
+[2026-09-18T13:14:40.811Z] [shard 2] JOBID 80926500830 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-full-stack-developer-miratech-bengaluru-5-to-10-years-080926500830
+[2026-09-18T13:14:41.659Z] [shard 2] JOBID 80926500830 COMPLETED - description captured (4958 chars)
+[2026-09-18T13:14:43.731Z] [shard 2] JOBID 80926500829 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-full-stack-developer-react-java-miratech-pune-5-to-10-years-080926500829
+[2026-09-18T13:14:44.641Z] [shard 2] JOBID 80926500829 COMPLETED - description captured (5007 chars)
+[2026-09-18T13:14:46.697Z] [shard 2] JOBID 80926500828 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-full-stack-developer-react-java-miratech-new-delhi-5-to-10-years-080926500828
+[2026-09-18T13:14:47.597Z] [shard 2] JOBID 80926500828 COMPLETED - description captured (5007 chars)
+[2026-09-18T13:14:49.644Z] [shard 2] JOBID 80926500827 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-full-stack-developer-react-java-miratech-chennai-5-to-10-years-080926500827
+[2026-09-18T13:14:50.501Z] [shard 2] JOBID 80926500827 COMPLETED - description captured (5007 chars)
+[2026-09-18T13:14:52.558Z] [shard 2] JOBID 80926500807 attempt 1/3 - opening https://www.naukri.com/job-listings-business-analyst-masai-school-bengaluru-2-to-5-years-080926500807
+[2026-09-18T13:14:53.407Z] [shard 2] JOBID 80926500807 COMPLETED - description captured (4067 chars)
+[2026-09-18T13:14:53.432Z] [shard 2] Checkpoint saved (365 completed so far)
+[2026-09-18T13:14:55.492Z] [shard 2] JOBID 80926500800 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-full-stack-node-js-maropost-mohali-3-to-8-years-080926500800
+[2026-09-18T13:14:56.285Z] [shard 2] JOBID 80926500800 COMPLETED - description captured (5956 chars)
+[2026-09-18T13:14:58.355Z] [shard 2] JOBID 80926500783 attempt 1/3 - opening https://www.naukri.com/job-listings-customer-support-executive-l2-lokal-bengaluru-0-to-3-years-080926500783
+[2026-09-18T13:14:59.186Z] [shard 2] JOBID 80926500783 COMPLETED - description captured (5562 chars)
+[2026-09-18T13:15:01.242Z] [shard 2] JOBID 80926500770 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-ii-infrastructure-specialist-kyndryl-bengaluru-0-to-5-years-080926500770
+[2026-09-18T13:15:02.259Z] [shard 2] JOBID 80926500770 COMPLETED - description captured (8113 chars)
+[2026-09-18T13:15:04.323Z] [shard 2] JOBID 80926500766 attempt 1/3 - opening https://www.naukri.com/job-listings-client-support-relations-professional-language-services-kyndryl-noida-2-to-3-years-080926500766
+[2026-09-18T13:15:05.228Z] [shard 2] JOBID 80926500766 COMPLETED - description captured (9666 chars)
+[2026-09-18T13:15:07.296Z] [shard 2] JOBID 80926500761 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-technical-consultant-workday-extend-keste-software-hyderabad-5-to-10-years-080926500761
+[2026-09-18T13:15:08.260Z] [shard 2] JOBID 80926500761 COMPLETED - description captured (3167 chars)
+[2026-09-18T13:15:08.296Z] [shard 2] Checkpoint saved (370 completed so far)
+[2026-09-18T13:15:10.360Z] [shard 2] JOBID 80926500711 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-ios-ixigo-gurugram-3-to-8-years-080926500711
+[2026-09-18T13:15:11.152Z] [shard 2] JOBID 80926500711 COMPLETED - description captured (3951 chars)
+[2026-09-18T13:15:13.203Z] [shard 2] JOBID 80926500695 attempt 1/3 - opening https://www.naukri.com/job-listings-full-stack-engineer-inrisk-labs-ahmedabad-2-to-7-years-080926500695
+[2026-09-18T13:15:14.041Z] [shard 2] JOBID 80926500695 COMPLETED - description captured (3004 chars)
+[2026-09-18T13:15:16.105Z] [shard 2] JOBID 80926500693 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-oracle-solution-engineer-calix-bengaluru-3-to-7-years-080926500693
+[2026-09-18T13:15:17.079Z] [shard 2] JOBID 80926500693 COMPLETED - description captured (11061 chars)
+[2026-09-18T13:15:19.131Z] [shard 2] JOBID 80926500692 attempt 1/3 - opening https://www.naukri.com/job-listings-ai-sr-ai-engineer-innovaccer-noida-1-to-4-years-080926500692
+[2026-09-18T13:15:19.963Z] [shard 2] JOBID 80926500692 COMPLETED - description captured (12881 chars)
+[2026-09-18T13:15:22.021Z] [shard 2] JOBID 80926500672 attempt 1/3 - opening https://www.naukri.com/job-listings-technical-lead-infinite-computer-solutions-india-pvt-ltd-bengaluru-5-to-7-years-080926500672
+[2026-09-18T13:15:22.899Z] [shard 2] JOBID 80926500672 COMPLETED - description captured (5651 chars)
+[2026-09-18T13:15:22.933Z] [shard 2] Checkpoint saved (375 completed so far)
+[2026-09-18T13:15:24.983Z] [shard 2] JOBID 80926500667 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-infinite-computer-solutions-india-pvt-ltd-hyderabad-2-to-7-years-080926500667
+[2026-09-18T13:15:25.938Z] [shard 2] JOBID 80926500667 COMPLETED - description captured (8752 chars)
+[2026-09-18T13:15:28.000Z] [shard 2] JOBID 80926500651 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-data-analytics-walmart-labs-bengaluru-5-to-7-years-080926500651
+[2026-09-18T13:15:28.873Z] [shard 2] JOBID 80926500651 COMPLETED - description captured (10592 chars)
+[2026-09-18T13:15:30.939Z] [shard 2] JOBID 80926500560 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-web-developer-highradius-hyderabad-5-to-8-years-080926500560
+[2026-09-18T13:15:31.864Z] [shard 2] JOBID 80926500560 COMPLETED - description captured (4913 chars)
+[2026-09-18T13:15:33.911Z] [shard 2] JOBID 80926500555 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-process-systems-engineer-spatial-analytics-ai-here-mumbai-3-to-8-years-080926500555
+[2026-09-18T13:15:34.861Z] [shard 2] JOBID 80926500555 COMPLETED - description captured (6607 chars)
+[2026-09-18T13:15:36.920Z] [shard 2] JOBID 80926500491 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-consultant-quantitative-risk-modelling-gt-us-shared-services-center-india-pvt-ltd-hyderabad-3-to-7-years-080926500491
+[2026-09-18T13:15:37.837Z] [shard 2] JOBID 80926500491 COMPLETED - description captured (5526 chars)
+[2026-09-18T13:15:37.856Z] [shard 2] Checkpoint saved (380 completed so far)
+[2026-09-18T13:15:39.923Z] [shard 2] JOBID 80926500489 attempt 1/3 - opening https://www.naukri.com/job-listings-generative-ai-agentic-ai-engineer-cloudthat-technologies-pvt-ltd-bengaluru-5-to-10-years-080926500489
+[2026-09-18T13:15:40.775Z] [shard 2] JOBID 80926500489 COMPLETED - description captured (7553 chars)
+[2026-09-18T13:15:42.837Z] [shard 2] JOBID 80926500483 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-bc-sector-health-data-engineering-digital-health-excellence-center-ernst-young-bengaluru-4-to-7-years-080926500483
+[2026-09-18T13:16:12.851Z] [shard 2] JOBID 80926500483 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:16:14.965Z] [shard 2] JOBID 80926500483 attempt 2/3 - opening https://www.naukri.com/job-listings-sr-bc-sector-health-data-engineering-digital-health-excellence-center-ernst-young-bengaluru-4-to-7-years-080926500483
+[2026-09-18T13:16:44.983Z] [shard 2] JOBID 80926500483 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:16:47.077Z] [shard 2] JOBID 80926500483 attempt 3/3 - opening https://www.naukri.com/job-listings-sr-bc-sector-health-data-engineering-digital-health-excellence-center-ernst-young-bengaluru-4-to-7-years-080926500483
+[2026-09-18T13:17:17.081Z] [shard 2] JOBID 80926500483 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:17:17.119Z] [shard 2] JOBID 80926500483 FAILED after 3 attempts - will retry on next run
+[2026-09-18T13:17:19.179Z] [shard 2] JOBID 80926500473 attempt 1/3 - opening https://www.naukri.com/job-listings-copilot-engineer-ernst-young-kolkata-4-to-7-years-080926500473
+[2026-09-18T13:17:20.298Z] [shard 2] JOBID 80926500473 COMPLETED - description captured (7591 chars)
+[2026-09-18T13:17:22.357Z] [shard 2] JOBID 80926500469 attempt 1/3 - opening https://www.naukri.com/job-listings-security-engineer-ernst-young-bengaluru-5-to-10-years-080926500469
+[2026-09-18T13:17:23.715Z] [shard 2] JOBID 80926500469 COMPLETED - description captured (9357 chars)
+[2026-09-18T13:17:25.769Z] [shard 2] JOBID 80926500463 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-tech-s-and-t-network-engineer-ernst-young-bengaluru-4-to-7-years-080926500463
+[2026-09-18T13:17:26.818Z] [shard 2] JOBID 80926500463 COMPLETED - description captured (6900 chars)
+[2026-09-18T13:17:28.879Z] [shard 2] JOBID 80926500446 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-specialist-technology-udhyam-learning-foundation-bengaluru-4-to-7-years-080926500446
+[2026-09-18T13:17:29.832Z] [shard 2] JOBID 80926500446 COMPLETED - description captured (5555 chars)
+[2026-09-18T13:17:29.874Z] [shard 2] Checkpoint saved (385 completed so far)
+[2026-09-18T13:17:31.938Z] [shard 2] JOBID 80926500442 attempt 1/3 - opening https://www.naukri.com/job-listings-product-developer-emerging-tech-edge-verve-chennai-2-to-7-years-080926500442
+[2026-09-18T13:17:32.882Z] [shard 2] JOBID 80926500442 COMPLETED - description captured (1966 chars)
+[2026-09-18T13:17:34.933Z] [shard 2] JOBID 80926500439 attempt 1/3 - opening https://www.naukri.com/job-listings-product-engineer-pe-emerging-tech-edge-verve-chennai-2-to-7-years-080926500439
+[2026-09-18T13:17:35.739Z] [shard 2] JOBID 80926500439 COMPLETED - description captured (2326 chars)
+[2026-09-18T13:17:37.794Z] [shard 2] JOBID 80926500433 attempt 1/3 - opening https://www.naukri.com/job-listings-product-developer-ev-edge-verve-bengaluru-2-to-4-years-080926500433
+[2026-09-18T13:17:38.595Z] [shard 2] JOBID 80926500433 COMPLETED - description captured (2131 chars)
+[2026-09-18T13:17:40.646Z] [shard 2] JOBID 80926500418 attempt 1/3 - opening https://www.naukri.com/job-listings-product-engineer-user-experience-edge-verve-bengaluru-2-to-7-years-080926500418
+[2026-09-18T13:17:41.491Z] [shard 2] JOBID 80926500418 COMPLETED - description captured (6241 chars)
+[2026-09-18T13:17:43.538Z] [shard 2] JOBID 80926500414 attempt 1/3 - opening https://www.naukri.com/job-listings-product-engineer-pe-edge-verve-bengaluru-0-to-3-years-080926500414
+[2026-09-18T13:17:44.358Z] [shard 2] JOBID 80926500414 COMPLETED - description captured (735 chars)
+[2026-09-18T13:17:44.388Z] [shard 2] Checkpoint saved (390 completed so far)
+[2026-09-18T13:17:46.455Z] [shard 2] JOBID 80926500413 attempt 1/3 - opening https://www.naukri.com/job-listings-product-engineer-pe-edge-verve-pune-0-to-3-years-080926500413
+[2026-09-18T13:17:47.264Z] [shard 2] JOBID 80926500413 COMPLETED - description captured (1022 chars)
+[2026-09-18T13:17:49.320Z] [shard 2] JOBID 80926500412 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-member-of-technical-staff-pe-edge-verve-bengaluru-5-to-10-years-080926500412
+[2026-09-18T13:17:50.144Z] [shard 2] JOBID 80926500412 COMPLETED - description captured (1541 chars)
+[2026-09-18T13:17:52.244Z] [shard 2] JOBID 80926500411 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-member-of-technical-staff-pe-edge-verve-pune-5-to-10-years-080926500411
+[2026-09-18T13:17:53.192Z] [shard 2] JOBID 80926500411 COMPLETED - description captured (934 chars)
+[2026-09-18T13:17:55.235Z] [shard 2] JOBID 80926500410 attempt 1/3 - opening https://www.naukri.com/job-listings-learning-architect-learning-services-ev-edge-verve-hyderabad-3-to-6-years-080926500410
+[2026-09-18T13:17:56.061Z] [shard 2] JOBID 80926500410 COMPLETED - description captured (5055 chars)
+[2026-09-18T13:17:58.118Z] [shard 2] JOBID 80926500400 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-product-manager-edge-verve-bengaluru-5-to-10-years-080926500400
+[2026-09-18T13:17:58.933Z] [shard 2] JOBID 80926500400 COMPLETED - description captured (5242 chars)
+[2026-09-18T13:17:58.965Z] [shard 2] Checkpoint saved (395 completed so far)
+[2026-09-18T13:18:01.015Z] [shard 2] JOBID 80926500397 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-consultant-ai-edge-verve-pune-1-to-5-years-080926500397
+[2026-09-18T13:18:01.898Z] [shard 2] JOBID 80926500397 COMPLETED - description captured (5246 chars)
+[2026-09-18T13:18:03.953Z] [shard 2] JOBID 80926500390 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-specialist-solution-architecture-edge-verve-bengaluru-3-to-6-years-080926500390
+[2026-09-18T13:18:04.777Z] [shard 2] JOBID 80926500390 COMPLETED - description captured (4418 chars)
+[2026-09-18T13:18:06.841Z] [shard 2] JOBID 80926500388 attempt 1/3 - opening https://www.naukri.com/job-listings-product-technical-analyst-emerging-tech-edge-verve-bengaluru-4-to-6-years-080926500388
+[2026-09-18T13:18:07.733Z] [shard 2] JOBID 80926500388 COMPLETED - description captured (3670 chars)
+[2026-09-18T13:18:09.791Z] [shard 2] JOBID 80926500377 attempt 1/3 - opening https://www.naukri.com/job-listings-member-of-technical-staff-pe-edge-verve-pune-2-to-7-years-080926500377
+[2026-09-18T13:18:10.664Z] [shard 2] JOBID 80926500377 COMPLETED - description captured (748 chars)
+[2026-09-18T13:18:12.716Z] [shard 2] JOBID 80926500376 attempt 1/3 - opening https://www.naukri.com/job-listings-member-of-technical-staff-pe-edge-verve-pune-2-to-7-years-080926500376
+[2026-09-18T13:18:13.689Z] [shard 2] JOBID 80926500376 COMPLETED - description captured (1077 chars)
+[2026-09-18T13:18:13.712Z] [shard 2] Checkpoint saved (400 completed so far)
+[2026-09-18T13:18:15.777Z] [shard 2] JOBID 80926500371 attempt 1/3 - opening https://www.naukri.com/job-listings-product-manager-edge-verve-bengaluru-5-to-10-years-080926500371
+[2026-09-18T13:18:16.754Z] [shard 2] JOBID 80926500371 COMPLETED - description captured (5326 chars)
+[2026-09-18T13:18:18.815Z] [shard 2] JOBID 80926500365 attempt 1/3 - opening https://www.naukri.com/job-listings-member-of-technical-staff-pe-edge-verve-bengaluru-2-to-7-years-080926500365
+[2026-09-18T13:18:19.710Z] [shard 2] JOBID 80926500365 COMPLETED - description captured (882 chars)
+[2026-09-18T13:18:21.775Z] [shard 2] JOBID 80926500363 attempt 1/3 - opening https://www.naukri.com/job-listings-member-of-technical-staff-tm-edge-verve-chennai-3-to-7-years-080926500363
+[2026-09-18T13:18:22.569Z] [shard 2] JOBID 80926500363 COMPLETED - description captured (4557 chars)
+[2026-09-18T13:18:24.616Z] [shard 2] JOBID 80926500358 attempt 1/3 - opening https://www.naukri.com/job-listings-specialist-solution-architecture-edge-verve-chennai-2-to-5-years-080926500358
+[2026-09-18T13:18:25.415Z] [shard 2] JOBID 80926500358 COMPLETED - description captured (3888 chars)
+[2026-09-18T13:18:27.476Z] [shard 2] JOBID 80926500357 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-specialist-solution-architecture-edge-verve-pune-3-to-6-years-080926500357
+[2026-09-18T13:18:28.375Z] [shard 2] JOBID 80926500357 COMPLETED - description captured (4897 chars)
+[2026-09-18T13:18:28.398Z] [shard 2] Checkpoint saved (405 completed so far)
+[2026-09-18T13:18:30.462Z] [shard 2] JOBID 80926500350 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-designer-experience-design-edge-verve-bengaluru-2-to-7-years-080926500350
+[2026-09-18T13:18:31.336Z] [shard 2] JOBID 80926500350 COMPLETED - description captured (4607 chars)
+[2026-09-18T13:18:33.392Z] [shard 2] JOBID 80926500344 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-ai-edge-verve-pune-1-to-4-years-080926500344
+[2026-09-18T13:18:34.281Z] [shard 2] JOBID 80926500344 COMPLETED - description captured (2336 chars)
+[2026-09-18T13:18:36.332Z] [shard 2] JOBID 80926500338 attempt 1/3 - opening https://www.naukri.com/job-listings-project-manager-ai-data-collection-annotation-edatabae-gurugram-2-to-5-years-080926500338
+[2026-09-18T13:18:37.328Z] [shard 2] JOBID 80926500338 COMPLETED - description captured (2647 chars)
+[2026-09-18T13:18:39.398Z] [shard 2] JOBID 80926500326 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-ii-eagleview-bengaluru-2-to-4-years-080926500326
+[2026-09-18T13:18:40.300Z] [shard 2] JOBID 80926500326 COMPLETED - description captured (9288 chars)
+[2026-09-18T13:18:42.372Z] [shard 2] JOBID 80926500278 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-full-stack-codal-inc-ahmedabad-5-to-10-years-080926500278
+[2026-09-18T13:18:43.234Z] [shard 2] JOBID 80926500278 COMPLETED - description captured (6628 chars)
+[2026-09-18T13:18:43.264Z] [shard 2] Checkpoint saved (410 completed so far)
+[2026-09-18T13:18:45.321Z] [shard 2] JOBID 80926500275 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-platform-ai-clearroute-hybrid-2-to-5-years-080926500275
+[2026-09-18T13:18:46.209Z] [shard 2] JOBID 80926500275 COMPLETED - description captured (2972 chars)
+[2026-09-18T13:18:48.265Z] [shard 2] JOBID 80926500270 attempt 1/3 - opening https://www.naukri.com/job-listings-digital-marketing-expert-google-linkedin-ads-cied-technologies-pvt-ltd-kochi-5-to-10-years-080926500270
+[2026-09-18T13:18:49.086Z] [shard 2] JOBID 80926500270 COMPLETED - description captured (4514 chars)
+[2026-09-18T13:18:51.135Z] [shard 2] JOBID 80926500268 attempt 1/3 - opening https://www.naukri.com/job-listings-account-specialist-check-point-software-technologies-ltd-bengaluru-3-to-8-years-080926500268
+[2026-09-18T13:19:21.155Z] [shard 2] JOBID 80926500268 attempt 1 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:19:23.245Z] [shard 2] JOBID 80926500268 attempt 2/3 - opening https://www.naukri.com/job-listings-account-specialist-check-point-software-technologies-ltd-bengaluru-3-to-8-years-080926500268
+[2026-09-18T13:19:53.258Z] [shard 2] JOBID 80926500268 attempt 2 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:19:55.346Z] [shard 2] JOBID 80926500268 attempt 3/3 - opening https://www.naukri.com/job-listings-account-specialist-check-point-software-technologies-ltd-bengaluru-3-to-8-years-080926500268
+[2026-09-18T13:20:25.353Z] [shard 2] JOBID 80926500268 attempt 3 - ERROR: page.waitForResponse: Timeout 30000ms exceeded while waiting for event "response"
+[2026-09-18T13:20:25.372Z] [shard 2] JOBID 80926500268 FAILED after 3 attempts - will retry on next run
+[2026-09-18T13:20:27.438Z] [shard 2] JOBID 80926500266 attempt 1/3 - opening https://www.naukri.com/job-listings-digital-marketing-executive-inbound-lead-generation-chapter-247-indore-3-to-5-years-080926500266
+[2026-09-18T13:20:28.337Z] [shard 2] JOBID 80926500266 COMPLETED - description captured (4776 chars)
+[2026-09-18T13:20:30.405Z] [shard 2] JOBID 80926500265 attempt 1/3 - opening https://www.naukri.com/job-listings-sap-project-manager-cashflo-mumbai-5-to-10-years-080926500265
+[2026-09-18T13:20:31.327Z] [shard 2] JOBID 80926500265 COMPLETED - description captured (8441 chars)
+[2026-09-18T13:20:33.379Z] [shard 2] JOBID 80926500262 attempt 1/3 - opening https://www.naukri.com/job-listings-quality-engineer-canalys-bengaluru-3-to-4-years-080926500262
+[2026-09-18T13:20:34.168Z] [shard 2] JOBID 80926500262 COMPLETED - description captured (7131 chars)
+[2026-09-18T13:20:34.185Z] [shard 2] Checkpoint saved (415 completed so far)
+[2026-09-18T13:20:36.252Z] [shard 2] JOBID 80926500261 attempt 1/3 - opening https://www.naukri.com/job-listings-software-engineer-ii-cadence-pune-0-to-5-years-080926500261
+[2026-09-18T13:20:37.125Z] [shard 2] JOBID 80926500261 COMPLETED - description captured (2447 chars)
+[2026-09-18T13:20:39.184Z] [shard 2] JOBID 80926500259 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-software-engineer-cadence-noida-5-to-10-years-080926500259
+[2026-09-18T13:20:40.050Z] [shard 2] JOBID 80926500259 COMPLETED - description captured (2054 chars)
+[2026-09-18T13:20:42.102Z] [shard 2] JOBID 80926500247 attempt 1/3 - opening https://www.naukri.com/job-listings-software-development-lead-brillio-2-bengaluru-4-to-6-years-080926500247
+[2026-09-18T13:20:42.939Z] [shard 2] JOBID 80926500247 COMPLETED - description captured (3060 chars)
+[2026-09-18T13:20:45.003Z] [shard 2] JOBID 80926500246 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-data-scientist-brillio-2-bengaluru-5-to-8-years-080926500246
+[2026-09-18T13:20:45.916Z] [shard 2] JOBID 80926500246 COMPLETED - description captured (3734 chars)
+[2026-09-18T13:20:47.980Z] [shard 2] JOBID 80926500244 attempt 1/3 - opening https://www.naukri.com/job-listings-lead-engineer-brillio-2-bengaluru-4-to-6-years-080926500244
+[2026-09-18T13:20:48.787Z] [shard 2] JOBID 80926500244 COMPLETED - description captured (4028 chars)
+[2026-09-18T13:20:48.845Z] [shard 2] Checkpoint saved (420 completed so far)
+[2026-09-18T13:20:50.906Z] [shard 2] JOBID 80926500243 attempt 1/3 - opening https://www.naukri.com/job-listings-data-scientist-brillio-2-bengaluru-4-to-6-years-080926500243
+[2026-09-18T13:20:51.906Z] [shard 2] JOBID 80926500243 COMPLETED - description captured (3624 chars)
+[2026-09-18T13:20:53.973Z] [shard 2] JOBID 80926500241 attempt 1/3 - opening https://www.naukri.com/job-listings-consultant-brillio-2-bengaluru-4-to-7-years-080926500241
+[2026-09-18T13:20:54.798Z] [shard 2] JOBID 80926500241 COMPLETED - description captured (2688 chars)
+[2026-09-18T13:20:56.848Z] [shard 2] JOBID 80926500237 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-software-development-blackbaud-hyderabad-3-to-8-years-080926500237
+[2026-09-18T13:20:58.136Z] [shard 2] JOBID 80926500237 COMPLETED - description captured (4067 chars)
+[2026-09-18T13:21:00.198Z] [shard 2] JOBID 80926500196 attempt 1/3 - opening https://www.naukri.com/job-listings-qa-engineer-automation-betsol-bengaluru-5-to-10-years-080926500196
+[2026-09-18T13:21:01.076Z] [shard 2] JOBID 80926500196 COMPLETED - description captured (10410 chars)
+[2026-09-18T13:21:03.132Z] [shard 2] JOBID 80926500179 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-ppk-reporting-analytics-coe-bain-company-india-pvt-ltd-new-delhi-4-to-7-years-080926500179
+[2026-09-18T13:21:04.059Z] [shard 2] JOBID 80926500179 COMPLETED - description captured (9016 chars)
+[2026-09-18T13:21:04.089Z] [shard 2] Checkpoint saved (425 completed so far)
+[2026-09-18T13:21:06.155Z] [shard 2] JOBID 80926500178 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-engineer-software-engineering-bain-company-india-pvt-ltd-new-delhi-3-to-5-years-080926500178
+[2026-09-18T13:21:07.052Z] [shard 2] JOBID 80926500178 COMPLETED - description captured (7093 chars)
+[2026-09-18T13:21:09.112Z] [shard 2] JOBID 80926500177 attempt 1/3 - opening https://www.naukri.com/job-listings-manager-digital-learning-design-bain-company-india-pvt-ltd-new-delhi-5-to-10-years-080926500177
+[2026-09-18T13:21:10.015Z] [shard 2] JOBID 80926500177 COMPLETED - description captured (8666 chars)
+[2026-09-18T13:21:12.068Z] [shard 2] JOBID 80926500175 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-engineer-i-tsg-infrastructure-bain-company-india-pvt-ltd-new-delhi-1-to-3-years-080926500175
+[2026-09-18T13:21:12.966Z] [shard 2] JOBID 80926500175 COMPLETED - description captured (7397 chars)
+[2026-09-18T13:21:15.025Z] [shard 2] JOBID 80926500173 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-engineer-tsg-software-engineering-bain-company-india-pvt-ltd-new-delhi-5-to-8-years-080926500173
+[2026-09-18T13:21:15.840Z] [shard 2] JOBID 80926500173 COMPLETED - description captured (9285 chars)
+[2026-09-18T13:21:17.900Z] [shard 2] JOBID 80926500171 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-analyst-practice-operations-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500171
+[2026-09-18T13:21:18.784Z] [shard 2] JOBID 80926500171 COMPLETED - description captured (10015 chars)
+[2026-09-18T13:21:18.811Z] [shard 2] Checkpoint saved (430 completed so far)
+[2026-09-18T13:21:20.867Z] [shard 2] JOBID 80926500168 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-sustainability-s-r-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500168
+[2026-09-18T13:21:21.809Z] [shard 2] JOBID 80926500168 COMPLETED - description captured (6298 chars)
+[2026-09-18T13:21:23.856Z] [shard 2] JOBID 80926500166 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-full-stack-ai-engineer-bain-company-india-pvt-ltd-new-delhi-5-to-8-years-080926500166
+[2026-09-18T13:21:24.716Z] [shard 2] JOBID 80926500166 COMPLETED - description captured (5497 chars)
+[2026-09-18T13:21:26.772Z] [shard 2] JOBID 80926500164 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-commercial-acceleration-performance-improvement-coe-bain-company-india-pvt-ltd-new-delhi-5-to-8-years-080926500164
+[2026-09-18T13:21:27.656Z] [shard 2] JOBID 80926500164 COMPLETED - description captured (7161 chars)
+[2026-09-18T13:21:29.715Z] [shard 2] JOBID 80926500163 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-peg-full-stack-developer-bain-company-india-pvt-ltd-new-delhi-2-to-4-years-080926500163
+[2026-09-18T13:21:30.633Z] [shard 2] JOBID 80926500163 COMPLETED - description captured (7602 chars)
+[2026-09-18T13:21:32.702Z] [shard 2] JOBID 80926500162 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-peg-ai-solutions-engineer-bain-company-india-pvt-ltd-new-delhi-2-to-4-years-080926500162
+[2026-09-18T13:21:33.591Z] [shard 2] JOBID 80926500162 COMPLETED - description captured (7605 chars)
+[2026-09-18T13:21:33.667Z] [shard 2] Checkpoint saved (435 completed so far)
+[2026-09-18T13:21:35.719Z] [shard 2] JOBID 80926500161 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-manager-solution-architect-peg-bain-company-india-pvt-ltd-new-delhi-5-to-10-years-080926500161
+[2026-09-18T13:21:36.680Z] [shard 2] JOBID 80926500161 COMPLETED - description captured (9416 chars)
+[2026-09-18T13:21:38.738Z] [shard 2] JOBID 80926500160 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-ai-engineer-cte-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500160
+[2026-09-18T13:21:39.939Z] [shard 2] JOBID 80926500160 COMPLETED - description captured (7018 chars)
+[2026-09-18T13:21:42.005Z] [shard 2] JOBID 80926500159 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-process-excellence-vector-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500159
+[2026-09-18T13:21:42.908Z] [shard 2] JOBID 80926500159 COMPLETED - description captured (8310 chars)
+[2026-09-18T13:21:44.970Z] [shard 2] JOBID 80926500157 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-vector-op-model-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500157
+[2026-09-18T13:21:46.068Z] [shard 2] JOBID 80926500157 COMPLETED - description captured (6425 chars)
+[2026-09-18T13:21:48.117Z] [shard 2] JOBID 80926500156 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-vector-generalist-bain-company-india-pvt-ltd-new-delhi-5-to-10-years-080926500156
+[2026-09-18T13:21:48.947Z] [shard 2] JOBID 80926500156 COMPLETED - description captured (7195 chars)
+[2026-09-18T13:21:48.961Z] [shard 2] Checkpoint saved (440 completed so far)
+[2026-09-18T13:21:51.019Z] [shard 2] JOBID 80926500155 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-enterprise-technology-coe-et-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500155
+[2026-09-18T13:21:51.921Z] [shard 2] JOBID 80926500155 COMPLETED - description captured (6429 chars)
+[2026-09-18T13:21:53.989Z] [shard 2] JOBID 80926500154 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-enr-oil-gas-bain-company-india-pvt-ltd-new-delhi-1-to-3-years-080926500154
+[2026-09-18T13:21:54.856Z] [shard 2] JOBID 80926500154 COMPLETED - description captured (6412 chars)
+[2026-09-18T13:21:56.904Z] [shard 2] JOBID 80926500153 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-enr-oil-gas-bain-company-india-pvt-ltd-new-delhi-4-to-6-years-080926500153
+[2026-09-18T13:21:57.801Z] [shard 2] JOBID 80926500153 COMPLETED - description captured (6529 chars)
+[2026-09-18T13:21:59.862Z] [shard 2] JOBID 80926500150 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-enr-capital-projects-coe-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500150
+[2026-09-18T13:22:01.063Z] [shard 2] JOBID 80926500150 COMPLETED - description captured (6936 chars)
+[2026-09-18T13:22:03.123Z] [shard 2] JOBID 80926500149 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-mergers-acquisitions-coe-bain-company-india-pvt-ltd-new-delhi-4-to-6-years-080926500149
+[2026-09-18T13:22:03.948Z] [shard 2] JOBID 80926500149 COMPLETED - description captured (5983 chars)
+[2026-09-18T13:22:03.983Z] [shard 2] Checkpoint saved (445 completed so far)
+[2026-09-18T13:22:06.041Z] [shard 2] JOBID 80926500148 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-mergers-acquisitions-coe-bain-company-india-pvt-ltd-new-delhi-2-to-4-years-080926500148
+[2026-09-18T13:22:06.990Z] [shard 2] JOBID 80926500148 COMPLETED - description captured (5894 chars)
+[2026-09-18T13:22:09.049Z] [shard 2] JOBID 80926500145 attempt 1/3 - opening https://www.naukri.com/job-listings-data-engineer-coro-products-bain-company-india-pvt-ltd-new-delhi-2-to-4-years-080926500145
+[2026-09-18T13:22:09.939Z] [shard 2] JOBID 80926500145 COMPLETED - description captured (6576 chars)
+[2026-09-18T13:22:11.996Z] [shard 2] JOBID 80926500144 attempt 1/3 - opening https://www.naukri.com/job-listings-staff-i-data-engineer-coro-products-bain-company-india-pvt-ltd-new-delhi-5-to-8-years-080926500144
+[2026-09-18T13:22:12.897Z] [shard 2] JOBID 80926500144 COMPLETED - description captured (7502 chars)
+[2026-09-18T13:22:14.948Z] [shard 2] JOBID 80926500143 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-consultant-bain-company-india-pvt-ltd-bengaluru-1-to-3-years-080926500143
+[2026-09-18T13:22:15.931Z] [shard 2] JOBID 80926500143 COMPLETED - description captured (8062 chars)
+[2026-09-18T13:22:17.994Z] [shard 2] JOBID 80926500141 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-viz-coe-genai-fullstack-bain-company-india-pvt-ltd-new-delhi-5-to-7-years-080926500141
+[2026-09-18T13:22:18.882Z] [shard 2] JOBID 80926500141 COMPLETED - description captured (9611 chars)
+[2026-09-18T13:22:18.914Z] [shard 2] Checkpoint saved (450 completed so far)
+[2026-09-18T13:22:20.961Z] [shard 2] JOBID 80926500139 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-ai-ml-engineer-sustainability-bain-company-india-pvt-ltd-new-delhi-2-to-4-years-080926500139
+[2026-09-18T13:22:21.932Z] [shard 2] JOBID 80926500139 COMPLETED - description captured (6996 chars)
+[2026-09-18T13:22:23.996Z] [shard 2] JOBID 80926500138 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-ai-ml-engineer-consumer-products-ai-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500138
+[2026-09-18T13:22:24.976Z] [shard 2] JOBID 80926500138 COMPLETED - description captured (6331 chars)
+[2026-09-18T13:22:27.033Z] [shard 2] JOBID 80926500136 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-data-engineer-data-business-coe-bain-company-india-pvt-ltd-new-delhi-5-to-10-years-080926500136
+[2026-09-18T13:22:27.983Z] [shard 2] JOBID 80926500136 COMPLETED - description captured (6101 chars)
+[2026-09-18T13:22:30.047Z] [shard 2] JOBID 80926500134 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-vector-generalist-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500134
+[2026-09-18T13:22:30.975Z] [shard 2] JOBID 80926500134 COMPLETED - description captured (7118 chars)
+[2026-09-18T13:22:33.027Z] [shard 2] JOBID 80926500133 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-vector-tech-cost-bain-company-india-pvt-ltd-new-delhi-2-to-5-years-080926500133
+[2026-09-18T13:22:34.080Z] [shard 2] JOBID 80926500133 COMPLETED - description captured (6340 chars)
+[2026-09-18T13:22:34.091Z] [shard 2] Checkpoint saved (455 completed so far)
+[2026-09-18T13:22:36.152Z] [shard 2] JOBID 80926500132 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-vector-commercial-cd-bain-company-india-pvt-ltd-new-delhi-5-to-10-years-080926500132
+[2026-09-18T13:22:37.546Z] [shard 2] JOBID 80926500132 COMPLETED - description captured (7439 chars)
+[2026-09-18T13:22:39.606Z] [shard 2] JOBID 80926500131 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-vector-tech-cost-bain-company-india-pvt-ltd-new-delhi-5-to-10-years-080926500131
+[2026-09-18T13:22:40.467Z] [shard 2] JOBID 80926500131 COMPLETED - description captured (6337 chars)
+[2026-09-18T13:22:42.522Z] [shard 2] JOBID 80926500128 attempt 1/3 - opening https://www.naukri.com/job-listings-project-leader-people-org-data-statistician-bain-company-india-pvt-ltd-new-delhi-5-to-10-years-080926500128
+[2026-09-18T13:22:43.689Z] [shard 2] JOBID 80926500128 COMPLETED - description captured (7117 chars)
+[2026-09-18T13:22:45.755Z] [shard 2] JOBID 80926500127 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-associate-org-coe-data-engineer-bain-company-india-pvt-ltd-new-delhi-5-to-7-years-080926500127
+[2026-09-18T13:22:46.690Z] [shard 2] JOBID 80926500127 COMPLETED - description captured (8348 chars)
+[2026-09-18T13:22:48.739Z] [shard 2] JOBID 80926500123 attempt 1/3 - opening https://www.naukri.com/job-listings-ppk-sr-knowledge-specialist-retail-bain-company-india-pvt-ltd-new-delhi-4-to-9-years-080926500123
+[2026-09-18T13:22:49.659Z] [shard 2] JOBID 80926500123 COMPLETED - description captured (8604 chars)
+[2026-09-18T13:22:49.693Z] [shard 2] Checkpoint saved (460 completed so far)
+[2026-09-18T13:22:51.745Z] [shard 2] JOBID 80926500119 attempt 1/3 - opening https://www.naukri.com/job-listings-associate-ai-data-engineer-retail-bain-company-india-pvt-ltd-new-delhi-2-to-4-years-080926500119
+[2026-09-18T13:22:52.595Z] [shard 2] JOBID 80926500119 COMPLETED - description captured (6565 chars)
+[2026-09-18T13:22:54.706Z] [shard 2] Run finished. Rows in range: 466. Completed: 461. Skipped (no URL): 0. Failed: 5.
