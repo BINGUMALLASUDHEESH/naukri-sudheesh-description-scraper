@@ -1,7 +1,0 @@
-[2026-09-18T08:01:47.112Z] [shard 5] Input CSV loaded: 25 total rows, 57 columns
-[2026-09-18T08:01:47.113Z] [shard 5] SHARDED MODE: processing rows 9-10 (of 25 total)
-[2026-09-18T08:01:52.592Z] [shard 5] JOBID 160926041464 attempt 1/3 - opening https://www.naukri.com/job-listings-gtm-leader-us-market-aionos-hyderabad-gurugram-bengaluru-25-to-31-years-160926041464
-[2026-09-18T08:01:54.438Z] [shard 5] JOBID 160926041464 COMPLETED - description captured (4765 chars)
-[2026-09-18T08:01:56.516Z] [shard 5] JOBID 100926926532 attempt 1/3 - opening https://www.naukri.com/job-listings-program-project-management-services-manager-fujitsu-consulting-india-pvt-ltd-noida-chennai-bengaluru-22-to-25-years-100926926532
-[2026-09-18T08:01:57.392Z] [shard 5] JOBID 100926926532 COMPLETED - description captured (6886 chars)
-[2026-09-18T08:01:59.565Z] [shard 5] Run finished. Rows in range: 2. Completed: 2. Skipped (no URL): 0. Failed: 0.

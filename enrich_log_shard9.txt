@@ -1,7 +1,0 @@
-[2026-09-18T08:01:42.625Z] [shard 9] Input CSV loaded: 25 total rows, 57 columns
-[2026-09-18T08:01:42.626Z] [shard 9] SHARDED MODE: processing rows 17-18 (of 25 total)
-[2026-09-18T08:01:45.269Z] [shard 9] JOBID 70926502278 attempt 1/3 - opening https://www.naukri.com/job-listings-sr-software-engineer-devops-zeiss-pharmaceutical-s-bengaluru-25-to-30-years-070926502278
-[2026-09-18T08:01:46.720Z] [shard 9] JOBID 70926502278 COMPLETED - description captured (3296 chars)
-[2026-09-18T08:01:48.795Z] [shard 9] JOBID 70926500568 attempt 1/3 - opening https://www.naukri.com/job-listings-data-engineer-ii-envestnet-asset-management-india-p-ltd-thiruvananthapuram-25-to-30-years-070926500568
-[2026-09-18T08:01:49.777Z] [shard 9] JOBID 70926500568 COMPLETED - description captured (8187 chars)
-[2026-09-18T08:01:51.903Z] [shard 9] Run finished. Rows in range: 2. Completed: 2. Skipped (no URL): 0. Failed: 0.
